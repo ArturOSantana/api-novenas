@@ -40,14 +40,14 @@ export function listarNovenas(req: Request, res: Response): void {
   }
 
   if (intencao) {
-    const termo = String(intencao).toLowerCase();
+    const termo = String(intencao).slice(0, 100).toLowerCase();
     resultado = resultado.filter((n) =>
       n.intencoes.some((i: string) => i.toLowerCase().includes(termo))
     );
   }
 
   if (q) {
-    const termo = String(q).toLowerCase();
+    const termo = String(q).slice(0, 100).toLowerCase();
     resultado = resultado.filter(
       (n) =>
         n.nome.toLowerCase().includes(termo) ||
@@ -65,11 +65,11 @@ export function listarNovenas(req: Request, res: Response): void {
 }
 
 export function buscarNovenaPorSlug(req: Request, res: Response): void {
-  const { slug } = req.params;
+  const slug = String(req.params.slug).slice(0, 100).replace(/[^a-z0-9-]/g, '');
   const novena = todasNovenas.find((n) => n.slug === slug);
 
   if (!novena) {
-    const erro: ApiErro = { sucesso: false, erro: `Novena com slug "${slug}" não encontrada.`, codigo: 404 };
+    const erro: ApiErro = { sucesso: false, erro: 'Novena não encontrada.', codigo: 404 };
     res.status(404).json(erro);
     return;
   }
@@ -79,11 +79,12 @@ export function buscarNovenaPorSlug(req: Request, res: Response): void {
 }
 
 export function buscarDiaDaNovena(req: Request, res: Response): void {
-  const { slug, dia } = req.params;
+  const slug = String(req.params.slug).slice(0, 100).replace(/[^a-z0-9-]/g, '');
+  const { dia } = req.params;
   const novena = todasNovenas.find((n) => n.slug === slug);
 
   if (!novena) {
-    const erro: ApiErro = { sucesso: false, erro: `Novena com slug "${slug}" não encontrada.`, codigo: 404 };
+    const erro: ApiErro = { sucesso: false, erro: 'Novena não encontrada.', codigo: 404 };
     res.status(404).json(erro);
     return;
   }

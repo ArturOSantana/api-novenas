@@ -9,14 +9,14 @@ export function listarSantos(req: Request, res: Response): void {
   let resultado = santos;
 
   if (categoria) {
-    const termo = String(categoria).toLowerCase();
+    const termo = String(categoria).slice(0, 100).toLowerCase();
     resultado = resultado.filter((s) =>
       s.categorias.some((c) => c.toLowerCase().includes(termo))
     );
   }
 
   if (q) {
-    const termo = String(q).toLowerCase();
+    const termo = String(q).slice(0, 100).toLowerCase();
     resultado = resultado.filter(
       (s) =>
         s.nome.toLowerCase().includes(termo) ||
@@ -34,11 +34,11 @@ export function listarSantos(req: Request, res: Response): void {
 }
 
 export function buscarSantoPorSlug(req: Request, res: Response): void {
-  const { slug } = req.params;
+  const slug = String(req.params.slug).slice(0, 100).replace(/[^a-z0-9-]/g, '');
   const santo = santos.find((s) => s.slug === slug);
 
   if (!santo) {
-    const erro: ApiErro = { sucesso: false, erro: `Santo com slug "${slug}" não encontrado.`, codigo: 404 };
+    const erro: ApiErro = { sucesso: false, erro: 'Santo não encontrado.', codigo: 404 };
     res.status(404).json(erro);
     return;
   }
