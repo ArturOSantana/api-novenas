@@ -1,0 +1,242 @@
+[
+  {
+    "id": "santa-maria-mae-de-deus",
+    "slug": "novena-santa-maria-mae-de-deus",
+    "nome": "Novena a Santa Maria Mãe de Deus",
+    "santoSlug": "nossa-senhora",
+    "mes": 1,
+    "inicioMes": 12,
+    "inicioDia": 23,
+    "fimMes": 1,
+    "fimDia": 1,
+    "descricao": "Novena que une o fim do Natal ao início do Ano Novo, pedindo a intercessão de Maria, Mãe de Deus, para abençoar o novo ano.",
+    "intencoes": ["Família", "Proteção", "Novo Ano"],
+    "oracaoInicial": "Ó Maria, Mãe de Deus e Mãe nossa, vós que fostes escolhida entre todas as mulheres para ser a Mãe do Salvador, olhai para nós com ternura maternal. Apresentai ao vosso Filho divino as nossas súplicas e obtende-nos as graças de que necessitamos. Amém.",
+    "oracaoFinal": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós clamamos os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Maria, Cheia de Graça",
+        "oracao": "Ó Maria Santíssima, contemplamos hoje o mistério sublime da vossa plena graça. Vós fostes preservada de todo pecado desde o primeiro instante de vossa existência, para serdes o vaso digno que conteria o Verbo eterno. Ensinai-nos a acolher a graça divina em nossas vidas com a mesma docilidade com que a acolhestes. Que possamos dizer, como vós, nosso 'sim' pleno a Deus. Amém.",
+        "meditacao": "Hoje meditamos sobre o Imaculado Coração de Maria e a graça que transbordava de sua alma. Maria não alcançou a graça por méritos próprios, mas recebeu-a como dom gratuito de Deus que a preparou para ser Mãe do Salvador. Assim somos nós: nada merecemos, mas Deus nos ama gratuitamente. Peça hoje ao Senhor que encha seu coração da mesma graça que encheu o coração de Maria.",
+        "escritura": "\"Alegra-te, cheia de graça, o Senhor é contigo.\" (Lc 1,28)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Maria, Mãe de Deus",
+        "oracao": "Santíssima Virgem Maria, Mãe de Deus e Mãe nossa, contemplamos hoje o mistério incompreensível de vossa divina maternidade. Vós fostes a primeira a acolher o Verbo encarnado em vossas entranhas virginais. Intercedei por nós junto ao vosso Filho, para que abençoe o novo ano que se inicia. Amém.",
+        "meditacao": "O título 'Mãe de Deus' (Theotokos) foi definido pelo Concílio de Éfeso em 431, mas a realidade é eterna: Maria gerou aquele que é verdadeiro Deus e verdadeiro homem. Ao aceitar a maternidade divina, Maria abraçou também toda a humanidade como seus filhos. Neste início de ano, recorra a ela como Mãe.",
+        "escritura": "\"Quando chegou a plenitude dos tempos, Deus enviou seu Filho, nascido de mulher.\" (Gl 4,4)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Maria, Modelo de Fé",
+        "oracao": "Maria, mulher de fé perfeita, vós acreditastes quando tudo parecia impossível. Quando o anjo vos anunciou que seríeis Mãe do Altíssimo, não duvidaste, mas perguntastes como e dissestes sim. Fortalecei a nossa fé vacilante. Quando duvidamos das promessas de Deus, lembrai-nos do vosso 'sim' que mudou a história. Amém.",
+        "meditacao": "A fé de Maria não era uma fé cega: ela perguntou como aconteceria o que o anjo anunciava. Mas ao receber a resposta, confiou completamente. Nossa fé também pode fazer perguntas — Deus não teme nossas dúvidas. O que Ele pede é que, ao final, confiemos como Maria confiou.",
+        "escritura": "\"Bem-aventurada aquela que creu no cumprimento do que lhe foi dito da parte do Senhor.\" (Lc 1,45)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Maria, Espelho de Santidade",
+        "oracao": "Santíssima Maria, espelho de toda santidade, olhando para vós vemos o que a graça de Deus é capaz de realizar numa alma humana. Vós que vivestes em total conformidade com a vontade divina, guiai-nos neste novo ano para que possamos crescer em santidade. Não a santidade dos grandes gestos, mas a do amor cotidiano, fiel e silencioso. Amém.",
+        "meditacao": "A santidade de Maria não se expressou em feitos extraordinários, mas numa vida ordinária vivida com amor extraordinário. Ela criou uma família, cuidou do lar, enfrentou provações. Sua santidade estava na qualidade com que realizava cada ato simples. Pergunte-se hoje: como estou vivendo os meus atos simples?",
+        "escritura": "\"Todas as gerações me chamarão bem-aventurada.\" (Lc 1,48)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Maria, Nossa Advogada",
+        "oracao": "Maria, advogada e intercessora poderosa, recorrei ao vosso Filho em nosso favor. Apresentai-lhe as lágrimas dos que sofrem, as angústias dos que agonizam, as súplicas dos pobres, as necessidades das famílias. Que por vossa intercedência maternal, o Senhor nos alcance com sua misericórdia. Amém.",
+        "meditacao": "Em Caná, Maria percebeu a falta de vinho antes que alguém pedisse. Ela intercedeu espontaneamente, movida pela compaixão. Esta é a nossa mãe: que percebe nossas necessidades antes mesmo que as articulemos. Confie sua necessidade de hoje ao coração de Maria.",
+        "escritura": "\"Fazei tudo o que ele vos disser.\" (Jo 2,5)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Maria, Mãe da Igreja",
+        "oracao": "Maria Santíssima, Mãe da Igreja, vós que estivestes no cenáculo orando com os apóstolos ao aguardar o Espírito Santo, intercedei pela Igreja hoje. Por tantos que a abandonaram, pelos que a atacam, pelos seus pastores e pelo Santo Padre. Que a Igreja seja, como vós, sinal de misericórdia e esperança no mundo. Amém.",
+        "meditacao": "O Papa Paulo VI proclamou Maria 'Mãe da Igreja' no Concílio Vaticano II. Sob a cruz, Jesus entregou Maria a João — e em João, a todos nós. Desde então, Maria exerce sua maternidade espiritual sobre cada membro do Corpo de Cristo. Você é filho desta mãe.",
+        "escritura": "\"Eis aí tua mãe.\" (Jo 19,27)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Maria, Rainha da Paz",
+        "oracao": "Maria, Rainha da Paz, em tempos de tanta violência e agitação, o mundo precisa da paz que só vosso Filho pode dar. Intercedei por todas as nações em conflito, pelas famílias dilaceradas pela discórdia, pelos corações feridos pelo ódio. Que o Príncipe da Paz reine em nossos lares e em nossos corações. Amém.",
+        "meditacao": "As aparições de Nossa Senhora em Fátima tiveram como tema central a paz do mundo. Maria veio pedir oração, penitência e conversão como caminhos para a paz. Neste novo ano, que começa, pergunte-se: como você pode ser um instrumento de paz na sua família, no seu trabalho, na sua comunidade?",
+        "escritura": "\"A paz vos deixo, a minha paz vos dou.\" (Jo 14,27)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Maria, Estrela da Manhã",
+        "oracao": "Maria, Estrela da Manhã que anuncia o Sol da Justiça, iluminai os caminhos que percorreremos neste ano. Quando a noite da dúvida, do medo e da tristeza cair sobre nós, que vossa luz nos guie até o Senhor. Sede a estrela que orienta nossa navegação em meio às tempestades da vida. Amém.",
+        "meditacao": "Os navegadores medievais chamavam a Estrela Polar de 'Stella Maris' — Estrela do Mar — e a associavam a Maria. Em meio ao oceano das incertezas, Maria é o ponto fixo que orienta. Ao começar este ano, coloque seus planos, sonhos e medos sob a guia de Nossa Senhora.",
+        "escritura": "\"Eu sou a luz do mundo.\" (Jo 8,12) — palavras de Cristo, cujo reflexo brilha em Maria."
+      },
+      {
+        "dia": 9,
+        "titulo": "Maria, Nossa Mãe no Novo Ano",
+        "oracao": "Santíssima Virgem Maria, ao concluirmos esta novena e iniciarmos um novo ano, consagramo-nos a vós. Sede nossa mãe em cada momento: nos dias de alegria e nos dias de pranto. Apresentai ao vosso Filho nossos projetos, nossos medos e nossas esperanças. Que este ano seja vivido sob vosso manto protetor. Amém.",
+        "meditacao": "Maria 'guardava todas essas coisas e as meditava em seu coração' (Lc 2,19). Ela não entendia tudo, mas preservava tudo com amor. Assim deve ser nossa caminhada de fé: nem sempre entendemos o que Deus permite, mas podemos, como Maria, guardar e meditar, confiando que Ele sabe o que faz.",
+        "escritura": "\"Maria guardava todas essas coisas e as meditava em seu coração.\" (Lc 2,19)"
+      }
+    ]
+  },
+  {
+    "id": "sao-jose-anchieta",
+    "slug": "novena-sao-jose-anchieta",
+    "nome": "Novena a São José de Anchieta",
+    "santoSlug": "sao-jose-anchieta",
+    "mes": 1,
+    "inicioMes": 1,
+    "inicioDia": 8,
+    "fimMes": 1,
+    "fimDia": 16,
+    "descricao": "Novena ao jesuíta espanhol apóstolo do Brasil, fundador de cidades e defensor dos indígenas.",
+    "intencoes": ["Brasil", "Missões", "Educação"],
+    "oracaoInicial": "Ó Deus, que por meio de vosso servo José de Anchieta plantastes a semente do Evangelho na terra brasileira, concedei-nos, por sua intercessão, o ardor missionário e o amor ao próximo que tanto o distinguiram. Amém.",
+    "oracaoFinal": "São José de Anchieta, apóstolo do Brasil, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Anchieta, o Missionário",
+        "oracao": "São José de Anchieta, que deixastes a Europa para dedicar vossa vida ao anúncio do Evangelho nas terras do Brasil, intercedei por todos os missionários. Que o ardor que vos consumia acenda também nos nossos corações o desejo de levar Cristo a todos. Amém.",
+        "meditacao": "Anchieta chegou ao Brasil em 1553, com apenas 19 anos, doente de tuberculose. Apesar da fragilidade física, sua força espiritual era enorme. Quantas vezes nossa fraqueza nos impede de responder ao chamado de Deus? Anchieta nos ensina que Deus não escolhe os capazes — Ele capacita os escolhidos.",
+        "escritura": "\"Ide pelo mundo inteiro e anunciai o Evangelho a toda criatura.\" (Mc 16,15)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Anchieta, Apóstolo dos Índios",
+        "oracao": "São José de Anchieta, defensor incansável dos povos indígenas, que aprendestes as línguas nativas para anunciar-lhes Cristo, intercedei pelos povos originários do Brasil. Que sejam respeitados em sua dignidade, suas terras e sua cultura. Amém.",
+        "meditacao": "Anchieta aprendeu o tupi para comunicar o Evangelho sem intermediários. Ele não pediu que os índios aprendessem o português: foi ele que se adaptou. Esta é a lógica da Encarnação — Deus veio ao nosso nível para nos elevar ao Seu. Como você vai ao encontro do outro, em vez de esperar que ele venha até você?",
+        "escritura": "\"Fiz-me tudo para todos, para ganhar de qualquer forma alguns.\" (1Cor 9,22)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Anchieta, Poeta e Escritor",
+        "oracao": "São Anchieta, que utilizastes a poesia, o teatro e a música a serviço do Evangelho, intercedei por todos os artistas cristãos. Que a beleza da arte seja sempre posta a serviço de Deus e da evangelização. Que cada dom artístico seja consagrado ao Criador de toda beleza. Amém.",
+        "meditacao": "Anchieta escreveu poemas em honra de Nossa Senhora nas areias de Iperoig, enquanto era refém dos tupinambás. Mesmo em perigo de morte, sua alma cantava. A arte nasce da profundeza da alma. A que altura se encontra a sua alma hoje para que possa cantar mesmo no sofrimento?",
+        "escritura": "\"Cantai ao Senhor um cântico novo; toda a terra cante ao Senhor.\" (Sl 96,1)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Anchieta, Fundador de Cidades",
+        "oracao": "São José de Anchieta, que fundaste cidades que hoje são metrópoles — como São Paulo e Rio de Janeiro —, abençoai as nossas cidades. Que em cada urbe brasileira haja espaço para Deus, para o pobre e para a fraternidade. Que a fé seja sempre a pedra angular de toda civilização. Amém.",
+        "meditacao": "Em 25 de janeiro de 1554, Anchieta e o Padre Manuel da Nóbrega fundaram a Casa de São Paulo de Piratininga — origem da maior cidade da América Latina. Uma pequena escola de catequese gerou uma metrópole de 20 milhões. Os pequenos começos de fé podem mudar o mundo.",
+        "escritura": "\"O reino dos céus é semelhante a um grão de mostarda.\" (Mt 13,31)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Anchieta, Homem de Oração",
+        "oracao": "São Anchieta, que equilibrastes a vida contemplativa com a ação apostólica, ensinai-nos a unir oração e missão. Que nunca nos tornemos tão ocupados com as obras de Deus que nos esqueçamos do próprio Deus. Que a oração seja sempre a raiz que alimenta toda atividade apostólica. Amém.",
+        "meditacao": "Anchieta passava longas horas em oração, inclusive acordando durante a noite. Paradoxalmente, este homem de oração intensa foi um dos mais produtivos da história brasileira. A contemplação não afasta da ação — a aprofunda e a purifica. Quanto tempo de oração você tem em seu dia?",
+        "escritura": "\"Orai sem cessar.\" (1Ts 5,17)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Anchieta e Nossa Senhora",
+        "oracao": "São Anchieta, filho devotíssimo de Nossa Senhora, que escrevestes em sua honra o poema mais longo da literatura brasileira do século XVI, ensinai-nos a amar a Mãe de Deus. Que Maria seja, como foi para vós, a Mãe que nos conduz a Jesus. Amém.",
+        "meditacao": "O 'Poema à Virgem' de Anchieta tem 5.765 versos — escrito nas areias durante o cativeiro. Maria foi sua proteção e inspiração. A devoção mariana não é desvio de Cristo: é caminho para Ele. Maria sempre aponta para o Filho: 'Fazei o que ele vos disser.'",
+        "escritura": "\"Fazei tudo o que ele vos disser.\" (Jo 2,5)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Anchieta, Servo dos Pobres",
+        "oracao": "São Anchieta, que servistes os pobres e doentes com dedicação heroica, intercedei pelos marginalizados do Brasil. Pelos indígenas, pelos quilombolas, pelos sem-terra e pelos moradores de rua. Que a Igreja continue sendo, como vós, a voz dos sem-voz. Amém.",
+        "meditacao": "Anchieta tratava dos doentes mesmo quando contraía suas enfermidades. Ele via Cristo no rosto do pobre e do doente. São Mateus 25 é o critério do juízo final: 'Tive fome e me destes de comer'. Como você está servindo a Cristo nos pobres ao seu redor?",
+        "escritura": "\"O que fizestes a um destes meus irmãos mais pequeninos, a mim o fizestes.\" (Mt 25,40)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Anchieta, Modelo de Perseverança",
+        "oracao": "São Anchieta, que persististes no apostolado por mais de 40 anos apesar das doenças, das dificuldades e das incompreensões, intercedei pelos que desanimam em sua vocação. Que todos os consagrados e leigos encontrem em vós modelo de fidelidade perseverante. Amém.",
+        "meditacao": "Anchieta morreu em 1597, após 44 anos de missão no Brasil, ainda com a boca cheia de cânticos. Perseverou até o fim. Em nossa era de instantaneidade, perseverar parece fora de moda. Mas é na perseverança que se provam os grandes amores. Que graça você precisa pedir para não desanimar em seu caminho?",
+        "escritura": "\"O que perseverar até o fim será salvo.\" (Mt 10,22)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Anchieta, Patrono do Brasil",
+        "oracao": "São José de Anchieta, patrono do Brasil e apóstolo das Américas, abençoai esta nação que tanto amaste. Intercedei pela conversão do povo brasileiro, pela unidade da Igreja e pela justiça social. Que o Brasil cumpra sua vocação cristã de ser uma terra de fraternidade e esperança para o mundo. Amém.",
+        "meditacao": "Anchieta foi beatificado por João Paulo II em 1980 e canonizado por Francisco em 2014. O Brasil o reconhece como seu apóstolo. Mas Anchieta não pertence apenas ao passado: ele intercede ainda hoje por este povo que amou. Peça hoje, concretamente, uma graça para o Brasil.",
+        "escritura": "\"Edificarei a minha Igreja, e as portas do inferno não prevalecerão contra ela.\" (Mt 16,18)"
+      }
+    ]
+  },
+  {
+    "id": "sao-josemaria-escriva",
+    "slug": "novena-sao-josemaria-escriva",
+    "nome": "Novena a São Josemaría Escrivá",
+    "santoSlug": "sao-josemaria-escriva",
+    "mes": 6,
+    "inicioMes": 6,
+    "inicioDia": 17,
+    "fimMes": 6,
+    "fimDia": 26,
+    "descricao": "Novena ao fundador do Opus Dei, apóstolo da santificação do trabalho e das atividades ordinárias da vida cristã.",
+    "intencoes": ["Vocação", "Trabalho", "Santidade no Cotidiano"],
+    "oracaoInicial": "Ó Deus, que por meio de São Josemaría Escrivá fizestes crescer na Igreja o espírito de serviço, o amor à liberdade e a busca da santidade na vida ordinária, concedei-nos, por sua intercessão, viver o nosso trabalho e vida familiar como autêntica missão apostólica. Amém.",
+    "oracaoFinal": "São Josemaría Escrivá, que tanto amaste a Cruz de Cristo e ensinaste o mundo que a santidade é para todos, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Santidade na Vida Ordinária",
+        "oracao": "São Josemaría Escrivá, que recebestes de Deus a missão de anunciar que todos são chamados à santidade — não apenas os religiosos, mas os médicos, os pais de família, os estudantes e os operários —, intercedei por nós. Que compreendamos que nossa vida ordinária é o campo onde Deus nos convida a ser santos. Amém.",
+        "meditacao": "A grande mensagem de Josemaría era: 'Não há tarefa que seja pequena demais para ser santificada.' Deus não nos pede façanhas extraordinárias, mas fidelidade nas coisas pequenas. O seu trabalho de hoje — por mais rotineiro que pareça — pode ser uma oração, se realizado com amor e intenção reta.",
+        "escritura": "\"Portanto, quer comais, quer bebais, quer façais qualquer outra coisa, fazei tudo para a glória de Deus.\" (1Cor 10,31)"
+      },
+      {
+        "dia": 2,
+        "titulo": "O Trabalho Santificado",
+        "oracao": "São Josemaría, que ensinastes que o trabalho honesto é caminho de santificação e meio de apostolado, ajudai-nos a ver nossa profissão com olhos de fé. Que nunca separemos nossa vida profissional de nossa vida espiritual, mas que cada ofício seja exercido como missão divina. Amém.",
+        "meditacao": "Josemaría costumava dizer: 'Santificar o trabalho, santificar-se no trabalho, santificar os outros pelo trabalho.' Estes três verbos são um programa completo de vida cristã. Pergunte-se hoje: como posso santificar o meu trabalho específico? Com competência, com integridade, com alegria?",
+        "escritura": "\"Sede perfeitos como vosso Pai celeste é perfeito.\" (Mt 5,48)"
+      },
+      {
+        "dia": 3,
+        "titulo": "A Filiação Divina",
+        "oracao": "São Josemaría, que tanto insististes na consciência da nossa condição de filhos de Deus, ensinai-nos a viver esta filiação divina como fonte de segurança e alegria. Que saibamos que somos amados por um Pai que conta cada fio de cabelo de nossa cabeça. Amém.",
+        "meditacao": "Para Josemaría, a filiação divina era 'a pedra angular' de toda a espiritualidade. Saber que sou filho de Deus — não servo, não empregado, mas filho — muda tudo. Muda como enfrento os problemas, como trato os outros, como vejo a mim mesmo. Passe um momento hoje repetindo: 'Sou filho de Deus.'",
+        "escritura": "\"Vede que amor nos deu o Pai: sermos chamados filhos de Deus; e nós o somos.\" (1Jo 3,1)"
+      },
+      {
+        "dia": 4,
+        "titulo": "A Liberdade Cristã",
+        "oracao": "São Josemaría, que amaste profundamente a liberdade dos filhos de Deus e resististe a qualquer clericalismo ou paternalismo espiritual, intercedei por nós. Que saibamos usar a liberdade com responsabilidade, discernindo com nossa consciência iluminada pela fé. Amém.",
+        "meditacao": "Josemaría defendia que cada cristão tem total liberdade para suas opções políticas, profissionais e culturais. A fé não é uma camisa de força — é uma luz que ilumina a liberdade. O problema não é a liberdade, mas usá-la para o bem ou para o mal. Como você está usando sua liberdade hoje?",
+        "escritura": "\"Vós, irmãos, fostes chamados à liberdade.\" (Gl 5,13)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Cruz e a Alegria",
+        "oracao": "São Josemaría, que vivestes intensamente a espiritualidade da Cruz — chegando mesmo a pedir a Deus os sofrimentos que purificam a alma —, ensinai-nos a encontrar alegria no meio das dificuldades. Que a Cruz de Cristo não seja para nós fardo, mas asas. Amém.",
+        "meditacao": "Josemaría dizia: 'Cruz sem Cristo é peso insuportável; Cruz com Cristo é asa que eleva.' O sofrimento cristão não é masoquismo — é participação no mistério redentor de Jesus. Qual é a sua 'cruz' atual? Ofereça-a hoje a Deus, unindo-a à Cruz de Cristo.",
+        "escritura": "\"Se alguém quiser vir após mim, negue-se a si mesmo, tome a sua cruz e siga-me.\" (Mt 16,24)"
+      },
+      {
+        "dia": 6,
+        "titulo": "A Amizade com Cristo",
+        "oracao": "São Josemaría, que cultivastes uma amizade profunda e pessoal com Jesus Cristo, alimentada pela Eucaristia e pela oração, ensinai-nos a tratar Jesus não como um estranho mas como o melhor Amigo. Que a nossa oração seja uma conversa de amigos, sincera e confiante. Amém.",
+        "meditacao": "Josemaría fundou o Opus Dei em 2 de outubro de 1928, mas a semente estava na sua oração intensa. Ele via a oração não como obrigação, mas como encontro amoroso com Jesus. Quando a oração se torna 'obrigação a cumprir', perdemos sua essência. Hoje, tente rezar como se estivesse conversando com um amigo.",
+        "escritura": "\"Não vos chamo mais servos… mas chamei-vos amigos.\" (Jo 15,15)"
+      },
+      {
+        "dia": 7,
+        "titulo": "O Apostolado da Amizade",
+        "oracao": "São Josemaría, que ensinastes que o apostolado mais eficaz é o da amizade sincera e do contágio pessoal, intercedei por nós. Que sejamos cristãos que irradiam alegria, bondade e esperança, levando outros a Cristo não por imposição mas pelo testemunho. Amém.",
+        "meditacao": "Josemaría insistia: 'Ninguém se converte pela força — converte-se pelo amor.' O apostolado de Josemaría era o da amizade: tratar bem, escutar com atenção, dar o melhor de si. Quem em seu círculo de amizades precisa encontrar alguém que lhe mostre o amor de Deus?",
+        "escritura": "\"Que também eles sejam um em nós, para que o mundo creia.\" (Jo 17,21)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Amor à Igreja",
+        "oracao": "São Josemaría, que amaste a Igreja com amor filial e obedecestes ao Papa com humildade profunda, intercedei pela unidade da Igreja. Que todos os filhos da Igreja saibam unir-se ao Santo Padre e que a Esposa de Cristo resplandesca cada vez mais em santidade. Amém.",
+        "meditacao": "Josemaría era chamado de 'o bispo da Prelatura' — mas sempre se submeteu ao Papa. Ele dizia: 'Sou filho obediente da Igreja.' Em nosso tempo de divisões e críticas, a atitude de Josemaría é modelo: pode-se amar a Igreja e desejá-la sempre mais santa, sem sair dela nem atacá-la.",
+        "escritura": "\"Que todos sejam um, como tu, ó Pai, és em mim e eu em ti.\" (Jo 17,21)"
+      },
+      {
+        "dia": 9,
+        "titulo": "A Santidade é para Todos",
+        "oracao": "São Josemaría Escrivá, ao concluirmos esta novena, pedimos que a graça de vossa mensagem penetre nos nossos corações: a santidade não é para poucos eleitos, mas para todos. Que este recado divino que recebestes em 2 de outubro de 1928 continue ressoando no mundo inteiro e que cada cristão se sinta chamado à plenitude do amor. Amém.",
+        "meditacao": "Josemaría foi canonizado por João Paulo II em 6 de outubro de 2002, na Praça de São Pedro. No dia da canonização, entre as relíquias havia um bordado de ponto-cruz feito por uma dona de casa — símbolo perfeito de sua mensagem: a santidade está no cotidiano. O seu cotidiano de hoje pode ser santo. Você aceita esse convite?",
+        "escritura": "\"Esta é a vontade de Deus: a vossa santificação.\" (1Ts 4,3)"
+      }
+    ]
+  }
+]

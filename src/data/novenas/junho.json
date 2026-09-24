@@ -1,0 +1,270 @@
+[
+  {
+    "id": "santo-antonio-padua",
+    "slug": "novena-santo-antonio",
+    "nome": "Trezena a Santo Antônio de Pádua",
+    "santoSlug": "santo-antonio",
+    "mes": 6,
+    "inicioMes": 5,
+    "inicioDia": 31,
+    "fimMes": 6,
+    "fimDia": 12,
+    "descricao": "Trezena (13 dias) em honra de Santo Antônio de Pádua, o Taumaturgo, Doutor da Igreja e padroeiro dos objetos perdidos.",
+    "intencoes": ["Objetos perdidos", "Casamento", "Pobres", "Milagres"],
+    "oracaoInicial": "Ó Santo Antônio, glorioso servo de Deus, que vos distinguistes pela vossa humildade, pela vossa ciência e pelos vossos milagres, vós que sois o patrono dos pobres e o consolador dos afligidos, tomai conta das nossas súplicas. Amém.",
+    "oracaoFinal": "Santo Antônio de Pádua, Taumaturgo e Doutor Evangélico, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Antônio, o Convertido",
+        "oracao": "Santo Antônio, que abandonastes a vida confortável dos cônegos regrantes para abraçar a pobreza franciscana após ver os corpos dos primeiros mártires franciscanos, ensinai-nos a coragem da conversão radical. Que nenhum conforto nos prenda quando Deus nos chama a algo maior. Amém.",
+        "meditacao": "Antônio era cônego regular de Santo Agostinho em Coimbra, quando corpos de frades franciscanos martirizados no Marrocos passaram pela cidade. O testemunho de sangue acendeu nele o desejo do martírio e da pobreza radical. Às vezes, o exemplo de outros é o gatilho que nos move. Quem em sua vida foi um modelo que o impulsionou para Deus?",
+        "escritura": "\"Vende tudo o que tens, dá-o aos pobres e vem, segue-me.\" (Mc 10,21)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Antônio, o Pregador Poderoso",
+        "oracao": "Santo Antônio, Doutor Evangélico, cuja pregação convertia multidões e fazia tremer os hereges, intercedei pelos pregadores e evangelizadores. Que tenham a palavra acesa de fé, a clareza de mente e a ternura de coração que vos caracterizavam. Amém.",
+        "meditacao": "Antônio pregava com tal poder que, segundo a tradição, até os peixes saíam da água para ouvir. A lenda expressa uma verdade: quem fala de Deus com convicção e amor atrai os corações. A pregação eficaz não vem de técnica retórica, mas de uma alma apaixonada por Cristo.",
+        "escritura": "\"A nossa palavra do Evangelho não chegou a vós somente em palavras, mas também em poder.\" (1Ts 1,5)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Antônio e o Menino Jesus",
+        "oracao": "Santo Antônio, que sois representado com o Menino Jesus nos braços como sinal da intimidade com que o Senhor vos honrou, ensinai-nos a amor contemplativo por Jesus. Que em nossas orações também possamos 'segurar' Jesus com a fé, como vós o seguraste com o amor. Amém.",
+        "meditacao": "A tradição conta que Antônio foi visto segurando o Menino Jesus durante uma visão mística. Esta imagem fala da íntima amizade com Cristo que a oração cultivada produz. A oração não é apenas pedir — é estar com Jesus, como se segura uma criança: com ternura, atenção e amor.",
+        "escritura": "\"Permanecei em mim e eu em vós.\" (Jo 15,4)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Antônio, Defensor dos Pobres",
+        "oracao": "Santo Antônio, que distribuístes vossos bens pelos pobres e defendestes os oprimidos mesmo contra os poderosos, intercedei pelos pobres do mundo. Pelos famintos, pelos sem-teto, pelos refugiados e pelos explorados. Que a Igreja continue sendo voz dos sem-voz. Amém.",
+        "meditacao": "Em Pádua, Antônio chegou a pedir ao podestà (governante) que libertasse devedores presos — e conseguiu uma lei em favor deles. Um santo frade pode mudar a lei. A caridade cristã não é apenas dar esmola — é transformar estruturas injustas. Você usa sua voz para defender os pequenos?",
+        "escritura": "\"Abri a boca em favor do mudo, pela causa de todos os desvalidos.\" (Pv 31,8)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Antônio e o Milagre do Coração",
+        "oracao": "Santo Antônio, que demonstrastes que onde está o tesouro, lá está o coração, ao encontrares no cofre de um avarento apenas o coração do homem em vez do ouro, ensinai-nos a examinar o que verdadeiramente amamos. Que nosso coração esteja onde deve estar: em Deus. Amém.",
+        "meditacao": "O milagre do 'coração do avarento' — encontrar literalmente o coração de um homem morto no cofre de ouro — é uma imagem perturbadora. Jesus disse: 'Onde estiver o vosso tesouro, aí estará também o vosso coração' (Mt 6,21). Onde está seu tesouro hoje? Tempo? Dinheiro? Afeto? Esse é o seu verdadeiro coração.",
+        "escritura": "\"Onde estiver o vosso tesouro, aí estará também o vosso coração.\" (Mt 6,21)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Antônio e o Livro dos Salmos Roubado",
+        "oracao": "Santo Antônio, patrono dos objetos perdidos, que recuperastes miraculosamente vosso livro de salmos que havia sido roubado, intercedei por todos os que buscam o que perderam. Não apenas objetos materiais, mas a fé perdida, a esperança apagada, o amor desaparecido. Amém.",
+        "meditacao": "Um noviço fugiu levando o livro de salmos de Antônio — um precioso manuscrito com suas anotações. Antônio rezou e o noviço retornou, aterrorizado por uma visão, devolvendo o livro. A devoção popular transformou isso na intercessão de Antônio pelos objetos perdidos. Mas o que você realmente perdeu e precisa recuperar: sua fé? Sua alegria? Sua paz?",
+        "escritura": "\"Qual de vós, tendo cem ovelhas e perdendo uma delas, não deixa as noventa e nove... e vai procurar a que se perdeu?\" (Lc 15,4)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Antônio, o Mártir que Não Morreu",
+        "oracao": "Santo Antônio, que desejastes o martírio mas Deus vos reservou outro caminho de testemunho, ensinai-nos que há muitas formas de dar a vida por Cristo. O martírio do cotidiano — a paciência, a fidelidade, o serviço generoso — é também uma forma de testemunho. Amém.",
+        "meditacao": "Antônio queria ir ao Marrocos pregar e ser martirizado, mas adoeceu gravemente e teve de retornar. O barco foi parar na Sicília, e daí ele foi para Assis, onde conheceu Francisco. Nossos planos frustrados frequentemente são os caminhos de Deus. O 'não' de Deus nunca é abandono — é desvio para algo maior.",
+        "escritura": "\"Os passos do homem são dirigidos pelo Senhor.\" (Pv 20,24)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Antônio e São Francisco de Assis",
+        "oracao": "Santo Antônio, discípulo amado de São Francisco de Assis, ensinai-nos a espiritualidade franciscana da alegria, da pobreza e do amor à natureza. Que a fraternidade que vos uniu a Francisco seja modelo de comunhão para nossas comunidades e famílias. Amém.",
+        "meditacao": "Quando Antônio chegou à Ordem Franciscana, não exibiu sua vasta cultura. Ele se humilhou, pedindo apenas para lavar pratos na cozinha. Só quando foi necessário pregou — e todos ficaram boquiabertos. A humildade que esconde os talentos até o momento certo é uma das mais raras formas de sabedoria.",
+        "escritura": "\"Quem se humilhar será exaltado.\" (Mt 23,12)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Antônio e a Eucaristia",
+        "oracao": "Santo Antônio, que realizastes o milagre de fazer um cavalo ajoelhar-se diante da Eucaristia para convencer um herege, intercedei por todos os que duvidam da Presença Real de Cristo no Santíssimo Sacramento. Aumentai nossa fé eucarística e nosso amor pela Missa. Amém.",
+        "meditacao": "Para convencer um herege que negava a presença real de Cristo na Eucaristia, Antônio o desafiou: se seu cavalo ajoelhasse diante da Hóstia em vez de comer a palha, o herege se converteria. O cavalo ajoelhou. A fé não precisa de provas para existir, mas Deus as dá quando há boa vontade.",
+        "escritura": "\"Este é o meu corpo, dado por vós.\" (Lc 22,19)"
+      },
+      {
+        "dia": 10,
+        "titulo": "Antônio, Patrono dos Casamentos",
+        "oracao": "Santo Antônio, a quem se recorre para encontrar um bom esposo ou esposa, intercedei pelos noivos, pelos recém-casados e pelos que desejam o matrimônio. Que os casamentos cristãos sejam espelhos do amor de Cristo pela Igreja e que toda família seja um pequeno santuário. Amém.",
+        "meditacao": "A tradição de recorrer a Santo Antônio para casamento surgiu da devoção popular, possivelmente ligada a sua intercessão pelos pobres — ele ajudava moças pobres a conseguir dotes para se casar. O amor de Santo Antônio pelos mais vulneráveis se estendeu ao cuidado com as famílias. Ore hoje por um casamento que precisa de intercessão.",
+        "escritura": "\"O que Deus uniu, o homem não separe.\" (Mt 19,6)"
+      },
+      {
+        "dia": 11,
+        "titulo": "Antônio, Doutor da Igreja",
+        "oracao": "Santo Antônio, primeiro Doutor da Igreja Franciscana, proclamado Doutor Evangélico por Pio XII, ensinai-nos o amor à Sagrada Escritura e à sã doutrina. Que a inteligência da fé e o calor do amor nunca se separem em nossas vidas e nas nossas comunidades. Amém.",
+        "meditacao": "Antônio foi proclamado Doutor da Igreja em 1946. Mas em vida, o próprio São Francisco lhe escreveu: 'Agrada-me que ensineis a sagrada teologia aos frades, contanto que, no estudo desse saber, não extingais o espírito de santa oração.' Saber sem oração é vaidade. Oração sem saber é ingenuidade. Os dois juntos são sabedoria.",
+        "escritura": "\"O amor edifica.\" (1Cor 8,1)"
+      },
+      {
+        "dia": 12,
+        "titulo": "Antônio, a Morte Prematura",
+        "oracao": "Santo Antônio, que morrestes aos 35 anos, exausto de pregar e servir, ensinai-nos que o valor de uma vida não se mede em anos, mas em amor. Que vivamos cada dia com a intensidade e a generosidade com que vós vivestes, sem desperdiçar nenhum momento dado por Deus. Amém.",
+        "meditacao": "Antônio morreu em 13 de junho de 1231, com apenas 35 anos, esgotado pelas penitências e o trabalho apostólico. Foi canonizado menos de um ano após a morte — o processo mais rápido da história. Uma vida curta e plena supera uma vida longa e vazia. O que você está fazendo com o tempo que Deus lhe deu?",
+        "escritura": "\"Completou em pouco tempo uma longa existência.\" (Sb 4,13)"
+      },
+      {
+        "dia": 13,
+        "titulo": "Festa de Santo Antônio",
+        "oracao": "Glorioso Santo Antônio de Pádua, Taumaturgo e Doutor da Igreja, ao concluirmos esta trezena em vossa honra, renovamos nossa confiança em vossa intercessão. Vós que tanto fizestes por Deus e pelos homens em vida, continuai fazendo por nós no céu. Alcançai-nos as graças que pedimos com fé, humildade e confiança. Amém.",
+        "meditacao": "A festa de Santo Antônio, 13 de junho, é uma das mais populares do catolicismo — especialmente no Brasil, onde é chamado de 'Santo Casamenteiro' e comemorado com arraiais e festas juninas. A fé popular tem uma sabedoria própria: reconhece nos santos os amigos de Deus que nos estão próximos. Santo Antônio sorri de toda essa devoção — ele que amou os pobres e o povo simples.",
+        "escritura": "\"Os que instruírem multidões na justiça resplandecerão como estrelas, por toda a eternidade.\" (Dn 12,3)"
+      }
+    ]
+  },
+  {
+    "id": "sao-joao-batista-junho",
+    "slug": "novena-sao-joao-batista",
+    "nome": "Novena a São João Batista",
+    "santoSlug": "sao-joao-batista",
+    "mes": 6,
+    "inicioMes": 6,
+    "inicioDia": 15,
+    "fimMes": 6,
+    "fimDia": 23,
+    "descricao": "Novena preparatória ao Natalício de São João Batista, o Precursor de Cristo, 24 de junho.",
+    "intencoes": ["Conversão", "Batismo", "Vocação"],
+    "oracaoInicial": "Ó Deus, que suscitastes São João Batista para preparar o caminho de vosso Filho, concedei-nos, por sua intercessão, a graça da conversão do coração. Amém.",
+    "oracaoFinal": "São João Batista, voz que clama no deserto, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "João, o Precursor",
+        "oracao": "São João Batista, precursor do Messias, que desde o seio materno reconhecestes a presença de Jesus e exultastes de alegria, ensinai-nos a reconhecer o Senhor em nossa vida. Que saibamos identificar os sinais de Sua presença e respondamos com alegria. Amém.",
+        "meditacao": "Quando Maria, grávida de Jesus, visitou Isabel grávida de João, o bebê saltou no ventre de Isabel. João reconheceu o Salvador antes de nascer. A santificação de João no ventre materno mostra que Deus age antes de nosso entendimento. A graça precede a consciência.",
+        "escritura": "\"Mal soou a voz do teu saudação em meus ouvidos, o menino saltou de alegria em meu seio.\" (Lc 1,44)"
+      },
+      {
+        "dia": 2,
+        "titulo": "João, o Nazireo",
+        "oracao": "São João Batista, consagrado a Deus desde o ventre materno como nazireo, que não bebíeis vinho nem cortáveis o cabelo em sinal de total consagração, ensinai-nos o que significa pertencer inteiramente a Deus. Que cada batizado compreenda o que sua consagração implica. Amém.",
+        "meditacao": "João foi nazireo desde o ventre: consagrado, separado, diferente. Esta 'diferença' não era superioridade arrogante, mas sinal de missão. Todo cristão é 'separado' pelo batismo para uma missão. Você vive sua diferença cristã como sinal ou a esconde por vergonha?",
+        "escritura": "\"Ele será grande diante do Senhor; não beberá vinho nem bebida fermentada.\" (Lc 1,15)"
+      },
+      {
+        "dia": 3,
+        "titulo": "João no Deserto",
+        "oracao": "São João Batista, que vivestes anos no deserto em silêncio, oração e penitência para preparar-vos para a missão, ensinai-nos o valor do retiro interior. Que saibamos criar em nossas vidas agitadas espaços de silêncio onde Deus possa falar ao nosso coração. Amém.",
+        "meditacao": "João foi ao deserto antes de pregar. O deserto, na Bíblia, não é punição — é lugar de encontro com Deus. Elias o encontrou no deserto, os hebreus foram purificados no deserto, Jesus foi tentado no deserto antes do ministério. O deserto precede a missão. Qual é o vosso 'deserto' — o lugar de silêncio onde você ouve Deus?",
+        "escritura": "\"A voz do que clama no deserto: Preparai o caminho do Senhor.\" (Is 40,3)"
+      },
+      {
+        "dia": 4,
+        "titulo": "João, Pregador da Penitência",
+        "oracao": "São João Batista, que pregastes com coragem: 'Convertei-vos, porque o reino dos céus está próximo', ensinai-nos a ouvir o apelo à conversão sem nos defendermos. Que tenhamos humildade de reconhecer nossos pecados e coragem de mudar. Amém.",
+        "meditacao": "A pregação de João era incômoda: exigia frutos concretos de conversão. 'Quem tiver duas túnicas, dê uma a quem não tem' (Lc 3,11). A verdadeira conversão não é apenas emocional — produz frutos concretos na vida prática: na carteira, no tempo, nas relações. Que fruto concreto de conversão sua vida está produzindo?",
+        "escritura": "\"Produzi frutos dignos de conversão.\" (Mt 3,8)"
+      },
+      {
+        "dia": 5,
+        "titulo": "João Batiza Jesus",
+        "oracao": "São João Batista, que batizastes o próprio Filho de Deus no Jordão e escutastes a voz do Pai dizendo 'Este é meu Filho amado', intercedei por todos os batizados. Que nos lembremos de nosso próprio batismo e vivamos a graça que recebemos. Amém.",
+        "meditacao": "João hesitou em batizar Jesus: 'Sou eu que preciso ser batizado por ti!' Mas Jesus insistiu: 'Assim nos convém cumprir toda a justiça.' Jesus se solidarizou com os pecadores ao receber o batismo penitencial — não porque pecou, mas porque nos amou. Seu batismo foi um mergulho em nossa humanidade pecadora.",
+        "escritura": "\"Este é meu Filho amado, em quem pus todo o meu agrado.\" (Mt 3,17)"
+      },
+      {
+        "dia": 6,
+        "titulo": "'É necessário que Ele cresça'",
+        "oracao": "São João Batista, que pronunciastes a mais bela definição de humildade: 'É necessário que Ele cresça e eu diminua', ensinai-nos a desaparecer quando Cristo precisa aparecer. Que em nossa vida, nosso ego diminua para que Cristo ocupe cada vez mais o centro. Amém.",
+        "meditacao": "'É necessário que Ele cresça e eu diminua' (Jo 3,30) — esta frase de João é o programa da vida espiritual. A santidade não é a exaltação do eu, mas a sua progressiva transparência para deixar brilhar Cristo. Quanto espaço Cristo ocupa em sua vida hoje? O que em você precisa 'diminuir'?",
+        "escritura": "\"É necessário que Ele cresça e eu diminua.\" (Jo 3,30)"
+      },
+      {
+        "dia": 7,
+        "titulo": "João na Prisão",
+        "oracao": "São João Batista, que da prisão enviastes discípulos a Jesus para perguntar 'és tu o que havia de vir?', ensinai-nos que a dúvida na fé não é pecado, mas humana. Que quando a escuridão da prisão — física ou espiritual — nos tomar, possamos sempre retornar ao Senhor com nossas perguntas. Amém.",
+        "meditacao": "João, da prisão sombria, duvidou. O profeta que havia proclamado Jesus como 'Cordeiro de Deus' agora pergunta: 'Serás tu?' Jesus não o condena — responde com bondade, mostrando os sinais messiânicos. Deus não teme nossas dúvidas. Ele responde com paciência. Leve suas dúvidas a Jesus em vez de guardá-las.",
+        "escritura": "\"Ide anunciar a João o que estais ouvindo e vendo.\" (Mt 11,4)"
+      },
+      {
+        "dia": 8,
+        "titulo": "João, o Mártir",
+        "oracao": "São João Batista, que morrastes decapitado por denunciar corajosamente o adultério de Herodes, intercedei pelos mártires de hoje. Pelos cristãos perseguidos pelo mundo, pelos que perdem seu emprego ou reputação por defender a verdade. Que tenham vossa coragem profética. Amém.",
+        "meditacao": "João poderia ter se calado sobre o adultério de Herodes. Mas para ele, o Evangelho não era assunto privado — tinha implicações para a vida pública. Sua morte mostra que a fé tem consequências. Às vezes, ser fiel a Deus custa caro. Mas 'não tenhais medo dos que matam o corpo' (Mt 10,28).",
+        "escritura": "\"Não te é lícito tê-la.\" (Mt 14,4)"
+      },
+      {
+        "dia": 9,
+        "titulo": "João, o Maior entre os Nascidos de Mulher",
+        "oracao": "São João Batista, de quem Jesus disse 'não nasceu dos filhos das mulheres alguém maior', sede nosso intercessor privilegiado. Vós que estais tão próximo do coração de Cristo, apresentai-lhe nossa oração desta novena e obtende-nos as graças que pedimos com fé filial. Amém.",
+        "meditacao": "Jesus disse: 'Em verdade vos digo que entre os nascidos de mulher não apareceu nenhum maior do que João Batista; mas o menor no reino dos céus é maior do que ele' (Mt 11,11). Esta frase paradoxal: João é o maior entre os homens, mas o menor no reino é maior ainda. A graça batismal nos eleva acima de João. Você vive à altura do dom que recebeu?",
+        "escritura": "\"Entre os nascidos de mulher não há maior do que João Batista.\" (Mt 11,11)"
+      }
+    ]
+  },
+  {
+    "id": "nossa-senhora-perpetuo-socorro",
+    "slug": "novena-nossa-senhora-perpetuo-socorro",
+    "nome": "Novena a Nossa Senhora do Perpétuo Socorro",
+    "santoSlug": "nossa-senhora-perpetuo-socorro",
+    "mes": 6,
+    "inicioMes": 6,
+    "inicioDia": 18,
+    "fimMes": 6,
+    "fimDia": 26,
+    "descricao": "Novena à Mãe do Perpétuo Socorro, cuja imagem milagrosa é venerada em Roma e em todo o mundo.",
+    "intencoes": ["Proteção", "Auxílio nas Dificuldades", "Família"],
+    "oracaoInicial": "Ó Mãe do Perpétuo Socorro, dai-nos sempre o vosso auxílio. Protegei-nos em todas as nossas tentações e dificuldades. Amém.",
+    "oracaoFinal": "Nossa Senhora do Perpétuo Socorro, nossa Mãe sempre presente, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "O Ícone do Perpétuo Socorro",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, contemplamos vossa sagrada imagem onde tendes o Menino Jesus em vosso colo, olhando para os Anjos que carregam os instrumentos da Paixão. Sede nosso socorro em todos os momentos, especialmente nos de maior angústia e medo. Amém.",
+        "meditacao": "O ícone do Perpétuo Socorro mostra Maria segurando Jesus, que olha assustado para os anjos com a cruz, o cravos e a lança. O sandálios do Menino se soltou — sinal de Seu tremor humano. Maria é o colo que acolhe o medo de Cristo. Ela é também o colo que acolhe o nosso medo. Quando você está com medo, corre para Maria?",
+        "escritura": "\"Eis que eu estou convosco todos os dias até o fim do mundo.\" (Mt 28,20)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Socorro na Doença",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, que sois invocada em todas as doenças e sofrimentos físicos, sede o amparo dos enfermos. Intercedei por todos os que estão hospitalizados, pelos que sofrem doenças crônicas e por seus familiares. Que o Senhor os console e cure conforme Sua vontade. Amém.",
+        "meditacao": "Muitos santuários de Nossa Senhora do Perpétuo Socorro registram curas milagrosas. A fé não é magia, mas a oração amorosa de uma mãe ao Filho médico pode fazer muito. Mesmo quando a cura física não vem, Maria obtém a graça da paz interior que supera qualquer compreensão.",
+        "escritura": "\"O Senhor o levantará; e se tiver cometido pecados, ser-lhe-ão perdoados.\" (Tg 5,15)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Socorro nas Tentações",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, mãe vigilante, sede nosso auxílio nas tentações que nos assaltam. Quando o inimigo da alma nos ataca com pensamentos impuros, desânimo, orgulho ou desespero, invocamos vosso nome. Sede nossa proteção e fortaleza. Amém.",
+        "meditacao": "O título 'perpétuo' significa que o socorro de Maria não tem fim — ela está sempre disponível. Em cada tentação, basta invocar seu nome. São Bernardo ensinou: 'Nos perigos, nas angústias, nas incertezas, pensa em Maria, chama por Maria.' O nome de Maria é oração e proteção ao mesmo tempo.",
+        "escritura": "\"Deus é fiel e não permitirá que sejais tentados além do que podeis suportar.\" (1Cor 10,13)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Socorro nas Angústias",
+        "oracao": "Mãe do Perpétuo Socorro, que conhecestes a angústia ao perder o menino Jesus no Templo e ao vê-lo morrer na Cruz, compreendeis as nossas angústias mais do que qualquer outro ser humano. Oferecei ao Senhor as nossas lágrimas e obtende-nos a paz que excede todo entendimento. Amém.",
+        "meditacao": "Maria é chamada 'Nossa Senhora das Dores' porque passou pelas maiores dores que uma mãe pode suportar. Por isso, ela não nos oferece palavras vazias de consolo — ela sofreu. O sofrimento de Maria não foi desperdiçado: foi transformado em compaixão. Ela pode olhar nos olhos de quem sofre e dizer: 'Eu entendo.'",
+        "escritura": "\"A tua própria alma será transpassada por uma espada.\" (Lc 2,35)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Socorro para as Famílias",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, que formastes com Jesus e José a mais santa das famílias, sede o amparo das nossas famílias. Pelas que passam por crises, separações e sofrimentos. Que o amor que reinava em Nazaré reine também em nossos lares. Amém.",
+        "meditacao": "A Sagrada Família enfrentou dificuldades reais: perseguição política (fuga para o Egito), pobreza (presépio em vez de quarto), perda (Jesus perdido por 3 dias). Nenhuma família fica isenta das crises. Mas Maria nos mostra como atravessá-las: com fé, com oração e com amor constante.",
+        "escritura": "\"Ele desceu com eles e voltou para Nazaré, e era-lhes submisso.\" (Lc 2,51)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Socorro para os Pecadores",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, refúgio dos pecadores, intercedei por todos os que se afastaram de Deus pelo pecado. Que a vossa misericórdia maternal os alcance e os conduza de volta ao coração do Filho. Que nenhuma alma se perca por falta de esperança. Amém.",
+        "meditacao": "Maria é chamada 'Refúgio dos Pecadores' porque não rejeita ninguém. Ela recebeu aos pés da cruz os piores pecadores da história — os que crucificaram seu Filho. Se ela perdoou e intercedeu por eles, certamente intercede por nós. Não há pecado tão grande que a misericórdia de Deus, pedida por Maria, não possa perdoar.",
+        "escritura": "\"Não vim chamar os justos, mas os pecadores.\" (Mt 9,13)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Socorro na Hora da Morte",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, que acompanhaste seu Filho até a morte e recebeste seu corpo nos braços, acompanhai-nos também na nossa hora derradeira. Sede nossa companheira na passagem desta vida para a eterna, e apresentai nossa alma ao Senhor com vosso amor maternal. Amém.",
+        "meditacao": "A Pietà — Maria segurando o Filho morto — é a imagem mais poderosa da maternidade dolorosa. Mas o que Maria segura não é um derrotado: é Aquele que vai ressuscitar. Assim, na hora da nossa morte, Maria nos ampara com a certeza da Ressurreição. A morte do cristão não é o fim — é o começo.",
+        "escritura": "\"Eu sou a ressurreição e a vida.\" (Jo 11,25)"
+      },
+      {
+        "dia": 8,
+        "titulo": "A Devoção Perpétua",
+        "oracao": "Nossa Senhora do Perpétuo Socorro, ensinai-nos a devoção filial que não é episódica mas constante — 'perpétua'. Que não corramos a vós apenas nas urgências, mas que conversemos com vós diariamente como filhos com a mãe. Que esta devoção cresça e se aprofunde em nossas vidas. Amém.",
+        "meditacao": "O adjetivo 'perpétuo' no título de Maria não se refere apenas à sua disponibilidade — desafia também nossa resposta. Um filho que só procura a mãe nas emergências não tem verdadeira relação filial. Maria merece ser visitada todos os dias, não apenas nos momentos de desespero. Como está sua relação cotidiana com a Mãe de Deus?",
+        "escritura": "\"Maria guardava todas estas coisas, meditando-as em seu coração.\" (Lc 2,19)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Consagração ao Perpétuo Socorro",
+        "oracao": "Ó Maria, Mãe do Perpétuo Socorro, ao concluirmos esta novena, consagramo-nos a vós. Sede nossa mãe de cada dia, nosso socorro de cada hora, nossa companhia de cada caminho. Apresentai ao vosso Filho todas as intenções desta novena e obtende-nos as graças que confiamos ao vosso Coração Imaculado. Amém.",
+        "meditacao": "A imagem do Perpétuo Socorro foi confiada aos Redentoristas pelo Papa Pio IX em 1866 com as palavras: 'Tornai esta Mãe conhecida no mundo inteiro.' Desde então, o ícone viajou por toda a terra, tocando milhões de corações. Uma imagem, uma mensagem: existe uma Mãe que nunca abandona. Você já disse hoje 'te amo, Mãe'?",
+        "escritura": "\"Eis aí tua mãe.\" (Jo 19,27)"
+      }
+    ]
+  }
+]

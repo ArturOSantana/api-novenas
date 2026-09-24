@@ -1,0 +1,162 @@
+[
+  {
+    "id": "sao-patricio",
+    "slug": "novena-sao-patricio",
+    "nome": "Novena a São Patrício",
+    "santoSlug": "sao-patricio",
+    "mes": 3,
+    "inicioMes": 3,
+    "inicioDia": 8,
+    "fimMes": 3,
+    "fimDia": 16,
+    "descricao": "Novena ao apóstolo da Irlanda, escravo que se tornou o grande evangelizador de seu povo.",
+    "intencoes": ["Missões", "Conversão", "Perseverança"],
+    "oracaoInicial": "Ó Deus Todo-Poderoso, que por meio de São Patrício iluminas a Irlanda com a luz do Evangelho, ouvi as nossas súplicas e concedei-nos, por sua intercessão, a graça que pedimos nesta novena. Amém.",
+    "oracaoFinal": "São Patrício, apóstolo da Irlanda, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Patrício, o Escravo que se Tornou Apóstolo",
+        "oracao": "São Patrício, que fostes capturado como escravo aos 16 anos e, em vez de amargar, aprendestes a rezar no sofrimento, ensinai-nos a encontrar Deus nas provações da vida. Que cada sofrimento seja para nós escola de fé e oração. Amém.",
+        "meditacao": "Patrício foi capturado por piratas irlandeses e levado como escravo. No cativeiro, rezava centenas de vezes por dia. O sofrimento o aproximou de Deus, em vez de afastá-lo. Muitas vezes, é nas horas mais duras que nos descobrimos crentes de verdade. Como você reage quando a vida lhe priva de sua liberdade?",
+        "escritura": "\"Considerai perfeita alegria quando passardes por diversas provações.\" (Tg 1,2)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Patrício, o Homem de Oração",
+        "oracao": "São Patrício, que rezavas centenas de orações por dia enquanto apascentavas o rebanho, intercedei por nós para que encontremos tempo e desejo de orar em meio à agitação moderna. Que nunca nos esqueçamos que a oração é o alimento da alma. Amém.",
+        "meditacao": "Em sua autobiografia, Patrício conta que rezava dezenas de vezes durante o dia e durante a noite no frio e na chuva das montanhas irlandesas. Esta oração constante foi a base de toda a sua missão posterior. Ninguém dá o que não tem. A missão nasce da contemplação.",
+        "escritura": "\"Orai sem cessar.\" (1Ts 5,17)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Patrício, o Missionário Fiel",
+        "oracao": "São Patrício, que retornastes voluntariamente à Irlanda para evangelizar o povo que antes vos escravizara, ensinai-nos o perdão generoso e o amor missionário. Que nenhum medo ou ressentimento nos impeça de levar Cristo a todos. Amém.",
+        "meditacao": "Patrício sonhou com os irlandeses chamando-o de volta após sua fuga da escravidão. Ele poderia ter ignorado — afinal, eles o tinham escravizado. Mas respondeu ao chamado. O amor de Deus é mais forte que os nossos ferimentos. Quem você precisa perdoar para poder servir com liberdade?",
+        "escritura": "\"Amai os vossos inimigos e rezai pelos que vos perseguem.\" (Mt 5,44)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Patrício e a Santíssima Trindade",
+        "oracao": "São Patrício, que usastes o trevo de três folhas para explicar o mistério da Santíssima Trindade, ensinai-nos a contemplar e a amar o Deus Uno e Trino. Que nossa fé no Pai, no Filho e no Espírito Santo seja a rocha sobre a qual edificamos a nossa vida. Amém.",
+        "meditacao": "Segundo a tradição, Patrício usou o shamrock (trevo) para catequizar os druidas sobre a Trindade: três folhas num único caule. O mundo natural é cheio de vestígios do Criador. Deus se revela na criação para quem tem olhos de fé. Hoje, observe a natureza e encontre nela sinais de Deus.",
+        "escritura": "\"No princípio era o Verbo... e o Verbo era Deus.\" (Jo 1,1)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Patrício, Bispo e Pastor",
+        "oracao": "São Patrício, bispo zeloso que organizastes a Igreja na Irlanda, intercedei pelos bispos e pastores de hoje. Que tenham a coragem de Patrício para enfrentar poderes adversos e a ternura para conduzir suas ovelhas com amor. Amém.",
+        "meditacao": "Patrício enfrentou druidas, reis e líderes tribais com uma confiança inabalável. Sua arma não era o poder político, mas a oração e a palavra de Deus. Os pastores mais eficazes não são os que têm poder, mas os que têm fé. Ore hoje por seu bispo e pelo Papa.",
+        "escritura": "\"Sede pastores do rebanho de Deus.\" (1Pd 5,2)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Patrício e a Proteção Divina",
+        "oracao": "São Patrício, que na famosa Breastplate (Lorica) invocastes a proteção de Cristo em cada parte de vossa jornada, ensinai-nos a buscar a proteção divina em cada momento do dia. Que Cristo esteja diante de nós, atrás de nós, ao nosso lado, em nós. Amém.",
+        "meditacao": "A 'Lorica de Patrício' é uma das mais belas orações de proteção da tradição cristã: 'Cristo comigo, Cristo à minha frente, Cristo atrás de mim, Cristo em mim, Cristo abaixo de mim, Cristo acima de mim.' Esta consciência da presença de Cristo é a armadura espiritual mais poderosa.",
+        "escritura": "\"Revesti-vos de toda a armadura de Deus.\" (Ef 6,11)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Patrício e a Conversão",
+        "oracao": "São Patrício, que convertestes quase toda a Irlanda ao cristianismo em poucos anos, intercedei pelos que estão longe de Deus. Pelos indiferentes, pelos que se afastaram, pelos que nunca ouviram o Evangelho. Que o Senhor envie missionários com o ardor de Patrício. Amém.",
+        "meditacao": "Em menos de 30 anos de missão, Patrício batizou mais de 100 mil pessoas e ordenou centenas de sacerdotes. A Irlanda, antes pagã, tornou-se um dos países mais cristãos do mundo — e por séculos foi 'a ilha dos santos e sábios'. Uma pessoa apaixonada por Deus pode mudar um povo inteiro.",
+        "escritura": "\"A messe é grande, mas os operários são poucos.\" (Mt 9,37)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Patrício e a Perseverança",
+        "oracao": "São Patrício, que persististes na missão apesar da oposição de sacerdotes bretões e líderes locais, ensinai-nos a perseverar no bem mesmo quando somos incompreendidos ou criticados. Que a aprovação de Deus baste para nós. Amém.",
+        "meditacao": "Patrício foi criticado por seus próprios companheiros de fé, que questionavam seu passado e sua autoridade. Ele respondeu com humildade e transparência, mas sem abandonar a missão. A perseverança santa não é teimosia — é fidelidade à vocação recebida de Deus, apesar de tudo.",
+        "escritura": "\"Corramos com perseverança a corrida que nos está proposta.\" (Hb 12,1)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Patrício, Patrono da Irlanda",
+        "oracao": "São Patrício, glorioso patrono da Irlanda e apóstolo das nações, ao concluirmos esta novena, pedimos que intercedais por nós. Que a graça da conversão que obtivestes para os irlandeses alcance também os nossos corações. Que a fé de Patrício seja a nossa fé, e seu Deus seja o nosso Deus. Amém.",
+        "meditacao": "Patrício morreu em 17 de março de 461. Seu corpo foi depositado em Downpatrick, ao lado de Santa Brígida e São Columbano. Três grandes santos numa mesma sepultura — imagem da comunhão dos santos que ora por nós. A morte não encerra a história dos santos: ela a intensifica.",
+        "escritura": "\"Os justos vivem para sempre, e a sua recompensa está no Senhor.\" (Sb 5,15)"
+      }
+    ]
+  },
+  {
+    "id": "sao-jose-marido-de-maria",
+    "slug": "novena-sao-jose",
+    "nome": "Novena a São José",
+    "santoSlug": "sao-jose",
+    "mes": 3,
+    "inicioMes": 3,
+    "inicioDia": 10,
+    "fimMes": 3,
+    "fimDia": 18,
+    "descricao": "Novena preparatória à festa de São José, esposo de Maria e pai adotivo de Jesus, patrono da Igreja Universal.",
+    "intencoes": ["Família", "Trabalho", "Pais", "Igreja Universal"],
+    "oracaoInicial": "Ó São José, cujo poder e proteção são tão grandes aos olhos de Deus, vós que tão bem servistes de pai ao Filho de Deus e esposo à Rainha do Céu, atendei as súplicas de nosso coração. Amém.",
+    "oracaoFinal": "São José, pai e senhor nosso, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "José, o Justo",
+        "oracao": "São José, chamado 'justo' pelo Evangelho, ensinai-nos o que é a verdadeira justiça. Não a justiça fria que só cumpre a lei, mas a justiça compassiva que vai além da lei em nome do amor. Vós que podíeis repudiar Maria e escolhestes protegê-la, ensinai-nos a agir sempre pelo amor. Amém.",
+        "meditacao": "O Evangelho chama José de 'justo' (Mt 1,19) e explica que, por isso, ele não quis expor Maria publicamente, mas resolver o assunto em privado. A verdadeira justiça se inclina para a misericórdia. José não exerceu seu direito legal — exerceu seu amor. Quantas vezes você usa 'seus direitos' em vez do amor?",
+        "escritura": "\"José, seu esposo, sendo justo e não querendo difamá-la, resolveu repudiá-la em segredo.\" (Mt 1,19)"
+      },
+      {
+        "dia": 2,
+        "titulo": "José, Homem que Sonha e Obedece",
+        "oracao": "São José, que quatro vezes recebestes mensagens divinas em sonhos e quatro vezes obedecestes imediatamente, ensinai-nos a discernir a voz de Deus em nossa vida. Que sejamos dóceis às moções do Espírito Santo, respondendo com prontidão ao chamado divino. Amém.",
+        "meditacao": "Nos Evangelhos, José recebe quatro ordens angélicas em sonho e obedece a todas elas imediatamente: aceitar Maria, fugir para o Egito, voltar de lá, instalar-se em Nazaré. Sua obediência não é passiva — é ativa e corajosa. Obedecer a Deus exige coragem. Há algum chamado de Deus que você está adiando?",
+        "escritura": "\"Levantando-se, tomou o Menino e sua mãe durante a noite e partiu para o Egito.\" (Mt 2,14)"
+      },
+      {
+        "dia": 3,
+        "titulo": "José, Trabalhador",
+        "oracao": "São José, carpinteiro de Nazaré, que com vossas mãos callosas sustentastes o Filho de Deus, intercedei por todos os trabalhadores. Pelos desempregados, pelos explorados, pelos que trabalham em condições indignas. Que todo trabalho humano seja respeitado em sua dignidade. Amém.",
+        "meditacao": "Jesus foi chamado 'filho do carpinteiro' (Mt 13,55) e ele mesmo 'o carpinteiro' (Mc 6,3). José ensinou Jesus a trabalhar com as mãos. O trabalho não é maldição — é colaboração com a obra criadora de Deus. Desde que José trabalhou, o trabalho humano carrega uma dignidade sagrada.",
+        "escritura": "\"Não é ele o carpinteiro, o filho de Maria?\" (Mc 6,3)"
+      },
+      {
+        "dia": 4,
+        "titulo": "José, Pai e Protetor",
+        "oracao": "São José, protetor da Sagrada Família, que veillastes sobre Jesus e Maria com um amor tão profundo, intercedei pelas famílias ameaçadas. Pelas que sofrem violência, pelas que passam necessidade, pelas que são dilaceradas pela separação. Que cada pai encontre em vós modelo e fortaleza. Amém.",
+        "meditacao": "José é o modelo do pai que ama sem ser biológico. Sua paternidade era 100% escolhida, 100% entregue. Num mundo em que tantas crianças crescem sem pai, José é o padroeiro dos pais adotivos, dos padrastos que amam, dos homens que escolhem paternidades não biológicas. A paternidade é uma vocação, não apenas um fato biológico.",
+        "escritura": "\"Levantando-se, tomou o Menino e sua mãe e retirou-se para a terra de Israel.\" (Mt 2,21)"
+      },
+      {
+        "dia": 5,
+        "titulo": "José, o Silencioso",
+        "oracao": "São José, cujas palavras nunca foram registradas nos Evangelhos mas cuja vida fala mais alto que mil discursos, ensinai-nos o poder do silêncio. Que aprendamos que nem sempre é preciso falar para comunicar amor. Que nossos atos silenciosos de serviço sejam mais eloquentes que nossas palavras. Amém.",
+        "meditacao": "Nenhuma palavra de José foi registrada nos Evangelhos. E no entanto, nenhum homem do Novo Testamento exerceu influência maior sobre a infância de Jesus. O silêncio de José não era ausência, mas presença plena. O verdadeiro amor muitas vezes fala com mais força no silêncio do serviço fiel.",
+        "escritura": "\"Há tempo para calar e tempo para falar.\" (Ecl 3,7)"
+      },
+      {
+        "dia": 6,
+        "titulo": "José, Guardião do Redentor",
+        "oracao": "São José, que tivestes a missão sublime de guardar o Filho de Deus em sua infância e adolescência, continuai sendo guardião da fé em nossas famílias. Que protejais os filhos de Deus das ameaças espirituais, dos erros e das tentações que procuram roubar a fé. Amém.",
+        "meditacao": "Imagine a responsabilidade de José: guardar a vida de Deus feito criança. Cada pai e cada mãe tem uma responsabilidade análoga: guardar a fé que Deus colocou no coração de cada filho. Educar na fé é uma das maiores obras de misericórdia espiritual.",
+        "escritura": "\"O anjo disse a José: 'Levanta-te, toma o Menino e sua mãe e foge para o Egito.'\" (Mt 2,13)"
+      },
+      {
+        "dia": 7,
+        "titulo": "José e a Perda de Jesus no Templo",
+        "oracao": "São José, que vos angustiastes por três dias buscando o menino Jesus até encontrá-lo no Templo, intercedei pelos que perderam o contato com Deus em sua vida. Que cada alma que perdeu Jesus O reencontre, como vós O reencontrastes, no lugar onde Ele sempre esteve: no Templo, na Igreja, nos sacramentos. Amém.",
+        "meditacao": "A perda de Jesus no Templo é o único episódio da adolescência de Jesus narrado nos Evangelhos. Três dias de busca angustiada. E então: 'Não sabíeis que eu devia estar nas coisas de meu Pai?' (Lc 2,49). Às vezes 'perdemos' Jesus porque não o buscamos onde Ele está. Onde você está buscando a Deus?",
+        "escritura": "\"Depois de três dias, encontraram-no no Templo, sentado no meio dos doutores.\" (Lc 2,46)"
+      },
+      {
+        "dia": 8,
+        "titulo": "José, Patrono da Boa Morte",
+        "oracao": "São José, que morrestes nos braços de Jesus e Maria — a morte mais feliz que um ser humano poderia ter —, intercedei por todos os que estão morrendo agora. Por quem morre sozinho, assustado ou sem sacramentos. Que cada cristão parta desta vida com a paz que vós tivestes. Amém.",
+        "meditacao": "A morte de José é um dos maiores silêncios do Evangelho — ele não aparece na vida pública de Jesus. A tradição acredita que morreu assistido por Jesus e Maria. Por isso é invocado pela 'boa morte'. Ninguém escolhe como vai morrer, mas pode escolher como vai viver — e viver bem é o melhor preparo para morrer bem.",
+        "escritura": "\"Preciosa aos olhos do Senhor é a morte de seus santos.\" (Sl 116,15)"
+      },
+      {
+        "dia": 9,
+        "titulo": "José, Patrono da Igreja Universal",
+        "oracao": "São José, Patrono da Igreja Universal proclamado pelo Papa Pio IX em 1870, intercedei pela Igreja em nossos dias. Que assim como protegestes o Corpo físico de Cristo na Sagrada Família, protegeis agora o Seu Corpo Místico da Igreja. Guiai o Papa, os bispos, os sacerdotes e todos os fiéis. Amém.",
+        "meditacao": "Em 1870, em plena crise da unidade italiana que ameaçava o papado, Pio IX proclamou José Patrono da Igreja Universal. São José foi chamado para proteger a Igreja num momento de grande ameaça. Hoje, em novos tempos de desafios, ele continua sendo invocado. Peça hoje a São José uma graça específica para a Igreja.",
+        "escritura": "\"As portas do inferno não prevalecerão contra ela.\" (Mt 16,18)"
+      }
+    ]
+  }
+]

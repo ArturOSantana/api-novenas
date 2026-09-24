@@ -1,0 +1,162 @@
+[
+  {
+    "id": "imaculada-conceicao",
+    "slug": "novena-imaculada-conceicao",
+    "nome": "Novena da Imaculada Conceição",
+    "santoSlug": "nossa-senhora",
+    "mes": 12,
+    "inicioMes": 11,
+    "inicioDia": 29,
+    "fimMes": 12,
+    "fimDia": 7,
+    "descricao": "Novena preparatória à Solenidade da Imaculada Conceição, celebrada em 8 de dezembro.",
+    "intencoes": ["Pureza", "Conversão", "Vocações"],
+    "oracaoInicial": "Ó Maria, concebida sem pecado original, sede nossa advogada junto a Deus. Pela graça que vos encheu desde o primeiro instante de vossa existência, obtende-nos a pureza de coração que nos torna aptos para a vida de Deus. Amém.",
+    "oracaoFinal": "Imaculada Conceição, rogai por nós que recorremos a vós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Maria, Imaculada desde o Primeiro Instante",
+        "oracao": "Santíssima Virgem Maria, que fostes preservada de toda mancha do pecado original desde o primeiro instante de vossa concepção, intercedei por todos os que foram gerados e ainda não nasceram. Que cada vida humana seja acolhida como presente de Deus e que a dignidade do ser humano desde sua concepção seja respeitada. Amém.",
+        "meditacao": "O dogma da Imaculada Conceição, definido por Pio IX em 1854, afirma que Maria foi preservada da mancha do pecado original não por mérito próprio, mas em vista dos méritos de Cristo. Ela é a obra-prima da Redenção — a única que foi redimida de forma 'preventiva'. Isso mostra a misericórdia de Deus: Ele pode agir antes do tempo para preparar os caminhos de sua graça.",
+        "escritura": "\"Deus nos escolheu nele antes da fundação do mundo, para sermos santos e imaculados.\" (Ef 1,4)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Medalha Milagrosa",
+        "oracao": "Nossa Senhora da Medalha Milagrosa, que aparecestes a Santa Catarina Labouré em Paris em 1830 e pedistes que se cunhasse a medalha com a inscrição 'Ó Maria concebida sem pecado, rogai por nós que recorremos a vós', intercedei por todos os que a usam com fé. Amém.",
+        "meditacao": "A aparição de Nossa Senhora a Catarina Labouré predatou a definição do dogma em 24 anos — como se Maria quisesse preparar a Igreja. A Medalha Milagrosa tornou-se o objeto de piedade mariana mais distribuído da história. Cada medalha é um convite: lembrar que somos filhos de uma mãe imaculada que ora por nós.",
+        "escritura": "\"Colocarei inimizade entre ti e a mulher, entre a tua descendência e a dela.\" (Gn 3,15)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Maria e o Pecado Original",
+        "oracao": "Santíssima Maria, que sois o exemplo mais perfeito do que a humanidade poderia ser sem o pecado original, mostrai-nos o horizonte para onde caminhamos. A graça não apenas perdoa o pecado — vai além, transformando a criatura. Que desejemos não apenas ser perdoados, mas transformados. Amém.",
+        "meditacao": "A Imaculada nos mostra não apenas de onde viemos (o pecado original que todos carregamos), mas para onde vamos (a santidade plena que Deus destina a todos os seus filhos). Maria não é exceção — é protótipo. O que ela é já em plenitude, nós estamos nos tornando gradualmente pela graça.",
+        "escritura": "\"Ele que começou em vós a boa obra, a completará.\" (Fl 1,6)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Maria e a Luta contra o Pecado",
+        "oracao": "Imaculada Virgem Maria, que por vossa imaculada concepção estáveis em perfeita harmonia interior — sem o conflito entre a vontade e a carne que nós sentimos —, intercedei pelos que lutam contra vícios e pecados repetidos. Que a graça de Cristo seja em nós vitoriosa como foi em vós. Amém.",
+        "meditacao": "O pecado original não apenas nos torna culpados, mas enfraquece a vontade e a inteligência. Por isso lutar contra certos pecados parece impossível. Mas a graça de Cristo pode fazer em nós o que a imaculada concepção fez em Maria: restaurar a harmonia interior. A diferença: em nós é progressivo; em Maria foi instantâneo e completo.",
+        "escritura": "\"Não faço o bem que quero, mas pratico o mal que não quero.\" (Rm 7,19)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Aparição de Lourdes",
+        "oracao": "Nossa Senhora da Imaculada Conceição, que em 11 de fevereiro de 1858 aparecestes a Bernadette Soubirous em Lourdes e em 25 de março lhe dissestes 'Eu sou a Imaculada Conceição', confirmando o dogma definido quatro anos antes, intercedei pelos enfermos que peregrinam a Lourdes. Amém.",
+        "meditacao": "Bernadette, jovem analfabeta de 14 anos, não sabia o que significava 'Imaculada Conceição'. Ao perguntar ao padre, este ficou emocionado: a menina repetiu exatamente o título que a Igreja havia proclamado dogma em 1854. Deus confirma suas revelações pelos mais simples. A sabedoria que conta não é a da academia, mas a da fé.",
+        "escritura": "\"Deus escolheu o que é insensato aos olhos do mundo para confundir os sábios.\" (1Cor 1,27)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Maria e a Pureza do Coração",
+        "oracao": "Imaculada Maria, que tendes o coração mais puro que Deus criou depois de Cristo, ensinai-nos o que é a pureza do coração. Não a pureza estreita que tem medo do corpo ou das relações, mas a pureza que unifica o coração em torno do amor a Deus e ao próximo. Amém.",
+        "meditacao": "Jesus disse: 'Bem-aventurados os puros de coração, pois verão a Deus' (Mt 5,8). A pureza de que Jesus fala não é apenas sexual — é a integridade do coração que não está dividido entre Deus e ídolos. Maria é o exemplo perfeito: seu coração era todo de Deus. Nossa jornada espiritual é progressivamente unificar o coração.",
+        "escritura": "\"Bem-aventurados os puros de coração, pois verão a Deus.\" (Mt 5,8)"
+      },
+      {
+        "dia": 7,
+        "titulo": "São João Bosco e a Imaculada",
+        "oracao": "Nossa Senhora Imaculada, que fostes a grande devoção de São João Bosco e de seus jovens oratorianos, intercedei pelos jovens educadores e pelos jovens que precisam de amor e direção. Que a devoção à Imaculada continue gerando santos jovens como gerou nos séculos passados. Amém.",
+        "meditacao": "Dom Bosco escolheu 8 de dezembro como data fundacional do seu primeiro oratório para rapazes pobres. Sua espiritualidade girava em torno de Maria Auxiliadora e da Imaculada. Os santos mariais produzem santos jovens: Domingos Savio, Francisco Besucco, todos formados na devoção à Imaculada.",
+        "escritura": "\"Lembrai-vos do vosso Criador nos dias da vossa juventude.\" (Ecl 12,1)"
+      },
+      {
+        "dia": 8,
+        "titulo": "A Imaculada Conceição, Prodromo da Encarnação",
+        "oracao": "Santíssima Maria Imaculada, que fostes preparada por Deus para ser o tabernáculo digno do Filho Eterno, ensinai-nos a preparar nossos corações para receber Jesus no Natal que se aproxima. Que este tempo de Advento seja de purificação interior para que possamos acolher o Salvador com um coração limpo. Amém.",
+        "meditacao": "A festa da Imaculada em 8 de dezembro ocorre no início do Advento — é teologicamente perfeita: Maria preparada para receber Cristo é o modelo de como preparar nossos corações para o Natal. O Advento não é apenas preparação para uma festa — é preparação para uma vinda real: Cristo quer vir de novo ao nosso coração.",
+        "escritura": "\"Eis que estou à porta e bato.\" (Ap 3,20)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Consagração ao Imaculado Coração",
+        "oracao": "Santíssima Virgem Maria, Imaculada em vosso Coração, ao concluirmos esta novena e celebrarmos vossa solenidade, consagramo-nos ao vosso Imaculado Coração. Tomais-nos como filhos. Sede a mãe que nos guia até o vosso Filho Jesus Cristo. Amém.",
+        "meditacao": "São Luís de Montfort — de quem rezaremos novena em abril — dizia que a consagração a Maria é o caminho mais curto, mais seguro e mais perfeito para chegar a Jesus. Maria leva a Jesus como levou o mundo inteiro há dois mil anos: em seu seio imaculado. Hoje, diga de coração: 'Minha Mãe, sou todo teu. Leva-me a Jesus.'",
+        "escritura": "\"Toda formosa és, ó minha amada, e mácula não há em ti.\" (Ct 4,7)"
+      }
+    ]
+  },
+  {
+    "id": "novena-natal",
+    "slug": "novena-natal-sao-leao-magno",
+    "nome": "Novena de Natal de São Leão Magno",
+    "santoSlug": "sao-leao-magno",
+    "mes": 12,
+    "inicioMes": 12,
+    "inicioDia": 16,
+    "fimMes": 12,
+    "fimDia": 24,
+    "descricao": "Novena de preparação para o Natal, inspirada nas homilias natalinas do Papa São Leão Magno (século V).",
+    "intencoes": ["Natal", "Encarnação", "Família", "Paz"],
+    "oracaoInicial": "Ó Senhor Jesus Cristo, que por amor a nós descestes do céu e vos fizestes carne no seio virginal de Maria, preparai nossos corações para a vossa vinda. Que o Natal não seja para nós apenas uma celebração externa, mas um renovado encontro com Vós. Amém.",
+    "oracaoFinal": "Ó Salvador do mundo, que nascestes de Maria Virgem, salvai-nos.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "O Advento da Esperança",
+        "oracao": "Senhor Jesus, ao iniciarmos esta novena de preparação para o vosso Natal, enchei-nos da esperança que São Leão Magno anunciava: 'Cristão, reconhece a tua dignidade.' Que o Natal renove em nós a consciência de nossa altíssima vocação: somos filhos de Deus. Amém.",
+        "meditacao": "São Leão Magno (papa de 440 a 461) escreveu homilias natalinas de beleza incomparável. Sua frase mais famosa para o Natal: 'Cristão, reconhece a tua dignidade e, tornando-te participante da natureza divina, não retornes à miséria da condição primitiva por meio de uma conduta indigna.' O Natal não é nostalgia — é chamado à dignidade.",
+        "escritura": "\"A todos os que o receberam deu o poder de se tornarem filhos de Deus.\" (Jo 1,12)"
+      },
+      {
+        "dia": 2,
+        "titulo": "O Verbo se Fez Carne",
+        "oracao": "Verbo eterno de Deus, que vos encarnastes no seio virginal de Maria, ensinai-nos o significado profundo da Encarnação. Não apenas um nascimento histórico, mas um mergulho de Deus na nossa condição humana: Deus assume tudo o que somos para nos transformar no que Ele é. Amém.",
+        "meditacao": "A Encarnação é o centro de tudo na fé cristã. Atanásio de Alexandria o resumiu: 'Deus se fez homem para que o homem se tornasse Deus.' Este é o intercâmbio admirável do Natal: Jesus assume nossa humanidade frágil para nos dar participação em sua divindade. O que recebemos no Natal não é um bonequinho numa manjedoura — é Deus em pessoa.",
+        "escritura": "\"O Verbo se fez carne e habitou entre nós.\" (Jo 1,14)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Belém: Deus nos Pobres",
+        "oracao": "Senhor Jesus, que escolhestes nascer não num palácio, mas numa manjedoura, não em Jerusalém a capital, mas em Belém a cidade pequena, não entre os poderosos mas entre os pastores pobres, ensinai-nos a encontrar-vos nos pobres de hoje. Que o Natal aguace nossa sensibilidade para os que carecem do essencial. Amém.",
+        "meditacao": "O presépio é uma catequese política: Deus escolheu os pobres. Os primeiros a receber a notícia do Natal foram os pastores — trabalhadores noturnos, socialmente marginalizados. Os Magos vieram depois, de longe. O Natal começa pelos últimos, não pelos primeiros. Que surpresa esperava o mundo. Que surpresa desestabiliza os nossos preconceitos.",
+        "escritura": "\"Não encontraram lugar na hospedaria.\" (Lc 2,7)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Maria e José, a Família de Belém",
+        "oracao": "Senhor Jesus, que escolhestes nascer numa família — ter pai e mãe, lar e laços — santificando assim a família humana, abençoai todas as famílias. Que o amor que reinava entre Maria, José e o Menino seja modelo e inspiração para todos os lares. Amém.",
+        "meditacao": "A Sagrada Família era uma família simples, emigrante (fuga para o Egito), de trabalhadores manuais. Não era perfeita no sentido burgês: enfrentou perseguição, pobreza, deslocamento. Mas era perfeita no amor. A santidade de uma família não se mede pelo conforto, mas pelo amor que a habita.",
+        "escritura": "\"Onde estiverem dois ou três reunidos em meu nome, aí estou eu no meio deles.\" (Mt 18,20)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Os Pastores: A Anunciação aos Pobres",
+        "oracao": "Senhor Jesus, que enviastes anjos aos pastores — os últimos da escala social — para anunciar o teu nascimento, ensinai-nos que o Evangelho é antes de tudo Boa Nova para os pobres. Que a Igreja nunca perca esta orientação preferencial, e que cada cristão seja anunciador de esperança nos ambientes mais periféricos. Amém.",
+        "meditacao": "Os pastores eram considerados impuros pela lei judaica e não podiam dar testemunho válido em tribunal. E Deus escolheu exatamente eles para os primeiros testemunhos do Natal. Há uma lógica divina que inverte as hierarquias humanas. O Evangelho está sempre do lado dos últimos.",
+        "escritura": "\"Anuncio-vos uma grande alegria que o será para todo o povo.\" (Lc 2,10)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Os Magos: O Natal dos Gentios",
+        "oracao": "Senhor Jesus, que fostes adorado pelos Magos do Oriente — representantes das nações não-judaicas — ensinai-nos que vosso amor não tem fronteiras de raça, cultura ou religião. Que o Natal nos abra ao mundo inteiro como campo da vossa misericórdia. Amém.",
+        "meditacao": "Os Magos eram astrólogos pagãos do Oriente — provavelmente da Pérsia. Que ironia: Deus usa a astrologia — que a Lei proibia — para conduzir gentios ao Salvador. Deus escreve reto por linhas tortas. O Natal dos Magos é a abertura universal do Evangelho: Cristo veio para todos.",
+        "escritura": "\"Viemos do Oriente para adorá-lo.\" (Mt 2,2)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Herodes: A Rejeição do Natal",
+        "oracao": "Senhor Jesus, que fostes perseguido por Herodes desde o nascimento, intercedei pelos cristãos perseguidos hoje. Pelos que são discriminados por sua fé, pelos que perdem emprego ou família por causa de vós. Que tenham a coragem da Sagrada Família: fugir quando necessário, mas nunca renegar a fé. Amém.",
+        "meditacao": "Herodes rejeitou o Natal porque Cristo ameaçava seu poder. Essa rejeição ainda existe: sempre que o Evangelho desinstala o poder, ele é perseguido. A perseguição não é sinal de fracasso — é sinal de autenticidade. Jesus disse: 'Se o mundo vos odeia, lembrai-vos de que me odiou primeiro' (Jo 15,18).",
+        "escritura": "\"Ele veio para o que era seu, e os seus não o acolheram.\" (Jo 1,11)"
+      },
+      {
+        "dia": 8,
+        "titulo": "A Noite Santa",
+        "oracao": "Senhor Jesus, que nascestes na silenciosa noite de Belém, ensinai-nos o valor do silêncio e da contemplação. Num mundo que faz do Natal barulho, consumo e superficialidade, que possamos encontrar em nossas casas um momento de genuíno silêncio para acolher o que o Natal realmente é: Deus entre nós. Amém.",
+        "meditacao": "'Silêncio Santo, Noite Feliz' — o mais famoso dos cânticos natalinos nasce do silêncio. Deus escolheu a meia-noite para nascer — o momento de maior silêncio. Há algo profundo aqui: para acolher o Verbo, é preciso silenciar. O silêncio não é ausência de barulho — é presença de Deus. Reserva cinco minutos de silêncio neste Natal.",
+        "escritura": "\"Aconteceu que, estando eles ali, cumpriram-se os dias do parto.\" (Lc 2,6)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Véspera do Natal",
+        "oracao": "Senhor Jesus, na vigília de vosso Natal santo, preparamos nossos corações como Belém preparou a manjedoura. Não temos muito a oferecer — como Maria e José, estamos nas margens do mundo. Mas temos o que basta: um coração aberto, uma fé humilde e o desejo de vos acolher. Vinde, Senhor Jesus. Amém.",
+        "meditacao": "São Leão Magno pregou: 'A nossa participação no divino não foi o resultado de uma ascensão da nossa parte, mas de uma descida da sua.' O Natal não é nossa conquista — é seu presente. Tudo o que fazemos na véspera de Natal — o presépio, a missa, os cantos — são gestos de um coração que quer estar presente para acolher um Dom que vem de cima.",
+        "escritura": "\"Vinde a mim, todos os que estais cansados e sobrecarregados.\" (Mt 11,28)"
+      }
+    ]
+  }
+]

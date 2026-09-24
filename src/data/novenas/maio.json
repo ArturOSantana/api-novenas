@@ -1,0 +1,162 @@
+[
+  {
+    "id": "nossa-senhora-fatima",
+    "slug": "novena-nossa-senhora-fatima",
+    "nome": "Novena a Nossa Senhora de Fátima",
+    "santoSlug": "nossa-senhora-fatima",
+    "mes": 5,
+    "inicioMes": 5,
+    "inicioDia": 4,
+    "fimMes": 5,
+    "fimDia": 12,
+    "descricao": "Novena preparatória à festa de Nossa Senhora de Fátima, em memória das aparições de 1917 em Portugal.",
+    "intencoes": ["Paz", "Conversão", "Rússia", "Família"],
+    "oracaoInicial": "Ó Minha Senhora do Rosário, que aparecestes em Fátima para revelar a três inocentes pastorzinhos os tesouros de graças que Deus quer nos dar, inspire em nossos corações o amor à vossa penitência e prece para salvarmos as almas. Amém.",
+    "oracaoFinal": "Nossa Senhora de Fátima, Rainha do Santo Rosário, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Primeira Aparição: o Anjo da Paz",
+        "oracao": "Nossa Senhora de Fátima, antes de vos mostrardes aos três pastorinhos, o Anjo do Senhor preparou seus corações com a oração: 'Meu Deus, eu creio, adoro, espero e amo-Vos'. Que estas palavras sejam também a nossa oração cotidiana. Que tenhamos a fé de Lúcia, a esperança de Jacinta e o amor de Francisco. Amém.",
+        "meditacao": "Em 1916, antes das aparições de Maria, um anjo apareceu três vezes aos pastorinhos ensinando-lhes orações de adoração e reparação. Deus prepara sempre o coração antes de fazer grandes coisas. A preparação interior — o silêncio, a oração, a pureza — é condição para receber as graças de Deus.",
+        "escritura": "\"Preparai o caminho do Senhor.\" (Is 40,3)"
+      },
+      {
+        "dia": 2,
+        "titulo": "13 de Maio de 1917",
+        "oracao": "Nossa Senhora de Fátima, que aparecestes pela primeira vez em 13 de maio de 1917, sobre a azinheira da Cova da Iria, com uma luz mais brilhante que o sol, iluminai as trevas do nosso tempo. Que vossa beleza atraia os corações para Deus e que vossa mensagem de conversão seja ouvida por toda a humanidade. Amém.",
+        "meditacao": "Maria perguntou às crianças se estavam dispostas a 'oferecer a Deus todos os sofrimentos que Ele quiser enviar-vos, em ato de reparação pelos pecados que a Ele ofendem e de súplica pela conversão dos pecadores?' Elas responderam sim. Você está disposto a oferecer seus sofrimentos a Deus? Esta é uma das mais profundas espiritualidades cristãs.",
+        "escritura": "\"Completo em minha carne o que falta às tribulações de Cristo.\" (Cl 1,24)"
+      },
+      {
+        "dia": 3,
+        "titulo": "O Segredo de Fátima: o Inferno",
+        "oracao": "Nossa Senhora de Fátima, que mostrastes às crianças uma visão do inferno para que rezassem pela salvação das almas, ensinai-nos a levar a sério o destino eterno. Que a contemplação do inferno não nos encha de terror, mas de amor compassivo pelos que estão em perigo de se perder. Amém.",
+        "meditacao": "A visão do inferno foi dada não para assustar, mas para motivar a oração pelos pecadores. Maria disse: 'Vistes o inferno para onde vão as almas dos pobres pecadores; para as salvar, Deus quer estabelecer no mundo a devoção ao meu Imaculado Coração.' O inferno existe, mas a misericórdia de Deus é maior que qualquer pecado — se o pecador se converter.",
+        "escritura": "\"Deus quer que todos os homens se salvem e cheguem ao conhecimento da verdade.\" (1Tm 2,4)"
+      },
+      {
+        "dia": 4,
+        "titulo": "A Consagração da Rússia",
+        "oracao": "Nossa Senhora de Fátima, que pedistes a consagração da Rússia ao vosso Imaculado Coração para a paz do mundo, intercedei pelos povos que ainda vivem sob o jugo da opressão e do ateísmo. Que a luz de Cristo alcance todos os recantos da terra. Amém.",
+        "meditacao": "Em 1917, quando a Rússia ainda não era comunista, Maria pediu sua consagração ao Imaculado Coração. O pedido parecia estranho — depois, fez todo sentido. Deus conhece o futuro. Nossa tarefa não é entender tudo, mas obedecer com fé. A consagração foi realizada pelos papas João Paulo II, Bento XVI e Francisco.",
+        "escritura": "\"Meus pensamentos não são os vossos pensamentos.\" (Is 55,8)"
+      },
+      {
+        "dia": 5,
+        "titulo": "O Rosário como Arma Espiritual",
+        "oracao": "Nossa Senhora de Fátima, que em todas as aparições pedistes que rezássemos o Rosário, ensinai-nos a amar esta oração tão simples e tão profunda. Que o Rosário seja nossa oração diária, nossa meditação dos mistérios de Cristo, nossa corrente de amor que nos une a vós. Amém.",
+        "meditacao": "Em cada aparição, Maria tinha o Rosário nas mãos e pedia que se rezasse diariamente. O Rosário é uma escola de contemplação: em palavras simples e repetidas, meditamos os grandes mistérios da salvação. A repetição não é monotonia — é o ritmo do amor, como o batimento do coração.",
+        "escritura": "\"Quando orardes, não useis de muitas palavras como os pagãos.\" (Mt 6,7) — e por isso o Rosário medita mais do que fala."
+      },
+      {
+        "dia": 6,
+        "titulo": "Jacinta e Francisco, os Pastorzinhos",
+        "oracao": "Nossa Senhora de Fátima, que escolhestes como testemunhas de vossas aparições três crianças simples e humildes, ensinai-nos a humildade. Que a sabedoria do mundo não nos faça desprezar os simples e pequenos, pois Deus os prefere para revelar seus mistérios. Intercedei pelos santos pastorzinhos Jacinta e Francisco. Amém.",
+        "meditacao": "Jacinta e Francisco foram canonizados em 2017, com apenas 7 e 9 anos na época das aparições. São os santos canonizados mais jovens da história, não por morte martirial, mas por virtude heroica. Eles morreram pela pandemia de gripe espanhola, sofrendo com alegria. Crianças podem ser grandes santos.",
+        "escritura": "\"Se não vos tornardes como crianças, não entrareis no reino dos céus.\" (Mt 18,3)"
+      },
+      {
+        "dia": 7,
+        "titulo": "O Milagre do Sol",
+        "oracao": "Nossa Senhora de Fátima, que no dia 13 de outubro de 1917 realizastes o grande milagre do sol diante de 70.000 pessoas, ensinai-nos a fé que pede e espera os sinais de Deus. Que possamos ver os sinais divinos em nossas próprias vidas e crê em vossa mensagem. Amém.",
+        "meditacao": "O Milagre do Sol de 13 de outubro de 1917 foi testemunhado por cerca de 70.000 pessoas — crentes e incrédulos, incluindo jornalistas ateus. O sol 'dançou' por 10 minutos e as roupas molhadas das pessoas secaram instantaneamente. Deus pode e confirma sua mensagem com sinais. Que sinais da presença de Deus você já testemunhou em sua vida?",
+        "escritura": "\"Este é o dia que o Senhor fez; alegremo-nos e nele nos regozijemos.\" (Sl 118,24)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Irmã Lúcia, Guardiã do Segredo",
+        "oracao": "Nossa Senhora de Fátima, que escolhestes a pequena Lúcia para guardar e transmitir vossos segredos à Igreja, intercedei por todos os que recebem missões especiais de serviço a Deus. Que tenham a coragem de Lúcia para testemunhar a verdade mesmo quando não é bem recebida. Amém.",
+        "meditacao": "Lúcia viveu até os 97 anos (1907-2005), tornando-se carmelita descalça. Por quase 90 anos guardou os segredos e testemunhou a verdade de Fátima com serenidade. Sua vida foi um ato de confiança radical. Às vezes Deus nos confia missões que carregamos em silêncio por muitos anos. Seja fiel à sua missão.",
+        "escritura": "\"Guardava estas coisas em seu coração.\" (Lc 2,51)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Fátima, Mensagem para Hoje",
+        "oracao": "Santíssima Virgem de Fátima, ao concluirmos esta novena em vossa honra, renovamos nosso compromisso de viver a vossa mensagem: rezar, fazer penitência e converter o coração. Que a devoção ao vosso Imaculado Coração traga ao mundo a prometida era de paz. Amém.",
+        "meditacao": "Maria prometeu em Fátima: 'No fim, o meu Imaculado Coração triunfará.' Não sabemos quando, mas sabemos o que fazer enquanto esperamos: rezar o Rosário, confessar-nos, fazer a comunhão nos primeiros sábados, consagrar ao Imaculado Coração. A mensagem de Fátima não é catastrofismo — é esperança ativa.",
+        "escritura": "\"Eu sou a Imaculada Conceição.\" (palavras de Maria em Lourdes, 1858) — confirmação do dogma de 1854."
+      }
+    ]
+  },
+  {
+    "id": "santa-rita-cassia",
+    "slug": "novena-santa-rita-cassia",
+    "nome": "Novena a Santa Rita de Cássia",
+    "santoSlug": "santa-rita",
+    "mes": 5,
+    "inicioMes": 5,
+    "inicioDia": 13,
+    "fimMes": 5,
+    "fimDia": 22,
+    "descricao": "Novena à padroeira das causas impossíveis, das viúvas e dos casamentos difíceis.",
+    "intencoes": ["Causas Impossíveis", "Casamento", "Família"],
+    "oracaoInicial": "Ó Santa Rita, padroeira das causas impossíveis, a vós recorremos nesta novena, confiantes em vossa poderosa intercessão junto a Deus. Apresentai nossas súplicas ao Senhor e obtende-nos as graças que precisamos. Amém.",
+    "oracaoFinal": "Santa Rita de Cássia, rosa perfumada de Cássia, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Rita, Filha Obediente",
+        "oracao": "Santa Rita, que desde criança manifestastes desejo de vida religiosa mas obedecestes aos vossos pais ao casar, ensinai-nos a discernir a vontade de Deus em nossas vocações. Que saibamos que Deus pode ser servido em qualquer estado de vida e que a obediência amorosa é sempre caminho seguro. Amém.",
+        "meditacao": "Rita queria ser religiosa desde menina, mas seus pais a casaram com um homem de temperamento difícil. Ela obedeceu, sem abandonar a fé. Deus honrou sua obediência e depois, viúva, abriu-lhe o caminho para o convento. Às vezes, o caminho que Deus quer não é o que imaginamos. Confia?",
+        "escritura": "\"Eu conheço os planos que tenho para vós: planos de paz e não de mal.\" (Jr 29,11)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Rita, Esposa Heroica",
+        "oracao": "Santa Rita, que transformastes vosso casamento difícil em caminho de santidade, intercedei pelos casamentos em crise. Por aqueles que vivem com cônjuges difíceis, violentos ou infiéis. Que encontrem na Cruz de Cristo força para perseverar ou coragem para buscar proteção quando necessário. Amém.",
+        "meditacao": "O marido de Rita era agressivo e violento. Mas Rita o amou pacientemente, rezou por ele e acabou por convertê-lo. Ele morreu reconciliado com Deus. O amor perseverante de Rita operou um milagre. Isso não significa que as vítimas de violência doméstica devam suportar tudo — a Igreja reconhece o direito de buscar proteção. Mas o amor que perdoa e ora é poderoso.",
+        "escritura": "\"O amor tudo suporta... o amor nunca passa.\" (1Cor 13,7-8)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Rita, Mãe que Pede por seus Filhos",
+        "oracao": "Santa Rita, que pedistes a Deus que levasse vossos dois filhos antes que pecassem gravemente, ensinai-nos a colocar a salvação eterna de nossos filhos acima de todo apego humano. Intercedei pelos filhos que se afastaram de Deus, pelos que vivem em pecado, pelos pais que sofrem por seus filhos. Amém.",
+        "meditacao": "Após a morte do marido, os filhos de Rita quiseram vingar o pai. Ela preferiu vê-los morrer jovens a vê-los tornarem-se assassinos. Ambos morreram de doença antes de poder executar a vingança. Que fé! Para Rita, a salvação da alma era mais importante que a vida terrena. Você ora pela salvação eterna de seus filhos?",
+        "escritura": "\"Que me vale ao homem ganhar o mundo inteiro, se perder a sua alma?\" (Mt 16,26)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Rita, a Viúva que Entrou no Convento",
+        "oracao": "Santa Rita, viúva que buscastes o convento três vezes antes de ser aceita e que finalmente entraste por milagre, ensinai-nos a perseverar nas buscas legítimas de nossa vocação. Que nunca desistamos diante dos obstáculos quando estamos certos de que é Deus quem nos chama. Amém.",
+        "meditacao": "As portas do convento se fecharam para Rita três vezes. A quarta vez, conta a tradição, ela foi transportada miraculosamente para dentro da clausura. Deus abre o que o homem fecha, quando é Ele que chama. Há portas fechadas em sua vida? Você está certo de que Deus quer que você entre? Então persista.",
+        "escritura": "\"Batei e vos será aberto.\" (Mt 7,7)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Rita e o Espinho da Coroa",
+        "oracao": "Santa Rita, que pedistes a Jesus uma participação em Sua Paixão e recebestes um espinho da Coroa na fronte, ensinai-nos a abraçar os sofrimentos como participação no mistério redentor de Cristo. Que cada dor de nossa vida seja ofertada em união com a Cruz. Amém.",
+        "meditacao": "Rita pediu a Jesus: 'Fazei-me participante de vossa Paixão.' Em resposta, um espinho da Coroa de Cristo fincou-se em sua fronte, causando uma ferida que nunca cicatrizou em vida. Ela sofreu com alegria por 15 anos. Quando pedimos participar da Cruz de Cristo, Deus leva a sério esse pedido. Você está pronto para fazer essa oração?",
+        "escritura": "\"Ele foi ferido pelas nossas transgressões.\" (Is 53,5)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Rita e as Rosas Milagrosas",
+        "oracao": "Santa Rita, cujas rosas florescem fora de época como sinal de vossa intercessão poderosa, intercedei por nossas causas impossíveis. Vós que transformastes o impossível em possível durante toda a vossa vida, obtende-nos a graça de que tanto precisamos. Amém.",
+        "meditacao": "Antes de morrer, Rita pediu a uma familiar que fosse ao jardim e trouxesse uma rosa. Era janeiro — pleno inverno. Mas havia uma rosa perfumada à sua espera. Daí o costume de bênção das rosas em sua festa. Os sinais de Deus frequentemente surgem onde parecia impossível. Não perca a esperança.",
+        "escritura": "\"Para Deus nada é impossível.\" (Lc 1,37)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Rita, Mística da Cruz",
+        "oracao": "Santa Rita, mística que contemplastes a Paixão de Cristo com amor contemplativo, ensinai-nos a meditar os sofrimentos de Jesus não como espetáculo, mas como mistério de amor. Que a contemplação da Cruz nos transforme interiormente. Amém.",
+        "meditacao": "Rita passava horas meditando a Paixão de Cristo. Para ela, olhar para o Crucificado não era depressão, mas contemplação do maior amor da história. João Paulo II disse: 'A Cruz é a chave para entender tudo.' Quando você olha para um crucifixo, o que vê: instrumento de tortura ou trono de amor?",
+        "escritura": "\"Quanto a mim, não me glorie de outra coisa senão da cruz de nosso Senhor Jesus Cristo.\" (Gl 6,14)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Rita, a Intercessora dos Impossíveis",
+        "oracao": "Santa Rita, advocata das causas impossíveis, por milagres incontáveis que operastes em vida e após a morte, tende misericórdia de nós. Apresentai ao Senhor as causas que nós mesmos julgamos perdidas, as situações que humamente não têm solução, os sofrimentos que parecem não ter fim. Que Deus nos surpreenda com o impossível. Amém.",
+        "meditacao": "Rita é chamada 'a santa dos impossíveis' porque seus milagres frequentemente envolvem situações sem saída humana. A fé cristã não nega os limites humanos — os transcende. 'Com os homens isso é impossível, mas com Deus tudo é possível' (Mt 19,26). Apresente hoje ao Senhor, por intermédio de Rita, a sua causa impossível.",
+        "escritura": "\"Para Deus nada é impossível.\" (Lc 1,37)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Santa Rita, Padroeira das Causas Impossíveis",
+        "oracao": "Gloriosa Santa Rita de Cássia, ao concluirmos esta novena, consagramos a vós todas as causas impossíveis de nossas vidas. Sede nossa advogada perante Deus. Que a rosa perfumada de vossa intercessão floresça em nossas vidas, trazendo consolo, graça e, se for a vontade de Deus, o milagre que esperamos. Amém.",
+        "meditacao": "Santa Rita morreu em 22 de maio de 1457. Na hora de sua morte, seu quarto encheu-se de perfume de rosas. Ela havia sofrido muito — mas morreu em paz, com um sorriso. O fim da vida de um santo é diferente do fim de uma vida ordinária: não é extinção, mas chegada. Que a nossa morte seja assim: perfumada pelo bem que fizemos.",
+        "escritura": "\"Bem-aventurados os que morrem no Senhor!\" (Ap 14,13)"
+      }
+    ]
+  }
+]

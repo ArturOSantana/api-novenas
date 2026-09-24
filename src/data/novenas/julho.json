@@ -1,0 +1,162 @@
+[
+  {
+    "id": "nossa-senhora-carmo",
+    "slug": "novena-nossa-senhora-carmo",
+    "nome": "Novena a Nossa Senhora do Carmo",
+    "santoSlug": "nossa-senhora-carmo",
+    "mes": 7,
+    "inicioMes": 7,
+    "inicioDia": 7,
+    "fimMes": 7,
+    "fimDia": 15,
+    "descricao": "Novena à Rainha e Ornamento do Carmelo, padroeira da Ordem Carmelita e protetora dos que usam o Escapulário.",
+    "intencoes": ["Proteção", "Morte Cristã", "Purgatório"],
+    "oracaoInicial": "Ó Flor do Carmelo, videira florida, esplendor do céu, ó Virgem singular, Mãe misericordiosa, estrela do mar, sede nossa ajuda e proteção, e pelo Santo Escapulário amparai os vossos devotos na hora da morte. Amém.",
+    "oracaoFinal": "Nossa Senhora do Carmo, Rainha e Ornamento do Carmelo, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "O Profeta Elias e o Monte Carmelo",
+        "oracao": "Nossa Senhora do Carmo, cujas origens remontam ao profeta Elias no Monte Carmelo, ensinai-nos o ardor do profeta que amava a Deus com fogo e defenida a fé sem temer o poder. Que tenhamos a coragem de Elias para anunciar Deus num mundo que O esqueceu. Amém.",
+        "meditacao": "No Monte Carmelo, Elias contemplava uma pequena nuvem que traria a chuva — e a tradição carmelita viu nessa nuvem a prefiguração de Maria. Dos eremitas que contemplavam no Carmelo nasceu a grande Ordem Carmelita, que deu ao mundo Teresa d'Ávila, João da Cruz e Teresinha. A contemplação gera santos.",
+        "escritura": "\"Elias era um homem como nós; orou fervorosamente e os céus deram chuva.\" (Tg 5,17-18)"
+      },
+      {
+        "dia": 2,
+        "titulo": "O Escapulário de Nossa Senhora",
+        "oracao": "Nossa Senhora do Carmo, que aparecestes a São Simão Stock e lhe entregastes o Santo Escapulário como sinal de vossa proteção, intercedei por todos os que o vestem com fé. Que o Escapulário não seja amuleto supersticioso, mas símbolo de consagração a vós e compromisso de vida cristã. Amém.",
+        "meditacao": "O Escapulário é um sacramental — um sinal de consagração a Maria e de um estilo de vida. Maria teria prometido: 'Quem morrer com este hábito não sofrerá o fogo eterno.' Não é magia: é o compromisso de uma devoção filial que Maria honra. A devoção mariana, quando autêntica, produz conversão de vida.",
+        "escritura": "\"Esta é a aliança que farei com eles... porei minha lei em seu coração.\" (Jr 31,33)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Santa Teresa d'Ávila, Filha do Carmelo",
+        "oracao": "Nossa Senhora do Carmo, que inspirastes Santa Teresa d'Ávila a reformar o Carmelo e a mergulhar nas profundezas da oração contemplativa, ensinai-nos o que Teresa chamava 'oração de amizade': simplesmente estar com Aquele que sabemos que nos ama. Amém.",
+        "meditacao": "Teresa d'Ávila dizia que a oração é 'um trato de amizade, estando muitas vezes a sós com quem sabemos que nos ama.' Esta definição revolucionou a espiritualidade. Orar não é cumprir palavras — é estar com uma Pessoa. Quando foi a última vez que você simplesmente 'ficou' com Deus, sem pedir nada?",
+        "escritura": "\"Eu sou o bom pastor; conheço as minhas ovelhas e elas me conhecem.\" (Jo 10,14)"
+      },
+      {
+        "dia": 4,
+        "titulo": "São João da Cruz, Doutor da Noite Escura",
+        "oracao": "Nossa Senhora do Carmo, que protegestes São João da Cruz em sua prisão e em sua busca de Deus através da 'noite escura da alma', intercedei pelos que passam por períodos de aridez espiritual. Que compreendam que a noite escura não é abandono de Deus, mas purificação do amor. Amém.",
+        "meditacao": "João da Cruz escreveu seus maiores poemas místicos enquanto estava preso numa cela sem luz. A 'Noite Escura' é uma experiência espiritual em que Deus parece ausente — mas na verdade está purificando a alma de apegos. Quando Deus parece ausente em sua vida, pode ser exatamente quando Ele está mais presente.",
+        "escritura": "\"Onde irei longe do teu Espírito? Para onde fugirei da tua face?\" (Sl 139,7)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Santa Teresinha, a Pequena Via",
+        "oracao": "Nossa Senhora do Carmo, que conduzistes Santa Teresinha pelo 'pequeno caminho' da infância espiritual, ensinai-nos que a santidade não exige grandes feitos, mas amor constante nas pequenas coisas. Que façamos as coisas pequenas com grande amor, como Teresinha fazia. Amém.",
+        "meditacao": "Teresinha dizia: 'O que importa não é fazer grandes coisas, mas fazer as coisas pequenas com grande amor.' Esta é a 'Pequena Via': amar a Deus na lavagem da louça, na palavra gentil, na paciência com o difícil. Não há ato cotidiano que, feito com amor, seja pequeno aos olhos de Deus.",
+        "escritura": "\"Quem é fiel no pouco, é fiel também no muito.\" (Lc 16,10)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Beata Edith Stein, Mártir do Carmelo",
+        "oracao": "Nossa Senhora do Carmo, que amparastes Edith Stein em seu caminho da filosofia à fé, do judaísmo ao batismo, da academia ao Carmelo e do Carmelo ao martírio em Auschwitz, intercedei por todos os intelectuais em busca de Deus. Que a verdade os conduza à Verdade. Amém.",
+        "meditacao": "Edith Stein era filósofa, discípula de Husserl, judia. Ao ler a autobiografia de Santa Teresa d'Ávila em uma única noite, exclamou: 'Esta é a Verdade.' Converteu-se, tornou-se carmelita e foi morta em Auschwitz em 1942. Nenhuma formação intelectual impede a graça — às vezes, a facilita.",
+        "escritura": "\"A verdade vos libertará.\" (Jo 8,32)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Maria, Flor do Carmelo",
+        "oracao": "Nossa Senhora do Carmo, Flor do Carmelo e Ornamento do Monte Santo, revelai-nos a beleza da contemplação. Num mundo agitado que despreza o silêncio, sede vós a defensora da vida interior e da busca de Deus nos mais recônditos interiores do coração humano. Amém.",
+        "meditacao": "O hino carmelita chama Maria de 'Flos Carmeli' — Flor do Carmelo. Uma flor só floresce quando tem raízes profundas, água abundante e luz do sol. Nossa vida espiritual floresce quando tem raízes na oração, é regada pelos sacramentos e iluminada pela Palavra de Deus.",
+        "escritura": "\"Como lírio entre os espinhos, assim é minha amada entre as donzelas.\" (Ct 2,2)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Privilegium Sabbatinum",
+        "oracao": "Nossa Senhora do Carmo, que segundo a tradição prometestes a São Simão que aqueles que usassem o Escapulário com devoção e castidade seriam libertos do purgatório no primeiro sábado após a morte, intercedei por nossas almas e pelas do purgatório. Que vosso amor maternal abranja tanto os vivos como os mortos. Amém.",
+        "meditacao": "A promessa do 'Sábado de Nossa Senhora' é uma expressão da devoção popular à misericórdia de Maria. O teológicamente certo: Maria intercede pelos que a amam, inclusive no além-morte. Rezar pelos mortos é um dos mais belos atos de caridade cristã — porque quem recebe a oração não pode mais pedir.",
+        "escritura": "\"É uma ideia santa e salutar orar pelos mortos para que sejam libertados dos seus pecados.\" (2Mc 12,46)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Consagração ao Carmo",
+        "oracao": "Nossa Senhora do Carmo, ao concluirmos esta novena, consagramo-nos a vós com amor filial. Tomai-nos sob vossa proteção especial. Que a devoção ao Santo Escapulário seja para nós não um gesto externo, mas o símbolo de uma vida interiormente consagrada a Deus, seguindo o vosso exemplo de oração, silêncio e amor. Amém.",
+        "meditacao": "15 de julho é a festa de Nossa Senhora do Carmo. Por todo o mundo, fiéis renovam sua devoção e vestem o Escapulário. A devoção mariana não é ornamento supérfluo da fé — é o caminho que Maria percorreu primeiro e nos convida a percorrer com ela: em direção ao Filho, ao Pai, ao Espírito.",
+        "escritura": "\"Eis tua mãe. E desde aquela hora o discípulo a recebeu em sua casa.\" (Jo 19,27)"
+      }
+    ]
+  },
+  {
+    "id": "santo-inacio-loyola",
+    "slug": "novena-santo-inacio-loyola",
+    "nome": "Novena a Santo Inácio de Loyola",
+    "santoSlug": "santo-inacio-loyola",
+    "mes": 7,
+    "inicioMes": 7,
+    "inicioDia": 22,
+    "fimMes": 7,
+    "fimDia": 30,
+    "descricao": "Novena ao fundador da Companhia de Jesus, mestre do discernimento espiritual e dos Exercícios Espirituais.",
+    "intencoes": ["Discernimento", "Vocação", "Missão"],
+    "oracaoInicial": "Ó Deus, que levantastes Santo Inácio de Loyola na vossa Igreja para manifestar uma maior perfeição de vida e uma mais ampla propagação da fé, concedei-nos, por sua intercessão, servir-vos com a generosidade com que ele vos serviu. Amém.",
+    "oracaoFinal": "Santo Inácio de Loyola, tudo para a maior glória de Deus, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Da Vanglória à Glória de Deus",
+        "oracao": "Santo Inácio, que fostes ferido em Pamplona enquanto sonhavas com glórias militares e, na convalescença, fostes convertido pela leitura das vidas dos santos, ensinai-nos a estar disponíveis para a conversão em qualquer momento. Que Deus use inclusive nossos momentos de fraqueza para nos transformar. Amém.",
+        "meditacao": "Inácio, na cama de recuperação, leu por falta de romances cavaleirescos apenas as vidas dos santos. Percebeu que ao imaginar feitos militares ficava animado mas voltava vazio, enquanto ao imaginar seguir os santos ficava animado e permanecia cheio de paz. Este discernimento de consolações e desolações se tornou o fundamento dos Exercícios Espirituais.",
+        "escritura": "\"Examinai tudo; ficai com o que é bom.\" (1Ts 5,21)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Conversão em Manresa",
+        "oracao": "Santo Inácio, que em Manresa passastes meses de purificação intensa — entre consolações místicas e tentações terríveis — ensinai-nos que o caminho para Deus nem sempre é suave. Que aceitemos os períodos de purificação como obra de Deus em nossas almas. Amém.",
+        "meditacao": "Em Manresa, Inácio passou por visões extraordinárias (incluindo uma iluminação junto ao rio Cardoner) e por desolações terríveis, chegando quase ao suicídio. Esta experiência dupla o ensinou a discernir os espíritos. As trevas que ele atravessou tornaram-se a luz com que iluminou milhões. Deus usa nossa experiência pessoal da noite para ensinar outros.",
+        "escritura": "\"O que vos digo na escuridão, dizei-o na luz.\" (Mt 10,27)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Os Exercícios Espirituais",
+        "oracao": "Santo Inácio, que redigistes os Exercícios Espirituais como fruto de vossa experiência com Deus e de vosso estudo da alma humana, intercedei por todos os que fazem retiros espirituais. Que o encontro com Deus no silêncio dos exercícios transforme suas vidas como transformou a vossa. Amém.",
+        "meditacao": "Os Exercícios Espirituais de Inácio são uma das obras mais influentes da história do catolicismo. Seu princípio-fundamento começa: 'O homem é criado para louvar, reverenciar e servir a Deus Nosso Senhor, e assim salvar a sua alma.' Tudo o mais na terra foi criado para ajudar a alcançar esse fim. Você está usando a criação como meio ou como fim?",
+        "escritura": "\"Buscai primeiro o reino de Deus e a sua justiça.\" (Mt 6,33)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Discernimento dos Espíritos",
+        "oracao": "Santo Inácio, mestre do discernimento espiritual, ensinai-nos a distinguir os movimentos interiores que vêm de Deus dos que vêm do ego ou do inimigo. Que saibamos seguir as consolações verdadeiras e desconfiar das que nos afastam de Deus, mesmo que pareçam boas. Amém.",
+        "meditacao": "Inácio ensinou: o espírito bom produz consolação nos que caminham para Deus; o mau espírito produz desolação. Mas o mau espírito pode disfarçar-se de anjo da luz. A regra prática: olhe para o fruto — um bom impulso termina em paz, humildade e amor; um mau impulso termina em confusão, orgulho e distância de Deus.",
+        "escritura": "\"Pelos frutos os conhecereis.\" (Mt 7,16)"
+      },
+      {
+        "dia": 5,
+        "titulo": "AMDG: Para Maior Glória de Deus",
+        "oracao": "Santo Inácio, que tornastes vosso lema 'Ad Majorem Dei Gloriam' (Para Maior Glória de Deus) o critério de toda decisão, ensinai-nos a fazer o mesmo. Que em cada escolha perguntemos: isso dá mais glória a Deus? Isso me aproxima mais d'Ele e do próximo? Amém.",
+        "meditacao": "'AMDG' — este lema jesuíta não é marketing, mas critério de discernimento. Toda decisão, grande ou pequena, pode ser filtrada por ele. Não: 'o que quero?' ou 'o que é mais fácil?', mas: 'o que dá mais glória a Deus e mais serve ao próximo?' Esta pergunta, feita honestamente, muda as escolhas.",
+        "escritura": "\"Portanto, quer comais, quer bebais, quer façais qualquer outra coisa, fazei tudo para a glória de Deus.\" (1Cor 10,31)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Inácio e a Companhia de Jesus",
+        "oracao": "Santo Inácio, fundador da Companhia de Jesus, que reunistes em torno de vós homens dedicados a ir onde a Igreja mais precisasse, intercedei pelos jesuítas de hoje. Que continuem o espírito de missão audaciosa, inteligência a serviço da fé e presença nas fronteiras do mundo. Amém.",
+        "meditacao": "A Companhia de Jesus nasceu de um grupo de amigos que faziam os Exercícios juntos em Paris. Da amizade na fé nasce a missão. Os jesuítas foram enviados às missões mais difíceis — China, Japão, Brasil, os confins da terra. Inácio sabia: ir às periferias é ir ao coração de Deus.",
+        "escritura": "\"Ide por todo o mundo.\" (Mc 16,15)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Inácio e a Obediência ao Papa",
+        "oracao": "Santo Inácio, que fizestes da obediência ao Romano Pontífice o quarto voto especial dos jesuítas, ensinai-nos a fidelidade à Igreja. Que amemos a Igreja concreta, com seus santos e pecadores, e que estejamos disponíveis a ir onde ela nos enviar. Amém.",
+        "meditacao": "Inácio via na obediência ao Papa não uma limitação, mas uma forma de assegurar que a Companhia servisse à Igreja universal, e não a interesses particulares. Numa era de individualismo espiritual, a disponibilidade para ser enviado — para não escolher sempre a missão que mais agrada — é uma virtude rara e preciosa.",
+        "escritura": "\"Como o Pai me enviou, assim também eu vos envio.\" (Jo 20,21)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Inácio e a Contemplação na Ação",
+        "oracao": "Santo Inácio, que cultivastes a espiritualidade de 'contemplativo na ação' — encontrar Deus em todas as coisas —, ensinai-nos a ver Deus no trabalho, na família, na cidade. Que a nossa vida ativa não seja fuga da oração, mas expressão dela. Amém.",
+        "meditacao": "'Encontrar Deus em todas as coisas' é a síntese da espiritualidade inaciana. Não é necessário estar num mosteiro para encontrar Deus — Ele está no laboratório, no escritório, no tráfego, na conversa difícil. A graça não está reservada ao espaço sagrado: todo espaço pode ser sagrado.",
+        "escritura": "\"O céu é meu trono e a terra o escabelo de meus pés.\" (Is 66,1)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Tomae-me, Senhor",
+        "oracao": "Santo Inácio, ao concluirmos esta novena, rezamos vossa oração mais famosa: Tomai, Senhor, e recebei toda a minha liberdade, a minha memória, o meu entendimento e toda a minha vontade; tudo o que tenho e possuo. Vós mo destes; a vós, Senhor, o torno. Tudo é vosso; disponde de mim segundo a vossa vontade. Dai-me o vosso amor e graça, que isto me basta. Amém.",
+        "meditacao": "A 'Oração da Entrega' de Inácio é talvez a mais radical de toda a tradição cristã. Oferecer liberdade, memória, entendimento e vontade — o que é mais nosso — é o ato supremo de confiança em Deus. Mas a contrapartida é incrível: 'Dai-me o vosso amor e graça, que isto me basta.' Quem tem o amor de Deus, tem tudo.",
+        "escritura": "\"Não sou mais eu que vivo, é Cristo que vive em mim.\" (Gl 2,20)"
+      }
+    ]
+  }
+]

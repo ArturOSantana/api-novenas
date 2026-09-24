@@ -1,0 +1,162 @@
+[
+  {
+    "id": "nossa-senhora-aparecida",
+    "slug": "novena-nossa-senhora-aparecida",
+    "nome": "Novena a Nossa Senhora Aparecida",
+    "santoSlug": "nossa-senhora-aparecida",
+    "mes": 10,
+    "inicioMes": 10,
+    "inicioDia": 3,
+    "fimMes": 10,
+    "fimDia": 11,
+    "descricao": "Novena preparatória à festa da Padroeira do Brasil, celebrada em 12 de outubro.",
+    "intencoes": ["Brasil", "Proteção", "Família", "Pobres"],
+    "oracaoInicial": "Ó Nossa Senhora Aparecida, Padroeira do Brasil, a vós recorremos com filial confiança. Intercedei por nós junto ao vosso Filho Jesus e obtende-nos as graças de que necessitamos. Amém.",
+    "oracaoFinal": "Nossa Senhora Aparecida, Padroeira do Brasil, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Descoberta da Imagem",
+        "oracao": "Nossa Senhora Aparecida, que surgistes do fundo do Rio Paraíba nas mãos de pescadores humildes, mostrastes que Deus prefere os pequenos para revelar suas maravilhas. Intercedei pelo povo simples e humilde do Brasil, por quem vós mesma escolhestes aparecer. Amém.",
+        "meditacao": "Em outubro de 1717, os pescadores Domingos Garcia, João Alves e Filipe Pedroso pescavam sem sucesso. Então a rede trouxe o corpo e depois a cabeça de uma imagem de Nossa Senhora. Com a imagem, os peixes vieram em abundância. Deus chega quando menos esperamos, pelos meios mais humildes.",
+        "escritura": "\"Os pobres ouvirão a boa notícia.\" (Mt 11,5)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Nossa Senhora Negra",
+        "oracao": "Nossa Senhora Aparecida, imagem negra pelo tempo e pelo rio, que representais a face africana do povo brasileiro, intercedei pelos afrodescendentes do Brasil. Pela superação do racismo, pela valorização da cultura negra e pela igual dignidade de todos os filhos de Deus. Amém.",
+        "meditacao": "A imagem escurecida de Nossa Senhora Aparecida foi providencial: ela representa os escravizados africanos que nela se reconheceram, os índios, os mestiços — o povo pobre e moreno do Brasil. Maria apareceu 'brasileira' para um povo que precisava de uma mãe que se parecesse com ele. Deus encarna-se em cada cultura.",
+        "escritura": "\"Não há grego nem judeu, escravo nem livre... pois todos sois um em Cristo Jesus.\" (Gl 3,28)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Nossa Senhora e os Escravizados",
+        "oracao": "Nossa Senhora Aparecida, que fostes a consoladora dos escravizados africanos no Brasil colonial, intercedei por todos os que vivem sob alguma forma de escravidão hoje: tráfico de pessoas, trabalho escravo, dependência química. Que a libertação que vosso Filho veio trazer alcance a todos. Amém.",
+        "meditacao": "Muitos escravizados fugiam para rezar diante da imagem de Nossa Senhora Aparecida, guardada pela família Castanha. A fé era sua única liberdade. Para eles, Maria não era figura piegas — era presença real de esperança numa situação de desespero. A fé dos mais pobres tem uma profundidade que os privilegiados raramente alcançam.",
+        "escritura": "\"O Senhor enviou-me a anunciar a libertação aos cativos.\" (Lc 4,18)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Crescimento da Devoção",
+        "oracao": "Nossa Senhora Aparecida, que de uma pequena imagem na fazenda do Castanha cresceste até se tornar o maior santuário mariano do mundo, ensinai-nos que os pequenos inícios de fé podem gerar grandes frutos. Que nunca desprezemos as sementes pequenas que Deus planta em nossos corações. Amém.",
+        "meditacao": "Do quarto de rezas do Castanha para a primeira ermida, da ermida para a primeira Igreja, da primeira Igreja para a Basílica velha, e depois para a Basílica Nova de Aparecida — inaugurada em 1980 por João Paulo II — capaz de abrigar 45.000 pessoas. Uma imagem pescada num rio gerou isso. O que Deus poderia fazer com o pequeno 'sim' que você ainda não deu?",
+        "escritura": "\"O reino dos céus é semelhante a um grão de mostarda.\" (Mt 13,31)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Nossa Senhora e João Paulo II",
+        "oracao": "Nossa Senhora Aparecida, que acolhestes a visita de São João Paulo II em 1980 e recebestes de suas mãos a Rosa de Ouro, símbolo de amor especial da Santa Sé, intercedei pela unidade da Igreja no Brasil e no mundo. Que o laço de amor entre o Brasil e Roma se fortaleça. Amém.",
+        "meditacao": "Em 4 de julho de 1980, João Paulo II visitou Aparecida e consagrou o Brasil ao Imaculado Coração de Maria. Diante de milhões de fiéis, disse: 'Maria escolheu o Brasil.' Voltou em 2007, já como Bento XVI, para o V CELAM. O Santuário de Aparecida é mais que um lugar turístico — é o coração espiritual do Brasil.",
+        "escritura": "\"Eis que todas as gerações me chamarão bem-aventurada.\" (Lc 1,48)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Nossa Senhora e o Papa Francisco",
+        "oracao": "Nossa Senhora Aparecida, que em julho de 2013 recebestes a visita do Papa Francisco durante a Jornada Mundial da Juventude no Rio de Janeiro, intercedei pelo Santo Padre e pela juventude do mundo. Que os jovens encontrem em Maria a mãe que os guia até Cristo. Amém.",
+        "meditacao": "O Papa Francisco, antes de ser eleito, participou da Conferência do CELAM em Aparecida em 2007, onde foi um dos principais redatores do documento final. Ao visitar o Santuário em 2013, disse que vinha como filho, não como turista. Nossa Senhora Aparecida está ligada à história do atual papado de forma profunda.",
+        "escritura": "\"Donde me vem esta honra, que a Mãe de meu Senhor venha ter comigo?\" (Lc 1,43)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Nossa Senhora e o Povo Brasileiro",
+        "oracao": "Nossa Senhora Aparecida, Mãe do povo brasileiro, intercedei por esta nação que tanto vos ama. Pelas suas alegrias e sofrimentos, pelas desigualdades que marcam esta terra tão rica, pelos seus líderes e pelos seus marginalizados. Que o Brasil cumpra sua vocação de ser terra de esperança para os povos. Amém.",
+        "meditacao": "O Brasil é o maior país católico do mundo — e o catolicismo brasileiro tem em Nossa Senhora Aparecida seu centro. Mas esta fé precisa ser vivida: numa terra tão desigual, a Padroeira desafia seus filhos a lutar pela justiça. Ser devoto de Nossa Senhora Aparecida implica amar os pobres como ela amou os escravizados.",
+        "escritura": "\"O rico foi embora de mãos vazias e os pobres foram saciados de bens.\" (Lc 1,53)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Roubo e a Devolução da Imagem",
+        "oracao": "Nossa Senhora Aparecida, que tivestes vossa imagem roubada em 1978 e devolvida fragmentada — e mesmo assim continuastes sendo cultuada com amor —, ensinai-nos que a fé não depende de imagens perfeitas, mas do coração que acredita. Que quando nossa fé parecer 'fragmentada', saibamos que vós continuais conosco. Amém.",
+        "meditacao": "Em 1978, um estudante entrou no Santuário, roubou e destruiu a imagem original em pedaços. Mas a devoção não diminuiu — cresceu. Hoje a imagem é um mosaico recomposto e protegida por um estuário. Às vezes aquilo que o mal destrói, o amor reconstrói ainda mais belo. O que em sua fé ou vida parece partido e pode ser recomposto?",
+        "escritura": "\"Os ossos que esmagastes exultarão.\" (Sl 51,10)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Consagração ao Brasil de Nossa Senhora",
+        "oracao": "Nossa Senhora Aparecida, ao concluirmos esta novena às vésperas de vossa festa, consagramos a vós o Brasil inteiro. Cada estado, cada cidade, cada família. Cobri este povo com vosso manto. Que a fé que trouxe tantos milhões de peregrinos ao vosso Santuário transforme este país em instrumento de paz, justiça e fraternidade no mundo. Amém.",
+        "meditacao": "12 de outubro — festa da Padroeira do Brasil — é feriado nacional. Milhões de peregrinos convergem para Aparecida. Mas Nossa Senhora não está apenas no Santuário: ela está em cada lar que tem sua imagem, em cada coração que a invoca. A Padroeira do Brasil é também a mãe do seu bairro, da sua família, do seu coração.",
+        "escritura": "\"Eis tua mãe.\" (Jo 19,27)"
+      }
+    ]
+  },
+  {
+    "id": "sao-joao-paulo-ii",
+    "slug": "novena-sao-joao-paulo-ii",
+    "nome": "Novena a São João Paulo II",
+    "santoSlug": "sao-joao-paulo-ii",
+    "mes": 10,
+    "inicioMes": 10,
+    "inicioDia": 13,
+    "fimMes": 10,
+    "fimDia": 21,
+    "descricao": "Novena ao Papa polonês que evangelizou o mundo e foi um dos maiores santos do século XX.",
+    "intencoes": ["Juventude", "Família", "Paz", "Vocações"],
+    "oracaoInicial": "Ó Deus, que ao vosso servo João Paulo II concedestes governar a vossa Igreja com amor e coragem, e cujo pontificado foi marcado pelo anúncio corajoso do Evangelho a todas as nações, concedei-nos, por sua intercessão, a graça de seguirmos fielmente Cristo. Amém.",
+    "oracaoFinal": "São João Paulo II, o Grande, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Karol, o Filho Polonês",
+        "oracao": "São João Paulo II, que crescestes numa Polônia marcada pela dor — perdendo vossa mãe aos 8 anos, vosso irmão aos 12 e vosso pai aos 21, na mesma época em que a guerra devastava vossa pátria —, ensinai-nos a fé que cresce no sofrimento. Que nunca percamos Deus quando tudo o mais se perde. Amém.",
+        "meditacao": "Karol Wojtyla cresceu numa série de perdas. Diante de cada uma, ao invés de perder a fé, a aprofundou. Ele dizia que viu a mão de Maria protegendo-o em todas as tragédias. A dor pode nos aproximar ou afastar de Deus — a diferença está em como nos relacionamos com ela. Que perdas você viveu que poderiam ter te aproximado mais de Deus?",
+        "escritura": "\"O Senhor está perto dos que têm o coração partido.\" (Sl 34,19)"
+      },
+      {
+        "dia": 2,
+        "titulo": "João Paulo II e a Juventude",
+        "oracao": "São João Paulo II, que tanto amaste a juventude e fundaste as Jornadas Mundiais da Juventude, intercedei pelos jovens do mundo. Pelos que buscam sentido, pelos que se perderam nas drogas e vícios, pelos que nunca ouviram falar de Cristo. Que a Igreja saiba ser para eles o que você foi: presença acolhedora e exigente de Cristo. Amém.",
+        "meditacao": "João Paulo II dizia: 'Jovens, não tenhais medo!' Ele acreditava genuinamente nos jovens, tratava-os como portadores do futuro da Igreja. As JMJs — que ele criou — reúnem hoje milhões de jovens. Há jovens em sua família ou comunidade que precisam encontrar Cristo. Como você pode ser para eles o que João Paulo II foi para tantos?",
+        "escritura": "\"Não desprezeis ninguém por ser jovem.\" (1Tm 4,12)"
+      },
+      {
+        "dia": 3,
+        "titulo": "João Paulo II e a Família",
+        "oracao": "São João Paulo II, autor da Familiaris Consortio e defensor da família como 'santuário da vida', intercedei pelas famílias do mundo. Pelas que enfrentam crises, separações, violência. Que a visão de família que você propôs — comunidade de amor e vida — inspire as políticas e os corações. Amém.",
+        "meditacao": "João Paulo II chamou a família de 'santuário da vida' e 'Igreja doméstica'. Sua teologia do corpo — desenvolvida ao longo de anos de catequeses — é uma das reflexões mais profundas já feitas sobre o amor humano e sua dimensão divina. O amor entre esposos é sinal sacramental do amor de Cristo pela Igreja.",
+        "escritura": "\"O que Deus uniu, o homem não separe.\" (Mt 19,6)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Atentado e o Perdão",
+        "oracao": "São João Paulo II, que fostes baleado na Praça de São Pedro em 13 de maio de 1981 e, ao recuperar-vos, fostes pessoalmente à prisão perdoar vosso agressor Ali Agca, ensinai-nos o perdão que vai além da natureza humana. Que o Espírito nos capacite a perdoar como vós perdoastes. Amém.",
+        "meditacao": "João Paulo II atribuiu sua sobrevivência a Nossa Senhora de Fátima — o atentado ocorreu em 13 de maio, dia da festa de Fátima. Ele doou a bala extraída do corpo ao Santuário de Fátima, onde está até hoje na coroa da imagem. Perdoar não é esquecer nem justificar o mal — é libertar a si mesmo do peso do ressentimento.",
+        "escritura": "\"Perdoai-nos as nossas ofensas, assim como nós perdoamos aos que nos têm ofendido.\" (Mt 6,12)"
+      },
+      {
+        "dia": 5,
+        "titulo": "João Paulo II e a Misericórdia Divina",
+        "oracao": "São João Paulo II, que canonizastes Santa Faustina Kowalska e proclamastes o Domingo da Misericórdia, intercedei por todos os que se sentem indignos do perdão de Deus. Que a mensagem da Misericórdia Divina chegue até os últimos recantos da terra: Deus ama e perdoa sem limites. Amém.",
+        "meditacao": "João Paulo II tinha devoção especial à Misericórdia Divina, cujas revelações foram feitas a Santa Faustina. Ele foi o Papa que as promoveu à escala universal. A mensagem central: 'A humanidade não encontrará paz enquanto não se voltar com confiança para a Divina Misericórdia.' Não há pecado maior que a Misericórdia de Deus.",
+        "escritura": "\"Jesus, eu confio em Ti.\" — Oração da Imagem da Misericórdia Divina"
+      },
+      {
+        "dia": 6,
+        "titulo": "João Paulo II e o Ecumenismo",
+        "oracao": "São João Paulo II, que rezastes numa sinagoga e numa mesquita, reunistes cristãos de todas as confissões em Assis e pedistes perdão pelos erros históricos da Igreja, ensinai-nos a humildade e a abertura ao diálogo. Que trabalhemos pela unidade dos cristãos e pelo entendimento entre as religiões. Amém.",
+        "meditacao": "João Paulo II foi o primeiro Papa a entrar numa sinagoga desde os tempos apostólicos (Roma, 1986), chamando os judeus de 'irmãos mais velhos na fé.' Entrou numa mesquita (Damasco, 2001). A coragem do diálogo não nasce de relativismo — nasce da certeza que a verdade não teme o encontro.",
+        "escritura": "\"Bem-aventurados os pacificadores.\" (Mt 5,9)"
+      },
+      {
+        "dia": 7,
+        "titulo": "João Paulo II e a Queda do Comunismo",
+        "oracao": "São João Paulo II, que por vosso pontificado e vosso apoio ao Solidariedade polonês contribuístes para a queda pacífica do comunismo no Leste Europeu, intercedei pelos povos ainda sob opressão. Que a liberdade — religiosa, política e humana — alcance todos os povos da terra. Amém.",
+        "meditacao": "Mikhail Gorbachev disse: 'O que aconteceu no Leste Europeu no final dos anos 1980 não teria sido possível sem João Paulo II.' Sem disparar um tiro, um papa derrubou um império. Sua arma: a verdade sobre a dignidade humana, proclamada sem medo. A verdade dita com amor tem um poder que nenhum exército possui.",
+        "escritura": "\"A verdade vos libertará.\" (Jo 8,32)"
+      },
+      {
+        "dia": 8,
+        "titulo": "João Paulo II, o Moribundo",
+        "oracao": "São João Paulo II, que vivestes vossos últimos anos progressivamente mais doente, mas nunca abandonastes o ministério, ensinai-nos que a vida não perde valor com a doença ou a velhice. Que cada etapa da vida — até a última — seja vivida com dignidade e fé. Intercedei pelos enfermos e pelos que cuidam deles. Amém.",
+        "meditacao": "João Paulo II morreu em 2 de abril de 2005, com Parkinson avançado e o corpo completamente enfraquecido. Mas se recusou a se esconder — aparecia nas janelas, tremendo, incapaz de falar. Este último testemunho foi talvez o mais poderoso de todo o seu pontificado: a vida humana tem valor até o último fôlego.",
+        "escritura": "\"Pois para mim, o viver é Cristo, e o morrer é lucro.\" (Fl 1,21)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Santo Subito!",
+        "oracao": "São João Paulo II, ao concluirmos esta novena em vossa honra, unimos nossa voz à do povo que, em sua praça, clamava 'Santo Subito!' Rogai por nós com o amor com que amaste o Brasil, que visitastes quatro vezes, e por toda a humanidade que tão profundamente amaste. Amém.",
+        "meditacao": "Quando João Paulo II morreu, a Praça de São Pedro se encheu de jovens que passaram a noite. Na funeral, cartazes diziam 'Santo Subito' (Santo já!). O povo beatificou-o antes da Igreja. Ele foi beatificado em 2011 e canonizado em 2014, com João XXIII. Seus últimas palavras: 'Deixai-me ir ao Pai.' Que possamos dizer o mesmo na nossa hora.",
+        "escritura": "\"Bom servo e fiel... entra na alegria do teu Senhor.\" (Mt 25,21)"
+      }
+    ]
+  }
+]

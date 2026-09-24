@@ -1,0 +1,162 @@
+[
+  {
+    "id": "assuncao-nossa-senhora",
+    "slug": "novena-assuncao-nossa-senhora",
+    "nome": "Novena da Assunção de Nossa Senhora",
+    "santoSlug": "nossa-senhora",
+    "mes": 8,
+    "inicioMes": 8,
+    "inicioDia": 6,
+    "fimMes": 8,
+    "fimDia": 14,
+    "descricao": "Novena preparatória à solenidade da Assunção de Nossa Senhora, celebrada em 15 de agosto.",
+    "intencoes": ["Morte Cristã", "Ressurreição", "Vida Eterna"],
+    "oracaoInicial": "Ó Maria, que fostes assumida ao céu em corpo e alma, sede nossa guia nesta peregrinação terrena. Intercedei por nós junto ao vosso Filho para que um dia possamos participar da mesma glória que Deus vos concedeu. Amém.",
+    "oracaoFinal": "Nossa Senhora Assunta, Rainha do Céu e da Terra, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Maria, a Primeira Ressurreta",
+        "oracao": "Santíssima Virgem Maria, Assunta ao Céu em corpo e alma, sede para nós penhor certo da ressurreição que esperamos. Vós que fostes a primeira a participar plenamente do fruto da Redenção de vosso Filho, intercedei para que também nós cheguemos um dia à mesma glória. Amém.",
+        "meditacao": "A Assunção de Maria antecipa o destino de toda a humanidade redimida. Maria não é exceção — é primícia. Seu corpo glorificado é o modelo e a promessa do que nos aguarda na ressurreição final. O corpo humano é sagrado: tão sagrado que o próprio Filho de Deus o assumiu e Maria o carregou eternamente.",
+        "escritura": "\"Cristo ressuscitou dos mortos, primícias dos que morreram.\" (1Cor 15,20)"
+      },
+      {
+        "dia": 2,
+        "titulo": "O Corpo como Templo",
+        "oracao": "Santíssima Virgem Maria, que fostes o tabernáculo do Filho de Deus e cujo corpo foi tão honrado por Deus que O recebeu nas entranhas, ensinai-nos a respeitar o corpo humano — o nosso e o dos outros — como templo do Espírito Santo. Amém.",
+        "meditacao": "A Assunção afirma algo sobre o corpo: ele não é prisão da alma, mas sua expressão e parceiro. Deus criou o corpo e disse 'é muito bom'. O corpo de Maria foi honrado por Deus de forma única. Isso diz algo sobre como devemos tratar nossos próprios corpos: com respeito, temperança e dignidade.",
+        "escritura": "\"Não sabeis que o vosso corpo é templo do Espírito Santo?\" (1Cor 6,19)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Maria, Sinal de Esperança",
+        "oracao": "Maria Assunta, sinal brilhante de esperança para a Igreja peregrina, quando a morte parecer definitiva e o céu inacessível, lembrai-nos de vós. Vós que sois nossa irmã em humanidade e agora reinais na glória, sois a prova de que o caminho de Deus leva ao triunfo do amor. Amém.",
+        "meditacao": "O Concílio Vaticano II chama Maria de 'sinal de esperança segura e de consolo para o povo de Deus peregrino' (LG 68). Em tempos de desânimo, olhar para Maria Assunta é olhar para onde vamos. O fim da história não é a morte — é a glorificação. O fim não é o túmulo — é o céu.",
+        "escritura": "\"Onde estiver, também o meu servo estará.\" (Jo 12,26)"
+      },
+      {
+        "dia": 4,
+        "titulo": "A Dormição de Maria",
+        "oracao": "Santíssima Virgem, que a tradição descreve adormecendo serenamente no Senhor cercada pelos apóstolos, ensinai-nos a morrer como nos foi prometido: na paz. Que nossa morte seja 'dormição' no Senhor, passagem tranquila para os braços do Pai. Amém.",
+        "meditacao": "A Igreja Oriental não usa o termo 'Assunção' mas 'Dormição' (Koimesis): Maria simplesmente dormiu e foi acordada por Deus para a glória. Esta imagem da morte como sono é profundamente bíblica. Jesus disse: 'Lázaro dormiu' (Jo 11,11). Para quem acredita na Ressurreição, a morte é uma noite que precede a manhã eterna.",
+        "escritura": "\"Não estou morto, mas adormecido.\" (Mt 9,24)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Maria e a Comunhão dos Santos",
+        "oracao": "Maria Assunta, Rainha de todos os Santos, ao contemplarmos vossa glória, contemplamos também toda a comunhão dos santos que intercede por nós. Que sejamos sempre lembrados de que não estamos sós nesta caminhada: somos rodeados de uma nuvem de testemunhas. Amém.",
+        "meditacao": "A doutrina da Comunhão dos Santos afirma que os mortos em estado de graça continuam unidos a nós pela caridade. Maria, no céu, nos ama e ora por nós. Os santos que amamos e que partiram continuam a nossa jornada conosco, de um patamar mais elevado. Você sente essa companhia invisível?",
+        "escritura": "\"Estamos rodeados de uma tão grande nuvem de testemunhas.\" (Hb 12,1)"
+      },
+      {
+        "dia": 6,
+        "titulo": "O Dogma da Assunção",
+        "oracao": "Senhor Jesus, que honrastes vossa Mãe assumindo-a ao Céu em corpo e alma, ensinai-nos a honrar também nossas mães terrenas e todas as mulheres. Que o exemplo de como Deus honrou Maria inspire as famílias e a sociedade a tratar a mulher com a dignidade que merece. Amém.",
+        "meditacao": "O dogma da Assunção foi definido pelo Papa Pio XII em 1950 — o dogma mais recentemente definido pela Igreja Católica. Não foi algo novo: era crença antiquíssima da Igreja, finalmente formulada como dogma. A fé do povo fiel frequentemente percebe a verdade antes que a teologia a articule formalmente.",
+        "escritura": "\"Todas as gerações me chamarão bem-aventurada.\" (Lc 1,48)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Maria, Rainha do Universo",
+        "oracao": "Maria Assunta e coroada Rainha do Universo, que reinais não com poder opressor mas com amor maternal, sede nossa Rainha. Reinai em nossos corações, em nossas famílias e em nossas comunidades. Que onde vós reinardes, vosso Filho Jesus também reine. Amém.",
+        "meditacao": "A Assunção culmina na coroação de Maria como Rainha. Mas sua realeza é única: ela reina como Mãe, com amor — não com poder coercitivo. É a realeza do serviço que Jesus mesmo inaugurou: 'Quem quiser ser o primeiro entre vós seja o servidor de todos' (Mc 10,44). A verdadeira grandeza serve.",
+        "escritura": "\"Uma grande sinal apareceu no céu: uma mulher vestida de sol, com a lua sob seus pés e uma coroa de doze estrelas na cabeça.\" (Ap 12,1)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Maria e a Escatologia Cristã",
+        "oracao": "Santíssima Virgem Maria, que já habitais a plenitude da vida ressuscitada que nós ainda aguardamos, sede nosso guia escatológico. Que a contemplação do vosso destino glorioso mantenha vivos em nós o desejo do céu e a disposição para o que é necessário percorrer até lá. Amém.",
+        "meditacao": "Maria Assunta é a síntese de toda a escatologia cristã: morte → ressurreição → glorificação. Ela nos mostra de forma antecipada o que nos aguarda. A esperança cristã não é escapismo — é a certeza fundamentada na Ressurreição de Cristo e na Assunção de Maria de que o amor vence a morte.",
+        "escritura": "\"Esperamos os novos céus e a nova terra.\" (2Pd 3,13)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Consagração a Maria Assunta",
+        "oracao": "Gloriosa Virgem Maria, Assunta em corpo e alma ao Céu e coroada Rainha do Universo, ao concluirmos esta novena, consagramo-nos a vós. Sede nossa Mãe nesta terra e nossa intercessora no céu. Que um dia possamos contemplar convosco a face de Deus por toda a eternidade. Amém.",
+        "meditacao": "15 de agosto é a maior festa mariana do ano litúrgico. Em muitas tradições, é o dia de oferecer frutos ao Senhor em ação de graças, um costume que remonta à Igreja primitiva. Maria Assunta é o fruto mais perfeito que a terra deu ao céu. Toda a criação está destinada a ser transfigurada. Qual fruto de sua vida você quer oferecer a Deus hoje?",
+        "escritura": "\"Deus resgatou o teu corpo da corrupção e te encheu de graça.\" — Antífona da Assunção"
+      }
+    ]
+  },
+  {
+    "id": "sao-pio-pietrelcina",
+    "slug": "novena-sao-pio-pietrelcina",
+    "nome": "Novena a São Pio de Pietrelcina",
+    "santoSlug": "sao-pio-pietrelcina",
+    "mes": 9,
+    "inicioMes": 9,
+    "inicioDia": 14,
+    "fimMes": 9,
+    "fimDia": 22,
+    "descricao": "Novena ao frade capuchinho estigmatizado, confessor e guia espiritual, um dos santos mais populares do século XX.",
+    "intencoes": ["Confissão", "Estigmas", "Oração", "Doenças"],
+    "oracaoInicial": "Ó Deus, que concedestes a São Pio de Pietrelcina a graça admirável de participar da Paixão de vosso Filho, ensinai-nos a abraçar a nossa cruz com fé e amor. Amém.",
+    "oracaoFinal": "São Pio de Pietrelcina, Padre Pio, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Padre Pio, o Sacerdote",
+        "oracao": "São Pio de Pietrelcina, sacerdote configurado a Cristo crucificado, intercedei por todos os sacerdotes. Pelos que exercem o ministério com fidelidade e pelos que se afastaram. Que o exemplo da vossa vida sacerdotal inspire uma nova geração de padres apaixonados por Cristo e pelos pecadores. Amém.",
+        "meditacao": "Padre Pio dizia: 'O sacerdócio é o amor do coração de Jesus.' Ele passava horas no confessionário — às vezes 15 a 19 horas por dia. Para ele, o confessionário era o trono da misericórdia. Cada absolvição era um milagre. Quando foi sua última confissão? O Sacramento da Reconciliação é um encontro com o amor misericordioso de Cristo.",
+        "escritura": "\"A quem perdoardes os pecados, estão perdoados.\" (Jo 20,23)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Os Estigmas de Padre Pio",
+        "oracao": "São Pio, que durante 50 anos carregastes os estigmas de Cristo — as chagas nas mãos, nos pés e no lado —, ensinai-nos a sentido do sofrimento redentor. Que possamos oferecer nossas dores ao Senhor, unindo-as à Paixão de Cristo para a salvação das almas. Amém.",
+        "meditacao": "Padre Pio recebeu os estigmas em 20 de setembro de 1918 — o primeiro sacerdote estigmatizado da história. Durante 50 anos, perdeu diariamente litros de sangue. Médicos ficaram sem explicação. Os estigmas não são autopunição: são sinal de uma participação mística na Cruz de Cristo. Para Pio, cada ferida era expressão de amor.",
+        "escritura": "\"Trago impressas no meu corpo as marcas de Jesus.\" (Gl 6,17)"
+      },
+      {
+        "dia": 3,
+        "titulo": "Padre Pio e o Confessionário",
+        "oracao": "São Pio, que passastes décadas no confessionário acolhendo pecadores de todo o mundo com severidade e ternura, intercedei pelos penitentes de hoje. Pelos que têm medo de se confessar, pelos que sentem vergonha, pelos que não creem no perdão de Deus. Que encontrem, como os penitentes de Padre Pio, a misericórdia que liberta. Amém.",
+        "meditacao": "Padre Pio às vezes recusava a absolvição ou dizia ao penitente pecados que ele havia esquecido de confessar — evidenciando o dom de leitura dos corações. Mas jamais desprezou um pecador sincero. Sua dureza era a dureza do pai que ama demais para mentir. A misericórdia verdadeira não exclui a verdade.",
+        "escritura": "\"Teus pecados estão perdoados.\" (Lc 7,48)"
+      },
+      {
+        "dia": 4,
+        "titulo": "Padre Pio e a Eucaristia",
+        "oracao": "São Pio, que celebravas a Missa com tal fervor que durava horas e que choravas durante o Cânon ao contemplar o Sacrifício de Cristo, aumentai em nós o amor e a devoção eucarística. Que a Missa não seja para nós rotina, mas o centro e o pico de cada dia. Amém.",
+        "meditacao": "A Missa de Padre Pio durava entre 2 e 4 horas. Ele chorava durante a consagração. Perguntado por que chorava, respondeu: 'Porque o Sacrifício que aqui se oferece é o mesmo do Calvário — e o Calvário não se contempla sem lágrimas.' Quando foi a última vez que a Missa te tocou profundamente?",
+        "escritura": "\"Fazei isto em memória de mim.\" (Lc 22,19)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Padre Pio e o Sofrimento",
+        "oracao": "São Pio, que abraçastes o sofrimento como vocação específica para a salvação das almas, ensinai-nos a oferecer nossos sofrimentos a Deus. Não buscamos o sofrimento, mas quando vem, que possamos uni-lo à Cruz de Cristo e que não se perca, mas frutifique. Amém.",
+        "meditacao": "Padre Pio sofreu toda a vida: doenças físicas desde a infância, estigmas, incompreensão por parte das autoridades eclesiásticas, proibições de exercer o ministério por períodos. Mas ele dizia: 'Que não posso oferecer ao Senhor senão o sofrimento?' O sofrimento bem vivido é oração de alta intensidade.",
+        "escritura": "\"Completo em minha carne o que falta às tribulações de Cristo.\" (Cl 1,24)"
+      },
+      {
+        "dia": 6,
+        "titulo": "Padre Pio e os Seus Filhos Espirituais",
+        "oracao": "São Pio, que guiastes milhares de almas como diretor espiritual, intercedei pelos diretores espirituais de hoje. Que haja sacerdotes e leigos sábios e santos capazes de guiar outros no caminho de Deus. Que cada cristão encontre um guia que o ajude a crescer. Amém.",
+        "meditacao": "Padre Pio tinha centenas de milhares de filhos espirituais. Muitos viajavam do mundo inteiro para se confessar com ele. Ele lia corações, dava conselhos precisos e orava por seus filhos espirituais continuamente. A direção espiritual é uma das mais preciosas práticas da tradição cristã — e uma das mais negligenciadas hoje.",
+        "escritura": "\"Sede imitadores meus, como eu o sou de Cristo.\" (1Cor 11,1)"
+      },
+      {
+        "dia": 7,
+        "titulo": "Padre Pio e o Rosário",
+        "oracao": "São Pio, que nunca largavas o terço das mãos e dirias que o Rosário é a arma mais poderosa contra o mal, ensinai-nos a rezar o Rosário com fé e amor. Que esta oração tão simples e tão profunda seja nossa âncora diária. Amém.",
+        "meditacao": "Padre Pio era constantemente visto com o terço nas mãos. Recebia diariamente dezenas de terços de todo o mundo para abençoar. Dizia: 'Com esta arma destruiremos todos os monstros do vício, abateremos toda heresia e toda tentação.' O Rosário é uma escola de contemplação para o povo simples.",
+        "escritura": "\"Quando orardes, entrai no vosso quarto, fechai a porta.\" (Mt 6,6)"
+      },
+      {
+        "dia": 8,
+        "titulo": "Padre Pio e a Bilocação",
+        "oracao": "São Pio, que segundo inúmeros testemunhos aparecestes em lugares distantes ao mesmo tempo para socorrer almas em perigo, ensinai-nos a fé na providência de Deus que supera os limites do espaço e do tempo. Que saibamos que nossas orações alcançam quem amamos, por mais distantes que estejam. Amém.",
+        "meditacao": "Os fenômenos sobrenaturais de Padre Pio — bilocação, leitura de corações, perfume de flores sem fonte visível — foram amplamente documentados. A Igreja não exige que creiamos neles, mas os registra. Esses sinais apontam para a realidade do mundo espiritual que rodeia o material. Nossa oração tem efeitos reais além dos que podemos ver.",
+        "escritura": "\"Ele enviará seus anjos com grande sonido de trombeta.\" (Mt 24,31)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Padre Pio, Santo do Século XX",
+        "oracao": "Glorioso São Pio de Pietrelcina, ao concluirmos esta novena em vossa honra, pedimos que intercedais por nossas intenções mais urgentes. Vós que tanto sofrestes pela salvação das almas, obtende-nos a graça de uma vida cristã fervorosa, de uma morte santa e de uma eternidade gloriosa com Deus. Amém.",
+        "meditacao": "Padre Pio morreu em 23 de setembro de 1968, com os estigmas cicatrizados — como se Deus dissesse que a missão estava cumprida. Foi canonizado por João Paulo II em 16 de junho de 2002 diante de 500.000 pessoas. Uma de suas frases mais famosas: 'Reza, espera e não te preocupes. A preocupação é inútil. Deus é misericordioso e ouvirá a tua oração.' Leve isso para hoje.",
+        "escritura": "\"Bem-aventurado aquele que sofre a provação.\" (Tg 1,12)"
+      }
+    ]
+  }
+]
