@@ -25,10 +25,10 @@ app.use(
   })
 );
 
-// Rate limiting: 100 requisições por 15 min por IP
+// Rate limiting: 300 requisições por 15 min por IP (API pública)
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 100,
+  max: 300,
   standardHeaders: true,
   legacyHeaders: false,
   message: { sucesso: false, erro: 'Muitas requisições. Tente novamente em 15 minutos.', codigo: 429 },
