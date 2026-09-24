@@ -74,6 +74,7 @@ Edite o JSON do mês em `src/data/novenas/` seguindo o schema:
   "fimMes": 5,    "fimDia": 12,
   "descricao": "...",
   "intencoes": ["Família"],
+  "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
   "oracaoInicial": "...",
   "oracaoFinal": "...",
   "dias": [

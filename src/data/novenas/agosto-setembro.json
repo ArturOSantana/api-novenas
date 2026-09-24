@@ -10,7 +10,12 @@
     "fimMes": 8,
     "fimDia": 14,
     "descricao": "Novena preparatória à solenidade da Assunção de Nossa Senhora, celebrada em 15 de agosto.",
-    "intencoes": ["Morte Cristã", "Ressurreição", "Vida Eterna"],
+    "intencoes": [
+      "Morte Cristã",
+      "Ressurreição",
+      "Vida Eterna"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Maria, que fostes assumida ao céu em corpo e alma, sede nossa guia nesta peregrinação terrena. Intercedei por nós junto ao vosso Filho para que um dia possamos participar da mesma glória que Deus vos concedeu. Amém.",
     "oracaoFinal": "Nossa Senhora Assunta, Rainha do Céu e da Terra, rogai por nós.",
     "dias": [
@@ -90,7 +95,13 @@
     "fimMes": 9,
     "fimDia": 22,
     "descricao": "Novena ao frade capuchinho estigmatizado, confessor e guia espiritual, um dos santos mais populares do século XX.",
-    "intencoes": ["Confissão", "Estigmas", "Oração", "Doenças"],
+    "intencoes": [
+      "Confissão",
+      "Estigmas",
+      "Oração",
+      "Doenças"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que concedestes a São Pio de Pietrelcina a graça admirável de participar da Paixão de vosso Filho, ensinai-nos a abraçar a nossa cruz com fé e amor. Amém.",
     "oracaoFinal": "São Pio de Pietrelcina, Padre Pio, rogai por nós.",
     "dias": [
@@ -170,7 +181,14 @@
     "fimMes": 8,
     "fimDia": 27,
     "descricao": "Novena preparatória à festa de Santo Agostinho de Hipona, bispo, teólogo e Doutor da Igreja, celebrada em 28 de agosto.",
-    "intencoes": ["Conversão", "Sabedoria", "Estudo", "Verdade", "Família"],
+    "intencoes": [
+      "Conversão",
+      "Sabedoria",
+      "Estudo",
+      "Verdade",
+      "Família"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que na vossa Igreja suscitastes o glorioso Santo Agostinho para ser mestre de verdade, místico do amor e modelo de conversão, concedei-nos, por sua intercessão, que ardamos do mesmo desejo de vos buscar, ó Beleza antiga e sempre nova, e de encontrar somente em vós o nosso descanso. Amém.",
     "oracaoFinal": "Santo Agostinho de Hipona, rogai por nós e ajudai-nos a acalmar a nossa inquietação somente em Deus. Amém.",
     "dias": [
@@ -250,7 +268,14 @@
     "fimMes": 8,
     "fimDia": 14,
     "descricao": "Novena preparatória à festa de São Tarcísio, coroinha e jovem mártir da Eucaristia, celebrada em 15 de agosto.",
-    "intencoes": ["Acólitos", "Eucaristia", "Crianças", "Fidelidade", "Coragem"],
+    "intencoes": [
+      "Acólitos",
+      "Eucaristia",
+      "Crianças",
+      "Fidelidade",
+      "Coragem"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus todo-poderoso, que concedestes ao jovem São Tarcísio a graça de defender heroicamente a Sagrada Eucaristia com o sacrifício de sua própria vida, concedei-nos, por sua intercessão, um amor apaixonado pelo Santíssimo Sacramento do altar e a coragem de testemunhar nossa fé com integridade e fidelidade. Amém.",
     "oracaoFinal": "São Tarcísio, mártir da Eucaristia, rogai por nós e guardai nosso coração puro para acolher sempre dignamente o Pão do Céu. Amém.",
     "dias": [

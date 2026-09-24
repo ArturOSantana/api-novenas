@@ -10,7 +10,12 @@
     "fimMes": 12,
     "fimDia": 7,
     "descricao": "Novena preparatória à Solenidade da Imaculada Conceição, celebrada em 8 de dezembro.",
-    "intencoes": ["Pureza", "Conversão", "Vocações"],
+    "intencoes": [
+      "Pureza",
+      "Conversão",
+      "Vocações"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Maria, concebida sem pecado original, sede nossa advogada junto a Deus. Pela graça que vos encheu desde o primeiro instante de vossa existência, obtende-nos a pureza de coração que nos torna aptos para a vida de Deus. Amém.",
     "oracaoFinal": "Imaculada Conceição, rogai por nós que recorremos a vós.",
     "dias": [
@@ -90,7 +95,13 @@
     "fimMes": 12,
     "fimDia": 24,
     "descricao": "Novena de preparação para o Natal, inspirada nas homilias natalinas do Papa São Leão Magno (século V).",
-    "intencoes": ["Natal", "Encarnação", "Família", "Paz"],
+    "intencoes": [
+      "Natal",
+      "Encarnação",
+      "Família",
+      "Paz"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Senhor Jesus Cristo, que por amor a nós descestes do céu e vos fizestes carne no seio virginal de Maria, preparai nossos corações para a vossa vinda. Que o Natal não seja para nós apenas uma celebração externa, mas um renovado encontro com Vós. Amém.",
     "oracaoFinal": "Ó Salvador do mundo, que nascestes de Maria Virgem, salvai-nos.",
     "dias": [

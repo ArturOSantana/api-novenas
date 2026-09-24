@@ -10,7 +10,13 @@
     "fimMes": 5,
     "fimDia": 12,
     "descricao": "Novena preparatória à festa de Nossa Senhora de Fátima, em memória das aparições de 1917 em Portugal.",
-    "intencoes": ["Paz", "Conversão", "Rússia", "Família"],
+    "intencoes": [
+      "Paz",
+      "Conversão",
+      "Rússia",
+      "Família"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Minha Senhora do Rosário, que aparecestes em Fátima para revelar a três inocentes pastorzinhos os tesouros de graças que Deus quer nos dar, inspire em nossos corações o amor à vossa penitência e prece para salvarmos as almas. Amém.",
     "oracaoFinal": "Nossa Senhora de Fátima, Rainha do Santo Rosário, rogai por nós.",
     "dias": [
@@ -90,7 +96,12 @@
     "fimMes": 5,
     "fimDia": 22,
     "descricao": "Novena à padroeira das causas impossíveis, das viúvas e dos casamentos difíceis.",
-    "intencoes": ["Causas Impossíveis", "Casamento", "Família"],
+    "intencoes": [
+      "Causas Impossíveis",
+      "Casamento",
+      "Família"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Santa Rita, padroeira das causas impossíveis, a vós recorremos nesta novena, confiantes em vossa poderosa intercessão junto a Deus. Apresentai nossas súplicas ao Senhor e obtende-nos as graças que precisamos. Amém.",
     "oracaoFinal": "Santa Rita de Cássia, rosa perfumada de Cássia, rogai por nós.",
     "dias": [
@@ -170,7 +181,14 @@
     "fimMes": 5,
     "fimDia": 29,
     "descricao": "Novena preparatória à festa de Santa Joana d'Arc, camponesa, guerreira da fé e padroeira da França, celebrada em 30 de maio.",
-    "intencoes": ["Coragem", "Fidelidade à Vocação", "Justiça", "Jovens", "Proteção"],
+    "intencoes": [
+      "Coragem",
+      "Fidelidade à Vocação",
+      "Justiça",
+      "Jovens",
+      "Proteção"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que de forma admirável escolhestes a jovem Santa Joana d'Arc para defender sua pátria e testemunhar a fé com coragem heróica perante seus juízes, concedei-nos, por sua intercessão, a graça de escutarmos sempre as vossas inspirações e de defendermos com bravura e integridade a vossa verdade no meio do mundo. Amém.",
     "oracaoFinal": "Santa Joana d'Arc, guerreira destemida da fé, rogai por nós e dai-nos a coragem de combater o bom combate até o fim. Amém.",
     "dias": [

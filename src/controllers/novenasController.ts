@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { ApiResponse, ApiErro, NovenaResumo, CalendarioItem } from '../types';
+import { ApiResponse, ApiErro, NovenaResumo, CalendarioItem, NovenaData } from '../types';
 import todasNovenas from '../data/novenas';
 
 const MESES = [
@@ -127,6 +127,42 @@ export function calendarioAnual(req: Request, res: Response): void {
       meses: calendario.map((c) => ({ ...c, nomeMes: MESES[c.mes] })),
     },
     total: todasNovenas.length,
+  };
+  res.json(resposta);
+}
+
+export function datasDoAno(req: Request, res: Response): void {
+  const anoParam = req.query.ano;
+  const ano = anoParam ? parseInt(String(anoParam), 10) : new Date().getFullYear();
+
+  if (isNaN(ano) || ano < 1900 || ano > 2100) {
+    const erro: ApiErro = { sucesso: false, erro: 'Parâmetro "ano" deve ser um número entre 1900 e 2100.', codigo: 400 };
+    res.status(400).json(erro);
+    return;
+  }
+
+  function toISO(y: number, m: number, d: number): string {
+    return `${y}-${String(m).padStart(2, '0')}-${String(d).padStart(2, '0')}`;
+  }
+
+  const dados: NovenaData[] = todasNovenas.map((n) => {
+    // Quando fimMes < inicioMes, a novena cruza a virada do ano (ex: 23/12 → 01/01)
+    const anoFim = n.fimMes < n.inicioMes ? ano + 1 : ano;
+    return {
+      slug: n.slug,
+      nome: n.nome,
+      inicio: toISO(ano, n.inicioMes, n.inicioDia),
+      fim: toISO(anoFim, n.fimMes, n.fimDia),
+    };
+  });
+
+  // Ordena por data de início
+  dados.sort((a, b) => a.inicio.localeCompare(b.inicio));
+
+  const resposta: ApiResponse<NovenaData[]> = {
+    sucesso: true,
+    dados,
+    total: dados.length,
   };
   res.json(resposta);
 }

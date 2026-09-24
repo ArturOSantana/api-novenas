@@ -10,7 +10,12 @@
     "fimMes": 3,
     "fimDia": 16,
     "descricao": "Novena ao apóstolo da Irlanda, escravo que se tornou o grande evangelizador de seu povo.",
-    "intencoes": ["Missões", "Conversão", "Perseverança"],
+    "intencoes": [
+      "Missões",
+      "Conversão",
+      "Perseverança"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus Todo-Poderoso, que por meio de São Patrício iluminas a Irlanda com a luz do Evangelho, ouvi as nossas súplicas e concedei-nos, por sua intercessão, a graça que pedimos nesta novena. Amém.",
     "oracaoFinal": "São Patrício, apóstolo da Irlanda, rogai por nós.",
     "dias": [
@@ -90,7 +95,13 @@
     "fimMes": 3,
     "fimDia": 18,
     "descricao": "Novena preparatória à festa de São José, esposo de Maria e pai adotivo de Jesus, patrono da Igreja Universal.",
-    "intencoes": ["Família", "Trabalho", "Pais", "Igreja Universal"],
+    "intencoes": [
+      "Família",
+      "Trabalho",
+      "Pais",
+      "Igreja Universal"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó São José, cujo poder e proteção são tão grandes aos olhos de Deus, vós que tão bem servistes de pai ao Filho de Deus e esposo à Rainha do Céu, atendei as súplicas de nosso coração. Amém.",
     "oracaoFinal": "São José, pai e senhor nosso, rogai por nós.",
     "dias": [

@@ -5,6 +5,7 @@ import {
   buscarDiaDaNovena,
   calendarioAnual,
   novenasHoje,
+  datasDoAno,
 } from '../controllers/novenasController';
 
 const router = Router();
@@ -26,6 +27,14 @@ router.get('/hoje', novenasHoje);
  * @desc   Retorna o calendário anual de novenas organizado por mês
  */
 router.get('/calendario', calendarioAnual);
+
+/**
+ * @route  GET /api/v1/novenas/datas?ano=2025
+ * @desc   Retorna array flat com slug, nome, inicio (ISO) e fim (ISO) de cada novena no ano informado.
+ *         O parâmetro ?ano é opcional; sem ele usa o ano corrente.
+ *         Novenas que cruzam a virada de ano (ex: 23/12 → 01/01) têm o fim no ano+1.
+ */
+router.get('/datas', datasDoAno);
 
 /**
  * @route  GET /api/v1/novenas/:slug

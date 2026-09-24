@@ -10,7 +10,12 @@
     "fimMes": 7,
     "fimDia": 15,
     "descricao": "Novena à Rainha e Ornamento do Carmelo, padroeira da Ordem Carmelita e protetora dos que usam o Escapulário.",
-    "intencoes": ["Proteção", "Morte Cristã", "Purgatório"],
+    "intencoes": [
+      "Proteção",
+      "Morte Cristã",
+      "Purgatório"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Flor do Carmelo, videira florida, esplendor do céu, ó Virgem singular, Mãe misericordiosa, estrela do mar, sede nossa ajuda e proteção, e pelo Santo Escapulário amparai os vossos devotos na hora da morte. Amém.",
     "oracaoFinal": "Nossa Senhora do Carmo, Rainha e Ornamento do Carmelo, rogai por nós.",
     "dias": [
@@ -90,7 +95,12 @@
     "fimMes": 7,
     "fimDia": 30,
     "descricao": "Novena ao fundador da Companhia de Jesus, mestre do discernimento espiritual e dos Exercícios Espirituais.",
-    "intencoes": ["Discernimento", "Vocação", "Missão"],
+    "intencoes": [
+      "Discernimento",
+      "Vocação",
+      "Missão"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que levantastes Santo Inácio de Loyola na vossa Igreja para manifestar uma maior perfeição de vida e uma mais ampla propagação da fé, concedei-nos, por sua intercessão, servir-vos com a generosidade com que ele vos serviu. Amém.",
     "oracaoFinal": "Santo Inácio de Loyola, tudo para a maior glória de Deus, rogai por nós.",
     "dias": [
@@ -170,7 +180,14 @@
     "fimMes": 7,
     "fimDia": 3,
     "descricao": "Novena preparatória à festa do Beato Pier Giorgio Frassati, o homem das oito bem-aventuranças, celebrada em 4 de julho.",
-    "intencoes": ["Jovens", "Caridade", "Alegria", "Montanhismo", "Estudantes"],
+    "intencoes": [
+      "Jovens",
+      "Caridade",
+      "Alegria",
+      "Montanhismo",
+      "Estudantes"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Senhor Jesus, que destes ao Beato Pier Giorgio Frassati a graça de abraçar com entusiasmo e alegria a sua juventude, servindo-vos nos pobres e amando-vos na oração constante, concedei-nos, por sua intercessão, a força para caminhar sempre 'rumo ao alto' e para ser testemunhas corajosas do vosso Evangelho. Amém.",
     "oracaoFinal": "Beato Pier Giorgio Frassati, ajudai-nos a subir rumo ao alto, à santidade de vida que Deus preparou para nós. Amém.",
     "dias": [

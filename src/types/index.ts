@@ -18,6 +18,7 @@ export interface Novena {
   fimDia: number;
   descricao: string;
   intencoes: string[];
+  fazerPedido?: string;
   oracaoInicial: string;
   oracaoFinal: string;
   dias: DiaDeNovena[];
@@ -50,6 +51,13 @@ export interface ApiErro {
   sucesso: false;
   erro: string;
   codigo: number;
+}
+
+export interface NovenaData {
+  slug: string;
+  nome: string;
+  inicio: string; // ISO 8601: YYYY-MM-DD
+  fim: string;    // ISO 8601: YYYY-MM-DD
 }
 
 export interface CalendarioItem {

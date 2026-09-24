@@ -10,7 +10,13 @@
     "fimMes": 6,
     "fimDia": 12,
     "descricao": "Trezena (13 dias) em honra de Santo Antônio de Pádua, o Taumaturgo, Doutor da Igreja e padroeiro dos objetos perdidos.",
-    "intencoes": ["Objetos perdidos", "Casamento", "Pobres", "Milagres"],
+    "intencoes": [
+      "Objetos perdidos",
+      "Casamento",
+      "Pobres",
+      "Milagres"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Santo Antônio, glorioso servo de Deus, que vos distinguistes pela vossa humildade, pela vossa ciência e pelos vossos milagres, vós que sois o patrono dos pobres e o consolador dos afligidos, tomai conta das nossas súplicas. Amém.",
     "oracaoFinal": "Santo Antônio de Pádua, Taumaturgo e Doutor Evangélico, rogai por nós.",
     "dias": [
@@ -118,7 +124,12 @@
     "fimMes": 6,
     "fimDia": 23,
     "descricao": "Novena preparatória ao Natalício de São João Batista, o Precursor de Cristo, 24 de junho.",
-    "intencoes": ["Conversão", "Batismo", "Vocação"],
+    "intencoes": [
+      "Conversão",
+      "Batismo",
+      "Vocação"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que suscitastes São João Batista para preparar o caminho de vosso Filho, concedei-nos, por sua intercessão, a graça da conversão do coração. Amém.",
     "oracaoFinal": "São João Batista, voz que clama no deserto, rogai por nós.",
     "dias": [
@@ -198,7 +209,12 @@
     "fimMes": 6,
     "fimDia": 26,
     "descricao": "Novena à Mãe do Perpétuo Socorro, cuja imagem milagrosa é venerada em Roma e em todo o mundo.",
-    "intencoes": ["Proteção", "Auxílio nas Dificuldades", "Família"],
+    "intencoes": [
+      "Proteção",
+      "Auxílio nas Dificuldades",
+      "Família"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Mãe do Perpétuo Socorro, dai-nos sempre o vosso auxílio. Protegei-nos em todas as nossas tentações e dificuldades. Amém.",
     "oracaoFinal": "Nossa Senhora do Perpétuo Socorro, nossa Mãe sempre presente, rogai por nós.",
     "dias": [
@@ -278,7 +294,14 @@
     "fimMes": 6,
     "fimDia": 25,
     "descricao": "Novena preparatória à festa de São Josemaria Escrivá, fundador do Opus Dei e apóstolo da santidade no trabalho ordinário, celebrada em 26 de junho.",
-    "intencoes": ["Trabalho", "Família", "Vocação", "Santidade Cotidiana", "Universitários"],
+    "intencoes": [
+      "Trabalho",
+      "Família",
+      "Vocação",
+      "Santidade Cotidiana",
+      "Universitários"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que concedestes ao vosso sacerdote São Josemaria a graça de anunciar a vocação universal à santidade e ao apostolado, concedei-nos, por sua intercessão, santificar o nosso trabalho cotidiano e encontrar a Deus em todas as circunstâncias da vida ordinária. Amém.",
     "oracaoFinal": "São Josemaria Escrivá, apóstolo da santidade no trabalho ordinário, rogai por nós.",
     "dias": [

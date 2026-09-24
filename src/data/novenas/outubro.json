@@ -10,7 +10,13 @@
     "fimMes": 10,
     "fimDia": 11,
     "descricao": "Novena preparatória à festa da Padroeira do Brasil, celebrada em 12 de outubro.",
-    "intencoes": ["Brasil", "Proteção", "Família", "Pobres"],
+    "intencoes": [
+      "Brasil",
+      "Proteção",
+      "Família",
+      "Pobres"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Nossa Senhora Aparecida, Padroeira do Brasil, a vós recorremos com filial confiança. Intercedei por nós junto ao vosso Filho Jesus e obtende-nos as graças de que necessitamos. Amém.",
     "oracaoFinal": "Nossa Senhora Aparecida, Padroeira do Brasil, rogai por nós.",
     "dias": [
@@ -90,7 +96,13 @@
     "fimMes": 10,
     "fimDia": 21,
     "descricao": "Novena ao Papa polonês que evangelizou o mundo e foi um dos maiores santos do século XX.",
-    "intencoes": ["Juventude", "Família", "Paz", "Vocações"],
+    "intencoes": [
+      "Juventude",
+      "Família",
+      "Paz",
+      "Vocações"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que ao vosso servo João Paulo II concedestes governar a vossa Igreja com amor e coragem, e cujo pontificado foi marcado pelo anúncio corajoso do Evangelho a todas as nações, concedei-nos, por sua intercessão, a graça de seguirmos fielmente Cristo. Amém.",
     "oracaoFinal": "São João Paulo II, o Grande, rogai por nós.",
     "dias": [
@@ -170,7 +182,14 @@
     "fimMes": 10,
     "fimDia": 11,
     "descricao": "Novena preparatória à festa do Beato Carlo Acutis, o ciberapóstolo da Eucaristia, celebrada em 12 de outubro.",
-    "intencoes": ["Jovens", "Eucaristia", "Fidelidade", "Internet", "Pureza"],
+    "intencoes": [
+      "Jovens",
+      "Eucaristia",
+      "Fidelidade",
+      "Internet",
+      "Pureza"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, nosso Pai, que pelo amor de vosso Filho Jesus Cristo na Eucaristia transformastes a vida do Beato Carlo Acutis em um farol de luz para os jovens, concedei-nos, por sua intercessão, a graça de amar a Eucaristia como ele a amou e de colocar Cristo no centro de nossas vidas. Amém.",
     "oracaoFinal": "Beato Carlo Acutis, rogai por nós e ajudai-nos a fazer da Eucaristia a nossa rodovia para o céu. Amém.",
     "dias": [
@@ -250,7 +269,14 @@
     "fimMes": 9,
     "fimDia": 30,
     "descricao": "Novena preparatória à festa de Santa Teresinha do Menino Jesus, a Pequena Flor do Carmelo e Doutora da Igreja, celebrada em 1 de outubro. Conhecida pela Novena das Rosas.",
-    "intencoes": ["Vocações", "Missões", "Confiança", "Humildade", "Chuva de Rosas"],
+    "intencoes": [
+      "Vocações",
+      "Missões",
+      "Confiança",
+      "Humildade",
+      "Chuva de Rosas"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Santíssima Trindade, Pai, Filho e Espírito Santo, eu vos agradeço por todos os favores e graças com que enriquecestes a alma de vossa serva Santa Teresinha do Menino Jesus durante os vinte e quatro anos que passou na terra. E, pelos méritos de tão querida santinha, concedei-me a graça que ardentemente vos peço, se for para a vossa maior glória e salvação de minha alma. Amém.",
     "oracaoFinal": "Santa Teresinha do Menino Jesus, que prometestes derramar uma chuva de rosas sobre o mundo, intercedei por mi e alcançai-me as graças de que necessito. Amém. (Rezar 24 Glórias ao Pai em ação de graças pelos 24 anos de vida de Santa Teresinha).",
     "dias": [

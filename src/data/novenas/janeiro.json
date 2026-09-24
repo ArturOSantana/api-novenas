@@ -10,7 +10,12 @@
     "fimMes": 1,
     "fimDia": 1,
     "descricao": "Novena que une o fim do Natal ao início do Ano Novo, pedindo a intercessão de Maria, Mãe de Deus, para abençoar o novo ano.",
-    "intencoes": ["Família", "Proteção", "Novo Ano"],
+    "intencoes": [
+      "Família",
+      "Proteção",
+      "Novo Ano"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Maria, Mãe de Deus e Mãe nossa, vós que fostes escolhida entre todas as mulheres para ser a Mãe do Salvador, olhai para nós com ternura maternal. Apresentai ao vosso Filho divino as nossas súplicas e obtende-nos as graças de que necessitamos. Amém.",
     "oracaoFinal": "Salve, Rainha, Mãe de misericórdia, vida, doçura e esperança nossa, salve! A vós clamamos os degredados filhos de Eva. A vós suspiramos, gemendo e chorando neste vale de lágrimas. Eia, pois, advogada nossa, esses vossos olhos misericordiosos a nós volvei. E depois deste desterro, mostrai-nos Jesus, bendito fruto do vosso ventre. Ó clemente, ó piedosa, ó doce sempre Virgem Maria.",
     "dias": [
@@ -90,7 +95,12 @@
     "fimMes": 1,
     "fimDia": 16,
     "descricao": "Novena ao jesuíta espanhol apóstolo do Brasil, fundador de cidades e defensor dos indígenas.",
-    "intencoes": ["Brasil", "Missões", "Educação"],
+    "intencoes": [
+      "Brasil",
+      "Missões",
+      "Educação"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que por meio de vosso servo José de Anchieta plantastes a semente do Evangelho na terra brasileira, concedei-nos, por sua intercessão, o ardor missionário e o amor ao próximo que tanto o distinguiram. Amém.",
     "oracaoFinal": "São José de Anchieta, apóstolo do Brasil, rogai por nós.",
     "dias": [
@@ -170,7 +180,12 @@
     "fimMes": 6,
     "fimDia": 26,
     "descricao": "Novena ao fundador do Opus Dei, apóstolo da santificação do trabalho e das atividades ordinárias da vida cristã.",
-    "intencoes": ["Vocação", "Trabalho", "Santidade no Cotidiano"],
+    "intencoes": [
+      "Vocação",
+      "Trabalho",
+      "Santidade no Cotidiano"
+    ],
+    "fazerPedido": "(Faça aqui o seu pedido de oração e as suas intenções particulares)",
     "oracaoInicial": "Ó Deus, que por meio de São Josemaría Escrivá fizestes crescer na Igreja o espírito de serviço, o amor à liberdade e a busca da santidade na vida ordinária, concedei-nos, por sua intercessão, viver o nosso trabalho e vida familiar como autêntica missão apostólica. Amém.",
     "oracaoFinal": "São Josemaría Escrivá, que tanto amaste a Cruz de Cristo e ensinaste o mundo que a santidade é para todos, rogai por nós.",
     "dias": [
