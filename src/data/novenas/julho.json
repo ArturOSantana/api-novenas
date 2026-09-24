@@ -158,5 +158,85 @@
         "escritura": "\"Não sou mais eu que vivo, é Cristo que vive em mim.\" (Gl 2,20)"
       }
     ]
+  },
+  {
+    "id": "pier-giorgio-frassati",
+    "slug": "novena-pier-giorgio-frassati",
+    "nome": "Novena ao Beato Pier Giorgio Frassati",
+    "santoSlug": "pier-giorgio-frassati",
+    "mes": 7,
+    "inicioMes": 6,
+    "inicioDia": 25,
+    "fimMes": 7,
+    "fimDia": 3,
+    "descricao": "Novena preparatória à festa do Beato Pier Giorgio Frassati, o homem das oito bem-aventuranças, celebrada em 4 de julho.",
+    "intencoes": ["Jovens", "Caridade", "Alegria", "Montanhismo", "Estudantes"],
+    "oracaoInicial": "Senhor Jesus, que destes ao Beato Pier Giorgio Frassati a graça de abraçar com entusiasmo e alegria a sua juventude, servindo-vos nos pobres e amando-vos na oração constante, concedei-nos, por sua intercessão, a força para caminhar sempre 'rumo ao alto' e para ser testemunhas corajosas do vosso Evangelho. Amém.",
+    "oracaoFinal": "Beato Pier Giorgio Frassati, ajudai-nos a subir rumo ao alto, à santidade de vida que Deus preparou para nós. Amém.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "Rumo ao Alto",
+        "oracao": "Beato Pier Giorgio Frassati, que amáveis escalar as montanhas e víeis nas alturas um convite para elevar vossa alma até Deus, alcançai-nos a graça de nunca nos acomodarmos na mediocridade. Que nossa vida seja um constante subir 'rumo ao alto', in busca da santidade e do amor divino. Amém.",
+        "meditacao": "Nas costas de uma de suas famosas fotos de alpinismo, Pier Giorgio escreveu: 'Verso l'Alto' (Rumo ao alto). Para ele, a escalada física era imagem da caminhada espiritual. Ele não suportava uma vida jovem arrastada, preguiçosa ou morna. A verdadeira juventude cristã é ativa, dinâmica e busca sempre as grandes alturas de Deus.",
+        "escritura": "\"Elevo os meus olhos para os montes: de onde me virá o socorro? O meu socorro vem do Senhor, que fez o céu e a terra.\" (Sl 121,1-2)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Alegria de Ser Cristão",
+        "oracao": "Beato Pier Giorgio Frassati, cujo sorriso contagiante e alegria radiante atraíam a todos e mostravam a beleza de seguir Cristo, intercedei para que sejamos libertos da tristeza e do desânimo. Que nossa fé se expresse na alegria verdadeira que nasce de um coração em paz com Deus. Amém.",
+        "meditacao": "Pier Giorgio dizia que a tristeza deveria ser banida do coração do cristão, pois a dor não é o mesmo que a tristeza, que é uma doença da alma. Em amava dar risadas, organizar passeios, brincar com os amigos e cantar. Ele nos ensina que a santidade não é carrancuda ou chata, mas é a fonte da verdadeira e contagiante alegria.",
+        "escritura": "\"Alegrai-vos sempre no Senhor; outra vez digo, alegrai-vos!\" (Fl 4,4)"
+      },
+      {
+        "dia": 3,
+        "titulo": "O Apóstolo dos Pobres",
+        "oracao": "Beato Pier Giorgio Frassati, que gastastes vossas tardes correndo pelos bairros pobres de Turim para levar comida, remédios e roupas aos necessitados, ensinai-nos a amar os pobres com obras e em verdade. Que saibamos ver e servir a Jesus na pessoa de cada necessitado. Amém.",
+        "meditacao": "Filho do dono do influente jornal La Stampa, Pier Giorgio tinha acesso à alta sociedade, mas preferia os cortiços. Ele se juntou à Sociedade de São Vicente de Paulo e visitava dezenas de famílias necessitadas. Ele dizia: 'Jesus me visita todos os dias na Sagrada Comunhão, e eu O visito de modo humilde ao visitar os pobres'. O serviço aos pobres era sua adoração cotidiana na prática.",
+        "escritura": "\"Quem se compadece do pobre empresta ao Senhor, que lhe pagará o benefício.\" (Pr 19,17)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Amor pela Eucaristia",
+        "oracao": "Beato Pier Giorgio Frassati, que passastes noites inteiras em adoração silenciosa diante do Santíssimo Sacramento e encontráveis na Eucaristia a vossa força diária, alcançai-nos um amor apaixonado pelo Pão dos Anjos. Que Jesus Eucarístico seja o centro de nossos pensamentos e ações. Amém.",
+        "meditacao": "Pier Giorgio participava da Missa diariamente e frequentemente passava a noite em vigília eucarística com outros jovens. Ele escreveu: 'Peço-vos que rezeis um pouco por mim, para que Deus me dê uma vontade forte, que não se dobre e não falte às suas promessas'. A Eucaristia era o fogo que alimentava sua imensa caridade externa.",
+        "escritura": "\"O que come a minha carne e bebe o meu sangue permanece em mim e eu nele.\" (Jo 6,56)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Devoção à Virgem Maria",
+        "oracao": "Beato Pier Giorgio Frassati, que desde a infância tivestes um amor filial à Virgem Maria e nunca saíeis de casa sem vosso terço no bolso, ensinai-nos a confiar em nossa Mãe do Céu. Que o terço seja nossa arma contra as tentações e nosso consolo nas tribulações. Amém.",
+        "meditacao": "Pier Giorgio tinha um amor profundo a Nossa Senhora, venerando-a especialmente no Santuário de Oropa. Ele rezava o terço diariamente, muitas vezes de joelhos no chão frio de seu quarto. Ele sabia que Maria é a protetora da pureza dos jovens e o caminho mais rápido para chegar a Jesus Cristo.",
+        "escritura": "\"Disse Maria: A minha alma engrandece ao Senhor, e o meu espírito se alegra em Deus, meu Salvador.\" (Lc 1,46-47)"
+      },
+      {
+        "dia": 6,
+        "titulo": "O Estudante Comprometido",
+        "oracao": "Beato Pier Giorgio Frassati, que estudastes engenharia de minas com o único propósito de poder trabalhar perto dos operários e ajudá-los a viver com mais dignidade, intercedei por todos os estudantes. Que o estudo seja para nós um meio de servir ao próximo e de glorificar a Deus. Amém.",
+        "meditacao": "Pier Giorgio não estudava para obter prestígio, riqueza ou poder. Ele escolheu engenharia de minas porque os mineiros tinham as piores condições de trabalho na época. Ele queria estar no meio deles como um irmão e ajudá-los tanto material como espiritualmente. O conhecimento só é verdadeiramente valioso quando se transforma em serviço.",
+        "escritura": "\"Tudo o que fizerdes, fazei-o de bom coração, como para o Senhor e não para os homens.\" (Cl 3,23)"
+      },
+      {
+        "dia": 7,
+        "titulo": "O Defensor da Justiça Social",
+        "oracao": "Beato Pier Giorgio Frassati, que com coragem participastes de manifestações em favor da liberdade e da justiça, sem medo de ser preso ou espancado, dai-nos a coragem de combater as injustiças sociais e de defender a verdade do Evangelho em nossa sociedade. Amém.",
+        "meditacao": "Pier Giorgio opôs-se ativamente ao fascismo nascente na Itália e participou de movimentos de juventude católica socialmente engajados. Ele não se calava diante da opressão. Ele acreditava que a caridade cristã deve andar de mãos dadas com a busca pela justiça social e política. O cristão não pode ser omisso diante do sofrimento estrutural de seu povo.",
+        "escritura": "\"Buscai a justiça, socorrei o oprimido, defendei o direito do órfão, pleiteai a causa da viúva.\" (Is 1,17)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Amigo Fiel",
+        "oracao": "Beato Pier Giorgio Frassati, que reunistes vossos amigos na associação 'I Tipi Loschi' (Os Tipos Suspeitos) para fortalecer a fé mútua por meio da amizade e da diversão santa, ensinai-nos a cultivar amizades verdadeiras e santas, que nos ajudem a caminhar para Deus. Amém.",
+        "meditacao": "Frassati fundou um grupo informal de amizade chamado 'I Tipi Loschi'. Por trás das piadas e das caminhadas nas montanhas, havia um pacto profundo de oração mútua, estudo do Evangelho e caridade com os pobres. Ele mostra que a verdadeira amizade não nos afasta de Deus, mas nos encoraja a segui-Lo com mais fervor.",
+        "escritura": "\"O amigo ama em todo o tempo; e para o dia da angústia nasce o irmão.\" (Pr 17,17)"
+      },
+      {
+        "dia": 9,
+        "titulo": "A Partida Silenciosa",
+        "oracao": "Beato Pier Giorgio Frassati, que contraístes poliomielite ao visitar os pobres doentes de Turim e partistes deste mundo silenciosamente aos 24 anos de idade, ensinai-nos a aceitar a morte com serenidade e esperança na ressurreição. Que nosso funeral seja, como o vosso, o triunfo do amor. Amém.",
+        "meditacao": "Pier Giorgio faleceu em 4 de julho de 1925. Seus pais esperavam um funeral simples de burgueses, mas ficaram chocados ao ver milhares de pobres e sem-teto enchendo as ruas de Turim, chorando pelo seu jovem benfeitor e amigo. Ele foi beatificado pelo Papa João Paulo II em 1990, que o chamou de 'O homem das oito bem-aventuranças'. Sua vida curta produziu frutos eternos.",
+        "escritura": "\"Preciosa é aos olhos do Senhor a morte dos seus santos.\" (Sl 116,15)"
+      }
+    ]
   }
 ]

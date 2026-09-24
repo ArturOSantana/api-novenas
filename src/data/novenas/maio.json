@@ -158,5 +158,85 @@
         "escritura": "\"Bem-aventurados os que morrem no Senhor!\" (Ap 14,13)"
       }
     ]
+  },
+  {
+    "id": "santa-joana-darc",
+    "slug": "novena-santa-joana-darc",
+    "nome": "Novena a Santa Joana d'Arc",
+    "santoSlug": "santa-joana-darc",
+    "mes": 5,
+    "inicioMes": 5,
+    "inicioDia": 21,
+    "fimMes": 5,
+    "fimDia": 29,
+    "descricao": "Novena preparatória à festa de Santa Joana d'Arc, camponesa, guerreira da fé e padroeira da França, celebrada em 30 de maio.",
+    "intencoes": ["Coragem", "Fidelidade à Vocação", "Justiça", "Jovens", "Proteção"],
+    "oracaoInicial": "Ó Deus, que de forma admirável escolhestes a jovem Santa Joana d'Arc para defender sua pátria e testemunhar a fé com coragem heróica perante seus juízes, concedei-nos, por sua intercessão, a graça de escutarmos sempre as vossas inspirações e de defendermos com bravura e integridade a vossa verdade no meio do mundo. Amém.",
+    "oracaoFinal": "Santa Joana d'Arc, guerreira destemida da fé, rogai por nós e dai-nos a coragem de combater o bom combate até o fim. Amém.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Voz de Deus no Silêncio",
+        "oracao": "Santa Joana d'Arc, que ainda na infância aprendestes a ouvir e discernir as vozes celestiais no silêncio do campo, alcançai-nos a graça de silenciarmos os ruídos do mundo. Que saibamos escutar as inspirações do Espírito Santo e responder com prontidão ao chamado de Deus. Amém.",
+        "meditacao": "Joana d'Arc era uma camponesa simples de Domrémy que não sabia ler nem escrever, mas era rica em fé. Aos 13 anos, começou a ouvir as vozes do Arcanjo Miguel, de Santa Catarina e de Santa Margarida, que a chamavam para salvar a França. Deus se revela no silêncio, na simplicidade e na humildade de coração. Você tem reservado um tempo de silêncio para escutar a voz de Deus?",
+        "escritura": "\"Fala, Senhor, porque o teu servo ouve.\" (1Sm 3,9)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Coragem de Responder ao Chamado",
+        "oracao": "Santa Joana d'Arc, que vencestes vossos medos humanos e a incredulidade dos que vos rodeavam para cumprir a missão que Deus vos confiou, alcançai-nos a virtude da coragem espiritual. Que nenhum obstáculo humano nos impeça de seguir o caminho que Deus traçou para nós. Amém.",
+        "meditacao": "A missão de Joana parecia absurda: uma jovem camponesa liderar exércitos em nome de Deus para libertar a França dos invasores ingleses. Ela enfrentou zombaria e incredulidade, mas permaneceu firme na obediência divina. Deus não escolhe os capacitados; Ele capacita os escolhidos. Diante do chamado de Deus, o que nos falta é a coragem do 'sim'.",
+        "escritura": "\"Não te mandei eu? Sê forte e corajoso; não temas, nem te espantes; porque o Senhor teu Deus é contigo, por onde quer que fores.\" (Jos 1,9)"
+      },
+      {
+        "dia": 3,
+        "titulo": "A Eucaristia e a Oração como Força",
+        "oracao": "Santa Joana d'Arc, que antes de cada batalha fazíeis questão de que vossos soldados se confessassem e participassem da Santa Missa, e cuja força vinha do Santíssimo Sacramento, ensinai-nos a buscar nos sacramentos a nossa fortaleza espiritual para as lutas da vida. Amém.",
+        "meditacao": "Joana tinha uma devoção profunda pela Missa e pela comunhão diária. Sob seu estandarte com os nomes de 'Jesus e Maria', ela exigia uma conduta moral exemplar de seus exércitos. Ela sabia que a verdadeira vitória não se alcança apenas com espadas, mas com o coração limpo perante Deus. O altar é o quartel-general do cristão.",
+        "escritura": "\"O Senhor é a minha força e o meu escudo; nele confiou o meu coração, e fui socorrido.\" (Sl 28,7)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Estandarte de Jesus e Maria",
+        "oracao": "Santa Joana d'Arc, que empunháveis o vosso estandarte com os nomes sagrados de Jesus e Maria para levar a esperança e a paz aos soldados, ensinai-nos a colocar esses doces nomes no centro de nossas vidas. Que sob vossa intercessão sejamos soldados pacíficos do amor e da justiça. Amém.",
+        "meditacao": "Joana dizia que amava quarenta vezes mais o seu estandarte do que a sua espada. No estandarte, ela havia mandado pintar a imagem de Deus segurando o globo terrestre, cercado por dois anjos. Ela nos ensina que a nossa maior segurança não está nas armas humanas ou na nossa própria força, mas na soberania e no amor infinito de Deus.",
+        "escritura": "\"Eis que porei o meu sinal sobre as nações; e elas trarão os teus filhos nos seus braços.\" (Is 49,22)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Humildade na Vitória",
+        "oracao": "Santa Joana d'Arc, que no auge do vosso triunfo e após a coroação do rei de França em Reims permanecestes humilde, sem buscar recompensas humanas ou vanglórias, alcançai-nos a virtude da humildade cristã. Que saibamos dar toda a glória a Deus pelas nossas vitórias. Amém.",
+        "meditacao": "Após a vitória em Orleans e a sagração do rei Carlos VII — acontecimentos profetizados por ela —, Joana foi aclamada por toda a França. Mas sua única vontade era voltar para casa e cuidar de suas ovelhas com sua mãe. Ela nos ensina que o êxito humano é passageiro, e que a verdadeira grandeza está em cumprir a vontade do Pai, sem apegar-se aos elogios do mundo.",
+        "escritura": "\"Não a nós, Senhor, não a nós, mas ao teu nome dá glória.\" (Sl 115,1)"
+      },
+      {
+        "dia": 6,
+        "titulo": "A Traição e o Abandono",
+        "oracao": "Santa Joana d'Arc, que fostes traída, vendida aos inimigos e abandonada por aqueles que vós mesma havias ajudado e libertado, ajudai-nos a suportar a ingratidão e a incompreensão com paciência. Que nossa esperança esteja firme unicamente em Cristo, que nunca nos abandona. Amém.",
+        "meditacao": "Capturada pelos borgonheses, Joana foi vendida aos ingleses. O rei que ela coroou e os nobres que ela salvou não moveram um dedo para resgatá-la ou libertá-la. Ela experimentou o abandono doloroso que o próprio Jesus viveu no Getsêmani. Nas horas de solidão humana, lembremo-nos de que a fidelidade de Deus permanece intacta.",
+        "escritura": "\"Ainda que meu pai e minha mãe me abandonem, o Senhor me acolherá.\" (Sl 27,10)"
+      },
+      {
+        "dia": 7,
+        "titulo": "A Firmeza Perante os Juízes",
+        "oracao": "Santa Joana d'Arc, que suportastes com inteligência, suavidade e inabalável integridade os interrogatórios maliciosos de juízes corruptos que queriam condenar-vos por heresia, alcançai-nos a sabedoria do Espírito Santo. Que saibamos defender a verdade sem ceder ao medo ou às pressões humanas. Amém.",
+        "meditacao": "Durante meses de julgamento injusto, Joana — analfabeta — respondeu com sabedoria admirável a teólogos experientes e mal-intencionados. Quando lhe perguntaram se ela estava na graça de Deus, respondeu com humildade: 'Se não estou, que Deus me ponha nela; se estou, que Deus me guarde nela'. O Espírito Santo fala por meio dos puros e sinceros.",
+        "escritura": "\"Quando vos entregarem, não vos preocupeis em saber como ou o que falar, porque naquela hora vos será sugerido o que deveis dizer; pois não sereis vós que falareis, mas o Espírito do vosso Pai é que falará em vós.\" (Mt 10,19-20)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Martírio na Fogueira",
+        "oracao": "Santa Joana d'Arc, cuja vida foi consumida pelas chamas do ódio na fogueira de Rouen, e cujos olhos moribundos permaneceram fixos na cruz salvadora de Jesus Cristo, alcançai-nos a graça da fidelidade extrema. Que nada neste mundo, nem mesmo a morte, nos separe do amor de Deus. Amém.",
+        "meditacao": "Em 30 de maio de 1431, Joana foi queimada viva aos 19 anos. Ela pediu que lhe segurassem uma cruz de madeira bem diante de seus olhos para consolá-la. Em meio às labaredas de fogo, sua última palavra foi o doce nome de 'Jesus!'. O sofrimento dos justos não é derrota, mas o triunfo definitivo da fidelidade amorosa.",
+        "escritura": "\"Sê fiel até à morte, e dar-te-ei a coroa da vida.\" (Ap 2,10)"
+      },
+      {
+        "dia": 9,
+        "titulo": "A Vitória Final e a Justiça",
+        "oracao": "Gloriosa Santa Joana d'Arc, ao concluirmos esta novena, nós nos consagramos a vós. Intercedei por nossa pátria, pelos jovens e pelos que combatem em favor da justiça e da verdade. Que após os combates e provações deste mundo, possamos contemplar convosco a face gloriosa de Deus na eternidade. Amém.",
+        "meditacao": "Anos após sua morte, a própria Igreja revisou seu caso, declarou-a totalmente inocente de heresia e, posteriormente, canonizou-a como santa. O mal pode triunfar temporariamente, mas a justiça e a verdade de Deus sempre terão a última palavra na história. Santa Joana d'Arc nos mostra que a vitória pertence aos que confiam em Deus.",
+        "escritura": "\"O Senhor é juiz justo e forte.\" (Sl 7,11)"
+      }
+    ]
   }
 ]

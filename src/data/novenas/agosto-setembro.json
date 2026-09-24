@@ -158,5 +158,165 @@
         "escritura": "\"Bem-aventurado aquele que sofre a provação.\" (Tg 1,12)"
       }
     ]
+  },
+  {
+    "id": "santo-agostinho",
+    "slug": "novena-santo-agostinho",
+    "nome": "Novena a Santo Agostinho de Hipona",
+    "santoSlug": "santo-agostinho",
+    "mes": 8,
+    "inicioMes": 8,
+    "inicioDia": 19,
+    "fimMes": 8,
+    "fimDia": 27,
+    "descricao": "Novena preparatória à festa de Santo Agostinho de Hipona, bispo, teólogo e Doutor da Igreja, celebrada em 28 de agosto.",
+    "intencoes": ["Conversão", "Sabedoria", "Estudo", "Verdade", "Família"],
+    "oracaoInicial": "Ó Deus, que na vossa Igreja suscitastes o glorioso Santo Agostinho para ser mestre de verdade, místico do amor e modelo de conversão, concedei-nos, por sua intercessão, que ardamos do mesmo desejo de vos buscar, ó Beleza antiga e sempre nova, e de encontrar somente em vós o nosso descanso. Amém.",
+    "oracaoFinal": "Santo Agostinho de Hipona, rogai por nós e ajudai-nos a acalmar a nossa inquietação somente em Deus. Amém.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "O Coração Inquieto",
+        "oracao": "Santo Agostinho, que experimentastes em vossa própria vida a inquietação do coração que busca a verdade em caminhos vazios, intercedei por todos os que hoje andam perdidos, sem rumo ou sentido na via. Que compreendam que fomos criados para Deus e que nosso coração só descansará quando n'Ele repousar. Amém.",
+        "meditacao": "Nas suas famosas 'Confissões', Santo Agostinho escreveu a célebre frase: 'Criastes-nos para vós, Senhor, e o nosso coração anda inquieto enquanto não descansar em vós'. Essa inquietação não é um mal, mas uma bússola colocada por Deus em nossa alma para que nunca nos cansemos de O buscar. Nenhuma criatura humana ou prazer material pode satisfazer plenamente uma alma feita para o Infinito.",
+        "escritura": "\"A minha alma tem sede de Deus, do Deus vivo: quando irei e me apresentarei diante da face de Deus?\" (Sl 42,2)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Beleza Antiga e Sempre Nova",
+        "oracao": "Santo Agostinho, que tardastes a amar a Deus por O buscar nas coisas exteriores, alcançai-nos a graça de nos voltarmos para o nosso interior. Que saibamos encontrar a Deus que habita no mais profundo de nossas almas, e que nos apaixonemos por Sua Beleza eterna e purificadora. Amém.",
+        "meditacao": "'Tarde vos amei, ó Beleza tão antiga e tão nova, tarde vos amei! Eis que habitáveis dentro de mim e eu vos procurava fora!'. Agostinho lamentava os anos perdidos em que buscou a felicidade nas belezas criadas por Deus, sem perceber que o próprio Criador estava mais íntimo dele do que ele de si mesmo. Deus não está longe: Ele habita no templo do nosso coração.",
+        "escritura": "\"Não sabeis que sois o templo de Deus e que o Espírito de Deus habita em vós?\" (1Cor 3,16)"
+      },
+      {
+        "dia": 3,
+        "titulo": "As Lágrimas de Mônica",
+        "oracao": "Santo Agostinho, que fostes salvo da perdição e do erro pelas orações perseverantes e lágrimas incessantes de vossa mãe, Santa Mônica, intercedei por todas as mães e pais que choram pelo desvio de seus filhos. Concedei-lhes a graça da paciência e da fé inabalável de que nenhuma oração sincera se perde diante de Deus. Amém.",
+        "meditacao": "Durante mais de trinta anos, Santa Mônica rezou e chorou pela conversão de seu filho Agostinho, que havia caído no maniqueísmo e numa vida desregrada. Um bispo a consolou dizendo: 'É impossível que se perca o filho de tantas lágrimas!'. Deus ouviu os clamores daquela mãe paciente. A oração persistente tem o poder de abrir as portas do coração mais endurecido.",
+        "escritura": "\"Os que semeiam em lágrimas segarão com alegria.\" (Sl 126,5)"
+      },
+      {
+        "dia": 4,
+        "titulo": "A Luz da Palavra de Deus",
+        "oracao": "Santo Agostinho, que encontrastes a libertação definitiva das vossas amarras morais ao ler as Sagradas Escrituras após ouvir a voz que dizia 'Toma e lê', alcançai-nos um amor sincero pela Palavra de Deus. Que saibamos ouvi-la, meditá-la e encarná-la em nossas vidas diárias. Amém.",
+        "meditacao": "Estando num jardim em Milão, chorando por sua incapacidade de mudar de vida, Agostinho ouviu uma voz infantil cantarolar: 'Tolle et lege, tolle et lege' (Toma e lê, toma e lê). Ele abriu a Bíblia nas cartas de São Paulo (Rm 13,13-14) e ali uma luz de segurança inundou seu coração, dissipando todas as trevas da dúvida. A Palavra de Deus tem o poder de libertar e regenerar.",
+        "escritura": "\"Lâmpada para os meus pés é tua palavra, e luz para o meu caminho.\" (Sl 119,105)"
+      },
+      {
+        "dia": 5,
+        "titulo": "O Sacerdote e Bispo Servidor",
+        "oracao": "Santo Agostinho, que após vossa conversão renunciastes aos vossos projetos de vida contemplativa para servir ao povo de Deus como sacerdote e bispo de Hipona, ensinai-nos a generosidade do serviço. Que saibamos colocar nossos dons à disposição da Igreja e do próximo, sem buscar nossas próprias conveniências. Amém.",
+        "meditacao": "Embora desejasse viver em uma comunidade de estudo e silêncio, Agostinho aceitou o clamor do povo que o queria como pastor. Ele dedicou o resto de sua vida a pregar, atender os pobres, julgar causas locais e escrever obras monumentais para defender a fé da Igreja. O verdadeiro amor se faz serviço e sacrifício pelos outros.",
+        "escritura": "\"O Filho do homem não veio para ser servido, mas para servir e dar a sua vida em resgate de muitos.\" (Mc 10,45)"
+      },
+      {
+        "dia": 6,
+        "titulo": "O Mistério da Santíssima Trindade",
+        "oracao": "Santo Agostinho, insigne teólogo que com profunda humildade meditastes sobre o mistério inefável da Santíssima Trindade, alcançai-nos a virtude da humildade intelectual. Que compreendamos que os mistérios de Deus vão muito além da nossa inteligência, e que saibamos adorar com fé aquilo que não podemos compreender inteiramente pela razão. Amém.",
+        "meditacao": "Conta a tradição que, enquanto caminhava na praia tentando compreender o mistério da Trindade, Agostinho viu um menino que colocava água do mar num pequeno buraco na areia usando uma concha. Ao dizer que isso era impossível, o menino respondeu: 'É mais fácil colocar toda a água do oceano neste buraquinho do que o mistério da Trindade na tua mente'. Devemos nos aproximar de Deus com fé e reverente silêncio.",
+        "escritura": "\"Ó profundidade das riquezas, tanto da sabedoria, como do conhecimento de Deus! Quão insondáveis são os seus juízos, e quão inescrutáveis os seus caminhos!\" (Rm 11,33)"
+      },
+      {
+        "dia": 7,
+        "titulo": "O Amor à Verdadeira Igreja",
+        "oracao": "Santo Agostinho, que combatestes com caridade e firmeza os cismas e heresias que dividiam a Igreja em vossa época, intercedei pela unidade dos cristãos hoje. Que amemos a Igreja e saibamos manter viva a chama da unidade, da verdade e da comunhão fraterna em nossas comunidades. Amém.",
+        "meditacao": "Agostinho defendia que a validade dos sacramentos não dependia da pureza do ministro, mas de Cristo. Ele lutou contra o donatismo e o pelagianismo para preservar a verdade de que a salvação é pura graça e dom de Deus. O amor à Igreja e à unidade é o termômetro da nossa união com Cristo.",
+        "escritura": "\"Para que todos sejam um, como tu, ó Pai, o és em mim, e eu em ti; que também eles sejam um em nós.\" (Jo 17,21)"
+      },
+      {
+        "dia": 8,
+        "titulo": "A Cidade de Deus e a Cidade dos Homens",
+        "oracao": "Santo Agostinho, que ao ver o colapso do Império Romano escrevestes sobre a 'Cidade de Deus' para consolar os fiéis e lembrá-los de sua pátria eterna, ajudai-nos a não colocar nossa esperança definitiva nos reinos ou governos deste mundo. Que trabalhemos pela justiça na terra, sabendo que somos cidadãos do céu. Amém.",
+        "meditacao": "Diante do saque de Roma pelos bárbaros in 410, muitos achavam que o fim do mundo havia chegado. Agostinho escreveu 'A Cidade de Deus' para mostrar que os impérios humanos sobem e caem, mas o Reino de Deus permanece para sempre. Somos peregrinos nesta terra; nossa verdadeira pátria é a Jerusalém celestial.",
+        "escritura": "\"A nossa pátria está nos céus, de onde também esperamos o Salvador, o Senhor Jesus Cristo.\" (Fl 3,20)"
+      },
+      {
+        "dia": 9,
+        "titulo": "O Triunfo do Amor",
+        "oracao": "Glorioso Santo Agostinho, ao concluirmos esta novena, nós nos confiamos à vossa intercessão. Alcançai-nos de Deus um amor ardente como o vosso. Que nossa fé não seja apenas intelectual, mas que se transforme em caridade viva, para que, consumidos pelo fogo do amor de Deus, possamos reinar convosco na glória eterna. Amém.",
+        "meditacao": "Santo Agostinho faleceu em 28 de agosto de 430, enquanto os vândalos sitiavam sua cidade de Hipona. Ele partiu rezando os salmos penitenciais, deixando um legado de teologia e santidade que brilha até hoje na Igreja. Sua famosa regra prática: 'Ama e faz o que quiseres'. Quem ama verdadeiramente a Deus faz de cada escolha uma expressão desse amor.",
+        "escritura": "\"O amor é o cumprimento da lei.\" (Rm 13,10)"
+      }
+    ]
+  },
+  {
+    "id": "sao-tarcisio",
+    "slug": "novena-sao-tarcisio",
+    "nome": "Novena a São Tarcísio",
+    "santoSlug": "sao-tarcisio",
+    "mes": 8,
+    "inicioMes": 8,
+    "inicioDia": 6,
+    "fimMes": 8,
+    "fimDia": 14,
+    "descricao": "Novena preparatória à festa de São Tarcísio, coroinha e jovem mártir da Eucaristia, celebrada em 15 de agosto.",
+    "intencoes": ["Acólitos", "Eucaristia", "Crianças", "Fidelidade", "Coragem"],
+    "oracaoInicial": "Ó Deus todo-poderoso, que concedestes ao jovem São Tarcísio a graça de defender heroicamente a Sagrada Eucaristia com o sacrifício de sua própria vida, concedei-nos, por sua intercessão, um amor apaixonado pelo Santíssimo Sacramento do altar e a coragem de testemunhar nossa fé com integridade e fidelidade. Amém.",
+    "oracaoFinal": "São Tarcísio, mártir da Eucaristia, rogai por nós e guardai nosso coração puro para acolher sempre dignamente o Pão do Céu. Amém.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "O Jovem Servidor do Altar",
+        "oracao": "São Tarcísio, que desde a infância encontráveis no altar de Deus a vossa maior alegria e servíeis à Santa Missa com piedade e respeito, intercedei por todos os coroinhas, acólitos e ministros do altar. Que sirvam com o coração puro e inflamado de amor a Jesus Cristo. Amém.",
+        "meditacao": "No século III, a Igreja em Roma vivia sob terríveis perseguições. Mesmo assim, os cristãos se reuniam secretamente nas catacumbas para celebrar a Eucaristia. O jovem Tarcísio era um acólito dedicado, que amava estar perto do altar. Servir ao altar não é um simples dever, mas um privilégio de estar próximo do mistério supremo do amor de Deus.",
+        "escritura": "\"Entrarei até o altar de Deus, até o Deus que é a minha imensa alegria.\" (Sl 43,4)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Missão Perigosa",
+        "oracao": "São Tarcísio, que vos oferecestes voluntariamente para levar a Sagrada Eucaristia aos cristãos presos condenados à morte, sem temer o perigo, dai-nos a coragem de assumir as tarefas difíceis pela causa do Evangelho. Que nunca tenhamos vergonha ou medo de ser testemunhas do vosso amor. Amém.",
+        "meditacao": "Os prisioneiros cristãos que seriam martirizados no coliseu desejavam ardentemente receber a comunhão como viático — o pão da força para a partida. Mas era perigoso para um sacerdote ir até lá. O jovem Tarcísio, de cerca de 12 anos, ofereceu-se dizendo que sua juventude seria a melhor proteção, pois ninguém desconfiaria dele. A santidade não é questão de idade, mas de disponibilidade de amor.",
+        "escritura": "\"Eis-me aqui, envia-me a mim.\" (Is 6,8)"
+      },
+      {
+        "dia": 3,
+        "titulo": "O Tesouro Escondido",
+        "oracao": "São Tarcísio, que carregastes as Sagradas Hóstias junto ao vosso peito com supremo respeito e devoção, ensinai-nos a valorizar a presença real de Jesus na Eucaristia. Que saibamos adorar e proteger esse tesouro infinito que Deus nos deixou na terra. Amém.",
+        "meditacao": "Ao receber as hóstias consagradas envoltas em um linho das mãos do Papa Estêvão, Tarcísio as guardou no peito, sob sua túnica. Ele sabia que carregava o próprio Deus do Universo. Na Eucaristia, não temos um símbolo, mas o próprio Jesus em corpo, sangue, alma e divindade. Como tratamos esse sublime mistério ao comungar?",
+        "escritura": "\"O reino dos céus é semelhante a um tesouro escondido num campo.\" (Mt 13,44)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Ataque no Caminho",
+        "oracao": "São Tarcísio, que no caminho para a prisão fostes cercado por companheiros pagãos que queriam ver o que carregavas, ensinai-nos a manter nossa firmeza diante das provocações do mundo. Que saibamos defender nossos princípios e nossa fé com suavidade e inabalável firmeza. Amém.",
+        "meditacao": "No caminho pela via Ápia, Tarcísio encontrou alguns garotos que o convidaram para jogar. Ao verem que ele recusava e segurava algo contra o peito com força, ficaram curiosos e exigiram ver o que era. Tarcísio resistiu firmemente, pois sabia que as hóstias seriam profanadas e pisoteadas. Muitas vezes o mundo tentará nos desviar de nossa caminhada e arrancar de nós o tesouro de nossa fé.",
+        "escritura": "\"Se o mundo vos odeia, sabei que, primeiro do que a vós, me odiou a mim.\" (Jo 15,18)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Devoção Heroica",
+        "oracao": "São Tarcísio, que preferistes sofrer agressões físicas, insultos e pedradas a entregar as hóstias sagradas aos vossos perseguidores, alcançai-nos a graça da fidelidade inabalável. Que prefiramos sofrer qualquer prejuízo material ou dor física a trair o amor de Jesus Cristo. Amém.",
+        "meditacao": "Ao perceberem que Tarcísio carregava o mistério dos cristãos, os garotos e outros transeuntes pagãos começaram a agredi-lo com socos, pontapés e pedras. Mesmo sob uma chuva de golpes terríveis, Tarcísio não abriu os braços; seu único pensamento era proteger o Santíssimo Sacramento. O amor heroico prefere dar a vida a ofender o Amado.",
+        "escritura": "\"Ninguém tem maior amor do que este: de dar alguém a sua vida pelos seus amigos.\" (Jo 15,13)"
+      },
+      {
+        "dia": 6,
+        "titulo": "O Soldado Quadrado",
+        "oracao": "São Tarcísio, que fostes socorrido pelo soldado cristão Quadrado nas ruas de Roma, intercedei por todos os que defendem os indefesos e que são canais de ajuda mútua na fé. Que saibamos apoiar nossos irmãos de comunidade nos momentos de perseguição e dor. Amém.",
+        "meditacao": "Um soldado romano chamado Quadrado, que era cristão secreto, apareceu e dispersou a multidão enfurecida. Ele recolheu o corpo de Tarcísio, que estava gravemente ferido, e o carregou com carinho nas catacumbas. Deus sempre envia Seus anjos e servidores para nos socorrer no momento de nossa aflição. Não estamos sozinhos no combate da fé.",
+        "escritura": "\"O anjo do Senhor acampa-se ao redor dos que o temem, e os salva.\" (Sl 34,7)"
+      },
+      {
+        "dia": 7,
+        "titulo": "O Milagre Eucarístico do Corpo",
+        "oracao": "São Tarcísio, cujo corpo martirizado tornou-se um relicário vivo onde a Eucaristia milagrosamente desapareceu para se fundir com vossa carne, ensinai-nos que a comunhão nos transforma em Cristo. Que sejamos sacrógrafos vivos do Espírito Santo no meio do mundo. Amém.",
+        "meditacao": "Conta a tradição que, após a morte de Tarcísio, os pagãos revistaram seu corpo, mas não encontraram nenhum vestígio da Eucaristia, nem nas suas mãos, nem nas suas vestes. O Sacramento havia se fundido com o corpo do mártir, transformando-o ele mesmo em hóstia santa. Ao comungar, nós nos tornamos aquilo que recebemos: somos transformados em templos vivos de Cristo.",
+        "escritura": "\"Já não sou eu quem vive, mas Cristo vive em mim.\" (Gl 2,20)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Sepultamento nas Catacumbas",
+        "oracao": "São Tarcísio, que fostes sepultado com carinho pelas mãos do Papa e dos fiéis nas catacumbas de São Calixto, intercedei por todas as crianças e adolescentes falecidos. Que durmam na paz do Senhor e ressuscitem para a glória eterna que vós já possuís. Amém.",
+        "meditacao": "Tarcísio foi sepultado na mesma catacumba onde repousavam os papas e mártires da época. O Papa Dâmaso escreveu uma belíssima inscrição em seu túmulo, comparando o martírio de Tarcísio ao de Santo Estêvão: Estêvão foi apedrejado por anunciar a Cristo, e Tarcísio foi morto para defender o próprio Cristo na Eucaristia. A morte do justo é semente de novos cristãos.",
+        "escritura": "\"Se o grão de trigo, caindo na terra, não morrer, fica ele só; mas se morrer, dá muito fruto.\" (Jo 12,24)"
+      },
+      {
+        "dia": 9,
+        "titulo": "Padroeiro dos Servidores do Altar",
+        "oracao": "São Tarcísio, ao concluirmos esta novena, consagramos a vós todos os coroinhas, acólitos e acólitas do mundo inteiro. Guardai-os sob vossa proteção especial. Que o serviço ao altar os aproxime cada dia mais de Deus e os torne homens e mulheres de bem, comprometidos com a verdade, a caridade e a santidade. Amém.",
+        "meditacao": "São Tarcísio foi declarado padroeiro dos coroinhas e acólitos. Ele mostra que a santidade é possível na infância e na juventude, através do amor reverente à Eucaristia. Cada vez que um jovem veste sua túnica para servir ao altar, ele continua o legado de amor e fidelidade de São Tarcísio. Que o vosso exemplo inspire gerações a amar Jesus Sacramentado acima de todas as coisas.",
+        "escritura": "\"Lembra-te do teu Criador nos dias da tua mocidade.\" (Ec 12,1)"
+      }
+    ]
   }
 ]

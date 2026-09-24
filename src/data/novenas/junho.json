@@ -266,5 +266,85 @@
         "escritura": "\"Eis aí tua mãe.\" (Jo 19,27)"
       }
     ]
+  },
+  {
+    "id": "sao-josemaria-escriva",
+    "slug": "novena-sao-josemaria-escriva",
+    "nome": "Novena a São Josemaria Escrivá",
+    "santoSlug": "sao-josemaria-escriva",
+    "mes": 6,
+    "inicioMes": 6,
+    "inicioDia": 17,
+    "fimMes": 6,
+    "fimDia": 25,
+    "descricao": "Novena preparatória à festa de São Josemaria Escrivá, fundador do Opus Dei e apóstolo da santidade no trabalho ordinário, celebrada em 26 de junho.",
+    "intencoes": ["Trabalho", "Família", "Vocação", "Santidade Cotidiana", "Universitários"],
+    "oracaoInicial": "Ó Deus, que concedestes ao vosso sacerdote São Josemaria a graça de anunciar a vocação universal à santidade e ao apostolado, concedei-nos, por sua intercessão, santificar o nosso trabalho cotidiano e encontrar a Deus em todas as circunstâncias da vida ordinária. Amém.",
+    "oracaoFinal": "São Josemaria Escrivá, apóstolo da santidade no trabalho ordinário, rogai por nós.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Vocação Universal à Santidade",
+        "oracao": "São Josemaria, que desde jovem recebestes a iluminação de que todos os cristãos são chamados à plena santidade — não apenas os religiosos e os sacerdotes, mas os médicos, os professores, os pais de família, os operários —, intercedei para que cada batizado compreenda e aceite esta chamada. Que nenhum cristão se julgue dispensado de ser santo. Amém.",
+        "meditacao": "Em 2 de outubro de 1928, num exercício espiritual em Madrid, São Josemaria 'viu' o Opus Dei — a obra que Deus lhe pediu para fundar. O núcleo da mensagem era radicalmente simples e ao mesmo tempo revolucionário: todos os cristãos, sem exceção, são chamados à santidade plena. O Concílio Vaticano II (LG 39-42) confirmaria solenemente esta verdade décadas depois. Você acredita que Deus o chama a ser santo agora, no lugar onde você está?",
+        "escritura": "\"Sede perfeitos como é perfeito o vosso Pai celeste.\" (Mt 5,48)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Santificação do Trabalho",
+        "oracao": "São Josemaria, que ensinas-tes que o trabalho honesto, bem feito e oferecido a Deus, é caminho de santidade e de apostolado, ensinai-nos a trabalhar com esse espírito. Que não sejamos apenas bons profissionais, mas que nosso trabalho se torne oração, amor e missão. Amém.",
+        "meditacao": "São Josemaria ensinou o tríplice ideal: santificar o trabalho, santificar-se no trabalho e santificar os outros pelo trabalho. O trabalho bem feito é a primeira forma de apostolado. Uma cirurgia executada com competência e amor a Deus é uma oração. Um relatório escrito com honestidade é ato de culto. O que mudaria no seu trabalho se você o oferecesse a Deus?",
+        "escritura": "\"Tudo o que fizerdes, fazei-o de todo o coração, como para o Senhor.\" (Cl 3,23)"
+      },
+      {
+        "dia": 3,
+        "titulo": "A Liberdade e a Responsabilidade",
+        "oracao": "São Josemaria, que sempre defendestes com vigor a liberdade dos cristãos nas opções temporais e profissionais, ensinai-nos a cultivar a liberdade interior. Que saibamos distinguir o que é da fé e o que é legítima opção humana, e que atuemos sempre com responsabilidade pessoal e sem medo. Amém.",
+        "meditacao": "São Josemaria insistia: 'O Opus Dei não tem posição política, econômica ou social.' Cada membro age com plena liberdade em sua área profissional e cívica, assumindo pessoalmente as consequências. Esta liberdade é fruto da maturidade cristã. Um cristão maduro não precisa de um 'partido católico' que pense por ele — pensa por si, à luz do Evangelho e da reta razão.",
+        "escritura": "\"Para a liberdade foi que Cristo nos libertou.\" (Gl 5,1)"
+      },
+      {
+        "dia": 4,
+        "titulo": "A Amizade como Apostolado",
+        "oracao": "São Josemaria, que ensinastes que o apostolado mais eficaz é o da amizade e da confiança — influenciar o próximo não pela pressão ou pela pregação imposta, mas pelo testemunho e pela conversa sincera entre amigos — concedei-nos a graça de cultivar amizades verdadeiras e de ser para os outros um espelho de Cristo. Amém.",
+        "meditacao": "São Josemaria chamava o apostolado de 'apostolado de amizade e confiança'. Não se trata de distribuir panfletos religiosos ou forçar conversas sobre fé — mas de ser genuinamente um amigo que dá exemplo, que escuta, que serve, e que no momento oportuno fala de Deus com naturalidade. A melhor pregação é uma vida que responde perguntas que os outros ainda não fizeram.",
+        "escritura": "\"Como eu vos amei, amai-vos também uns aos outros.\" (Jo 13,34)"
+      },
+      {
+        "dia": 5,
+        "titulo": "A Vida de Oração no Meio do Mundo",
+        "oracao": "São Josemaria, que ensinastes a manter uma vida interior intensa no meio das ocupações profissionais e familiares — a 'oração contemplativa em plena rua' —, alcançai-nos a graça de encontrar a Deus no meio do ruído do mundo. Que nossa oração não se limite a momentos isolados, mas permeie todo o nosso dia. Amém.",
+        "meditacao": "São Josemaria propunha momentos diários de oração mental, leitura espiritual, visita ao Santíssimo Sacramento e Rosário — não como fardos, mas como respirações da alma. Mas, além disso, ensinava a 'invocar a Deus ao longo do dia': antes de cada tarefa, ao receber uma notícia difícil, ao olhar para o céu. A vida interior não é um compartimento separado — é a alma de tudo.",
+        "escritura": "\"Orai sem cessar.\" (1Ts 5,17)"
+      },
+      {
+        "dia": 6,
+        "titulo": "A Filiação Divina",
+        "oracao": "São Josemaria, que fundaste toda a espiritualidade do Opus Dei na consciência de sermos filhos amados de Deus em Cristo — 'filiação divina' — ensinai-nos a viver como filhos, não como servos. Que em toda situação, especialmente nas difíceis, nos lembremos de que temos um Pai que nos ama com amor eterno e nos protege. Amém.",
+        "meditacao": "Para São Josemaria, a raiz de toda a vida cristã é a filiação divina: saber-se filho amado de Deus. Não servo, não escravo, não um funcionário cumprindo tarefas — filho. Esta consciência muda tudo: o modo de orar ('Abba, Pai'), o modo de sofrer (confiar ao Pai), o modo de agir (em nome do Pai). 'Deus é meu Pai' — repita isso hoje e deixe ressoar.",
+        "escritura": "\"Vede que amor nos concedeu o Pai, para sermos chamados filhos de Deus, e o somos.\" (1Jo 3,1)"
+      },
+      {
+        "dia": 7,
+        "titulo": "A Unidade de Vida",
+        "oracao": "São Josemaria, que insististes tanto na 'unidade de vida' — não ter uma vida para Deus e outra para o trabalho, mas viver tudo integrado, tudo para Deus, tudo com Deus — ensinai-nos essa integração. Que não sejamos cristãos 'de domingo' e outra coisa durante a semana. Amém.",
+        "meditacao": "'Unidade de vida' é um dos pilares da espiritualidade de São Josemaria. Significa que não há uma esfera 'religiosa' separada da esfera 'profissional' ou 'familiar'. Tudo é uma coisa só. O mesmo homem que reza de manhã é o mesmo que negocia com honestidade ao meio-dia e que abraça a família à noite. A fé não é um departamento da vida — é a vida toda.",
+        "escritura": "\"Glorificai, pois, a Deus no vosso corpo.\" (1Cor 6,20)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Amor à Cruz Cotidiana",
+        "oracao": "São Josemaria, que ensinastes a encontrar na 'Santa Cruz' não apenas o sofrimento extraordinário mas as contrariedades do dia a dia — o cansaço, as incompreensões, os fracassos profissionais, as limitações físicas —, alcançai-nos a graça de abraçar essas cruzes cotidianas com paz e com amor. Amém.",
+        "meditacao": "São Josemaria fundou o Opus Dei em condições durísimas: perseguição religiosa na Espanha dos anos 30, incompreensões dentro da Igreja, hostilidade de meios intelectuais. Porém, usou um sinal que conjuga a Cruz e o Círculo (a terra): a Cruz plantada no mundo. Sofrimento não como fuga do mundo, mas como amor redentivo no coração do mundo. Qual é sua 'santa cruz' de hoje?",
+        "escritura": "\"Se alguém quer vir após mim, renuncie a si mesmo, tome a sua cruz e siga-me.\" (Mt 16,24)"
+      },
+      {
+        "dia": 9,
+        "titulo": "São Josemaria, Modelo de Santidade Moderna",
+        "oracao": "Glorioso São Josemaria Escrivá, ao concluirmos esta novena em vossa honra, pedimos que intercedais por nossas intenções mais profundas. Alcançai-nos a graça de santificar o nosso trabalho, de viver como verdadeiros filhos de Deus, de fazer de cada dia uma oferta de amor ao Pai. Que possamos, como vós, encontrar a Deus em todas as coisas. Amém.",
+        "meditacao": "São Josemaria faleceu em 26 de junho de 1975, pouco antes do Ângelus do meio-dia, na sede do Opus Dei em Roma. Suas últimas palavras foram dirigidas a Nossa Senhora. Foi canonizado por João Paulo II em 6 de outubro de 2002, diante de mais de 300 mil pessoas na Praça de São Pedro. Uma de suas frases mais conhecidas: 'Há um algo santo, divino, escondido nas situações mais comuns, que cabe a cada um de nós descobrir.' Vá descobrí-lo hoje.",
+        "escritura": "\"Glorificai a Deus em tudo o que fazeis.\" (1Cor 10,31)"
+      }
+    ]
   }
 ]

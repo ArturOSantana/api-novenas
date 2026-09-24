@@ -158,5 +158,165 @@
         "escritura": "\"Bom servo e fiel... entra na alegria do teu Senhor.\" (Mt 25,21)"
       }
     ]
+  },
+  {
+    "id": "carlo-acutis",
+    "slug": "novena-carlo-acutis",
+    "nome": "Novena ao Beato Carlo Acutis",
+    "santoSlug": "carlo-acutis",
+    "mes": 10,
+    "inicioMes": 10,
+    "inicioDia": 3,
+    "fimMes": 10,
+    "fimDia": 11,
+    "descricao": "Novena preparatória à festa do Beato Carlo Acutis, o ciberapóstolo da Eucaristia, celebrada em 12 de outubro.",
+    "intencoes": ["Jovens", "Eucaristia", "Fidelidade", "Internet", "Pureza"],
+    "oracaoInicial": "Ó Deus, nosso Pai, que pelo amor de vosso Filho Jesus Cristo na Eucaristia transformastes a vida do Beato Carlo Acutis em um farol de luz para os jovens, concedei-nos, por sua intercessão, a graça de amar a Eucaristia como ele a amou e de colocar Cristo no centro de nossas vidas. Amém.",
+    "oracaoFinal": "Beato Carlo Acutis, rogai por nós e ajudai-nos a fazer da Eucaristia a nossa rodovia para o céu. Amém.",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Eucaristia, Rodovia para o Céu",
+        "oracao": "Beato Carlo Acutis, que fizestes da Sagrada Eucaristia o centro absoluto de vossa vida e a chamastes de 'minha rodovia para o céu', intercedei por nós para que também nós tenhamos fome do Pão da Vida e participemos da Santa Missa e da Adoração Eucarística com fervor e fé. Amém.",
+        "meditacao": "Carlo Acutis dizia que todos nascem como originais, mas muitos morrem como fotocópias. O segredo para manter nossa originalidade divina é a união com Deus. Ele ia à Missa todos os dias desde os 7 anos e passava tempo em adoração ao Santíssimo Sacramento. A Eucaristia cura a alma e nos configura a Cristo.",
+        "escritura": "\"Eu sou o pão vivo que desceu do céu; se alguém comer deste pão, viverá eternamente.\" (Jo 6,51)"
+      },
+      {
+        "dia": 2,
+        "titulo": "Todos Nascem Originais",
+        "oracao": "Beato Carlo Acutis, que tanto insististes em que fôssemos nós mesmos e não meras fotocópias dos outros, ensinai-nos a valorizar os dons únicos que Deus nos deu. Dai-nos a coragem de rejeitar os falsos modelos do mundo para sermos autênticos discípulos de Jesus. Amém.",
+        "meditacao": "Em um mundo que nos pressiona a seguir a massa e a imitar os outros, Carlo nos lembra de nossa identidade divina única. Cada um de nós é um projeto de amor exclusivo de Deus. Seguir os outros cegamente ou buscar a aprovação do mundo nos transforma em cópias vazias. A santidade é a realização de nosso eu mais verdadeiro.",
+        "escritura": "\"Criou Deus o homem à sua imagem; à imagem de Deus o criou.\" (Gn 1,27)"
+      },
+      {
+        "dia": 3,
+        "titulo": "A Internet como Meio de Evangelização",
+        "oracao": "Beato Carlo Acutis, ciberapóstolo da Eucaristia, que usastes vossos talentos na computação e na internet para propagar o amor aos milagres eucarísticos e à fé, intercedei por todos os usuários das redes sociais. Que usemos a tecnologia para o bem, para a verdade e para aproximar as pessoas de Deus. Amém.",
+        "meditacao": "Carlo desenhou um site detalhado sobre os milagres eucarísticos mundiais quando era apenas um adolescente. Ele não usava a internet para vaidade ou diversão vazia, mas para o Evangelho. Ele nos ensina que a tecnologia é neutra, mas nós temos o dever de preenchê-la com a luz de Cristo, combatendo o ódio e a mentira no mundo digital.",
+        "escritura": "\"O que vos digo na escuridão, dizei-o na luz; e o que escutais ao ouvido, pregai-o de cima dos telhados.\" (Mt 10,27)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Amor aos Pobres e Desamparados",
+        "oracao": "Beato Carlo Acutis, que com vossa mesada compráveis sacos de dormir para os sem-teto e distribuíeis comida aos necessitados de Milão em segredo, ensinai-nos a ver Jesus no rosto de cada irmão que sofre. Que nosso coração não seja indiferente à dor do próximo. Amém.",
+        "meditacao": "Embora pertencesse a uma família abastada, Carlo vivia com extrema simplicidade. Ele usava suas economias para ajudar os pobres de sua cidade e fazia amizade com os desamparados e imigrantes. Ele sabia que o amor a Deus e o amor ao próximo são inseparáveis: não se pode adorar Jesus no altar se O ignoramos na rua.",
+        "escritura": "\"Sempre que fizestes isto a um destes meus irmãos mais pequeninos, a mim o fizestes.\" (Mt 25,40)"
+      },
+      {
+        "dia": 5,
+        "titulo": "O Terço Diário e a Mãe de Deus",
+        "oracao": "Beato Carlo Acutis, que amastes a Virgem Maria com ternura filial e consideráveis o Santo Rosário a escada mais curta para subir ao céu, intercedei para que amemos Nossa Senhora e sejamos fiéis à oração mariana diária, encontrando nela proteção e consolo. Amém.",
+        "meditacao": "Carlo chamava a Virgem Maria de 'a única mulher da minha vida'. Ele rezava o terço todos os dias e se confiava inteiramente a ela. A devoção a Maria não é opcional na vida cristã; ela é a mãe que nos acolhe em nossas quedas e nos leva com segurança ao coração de seu Filho Jesus.",
+        "escritura": "\"Eis aí a tua mãe.\" (Jo 19,27)"
+      },
+      {
+        "dia": 6,
+        "titulo": "A Confissão Frequente",
+        "oracao": "Beato Carlo Acutis, que vos confessáveis semanalmente para manter vossa alma sempre limpa e livre do pecado, alcançai-nos a graça de valorizar o Sacramento da Reconciliação. Dai-nos a humildade de reconhecer nossas fraquezas e de buscar sempre o perdão misericordioso de Deus. Amém.",
+        "meditacao": "Carlo comparava a alma a um balão de ar quente que precisa descarregar os pesos para subir ao céu. A confissão frequente é o meio que Deus nos deu para limpar a poeira que se acumula em nossos corações no dia a dia. Não devemos ter medo de confessar nossos pecados, pois lá encontramos não um juiz, mas um Pai amoroso.",
+        "escritura": "\"Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.\" (1Jo 1,9)"
+      },
+      {
+        "dia": 7,
+        "titulo": "A Pureza do Coração",
+        "oracao": "Beato Carlo Acutis, que guardastes a pureza dos vossos olhos, pensamentos e ações em meio a um mundo tão cheio de distrações e apelos carnais, intercedei por nós, especialmente pelos jovens, para que vivamos a castidade e a santidade, mantendo nossos corpos como templos do Espírito Santo. Amém.",
+        "meditacao": "Carlo era um jovem normal: jogava videogame, gostava de futebol e saía com amigos, mas sabia impor limites para preservar sua alma limpa. A pureza não é repressão, mas a liberdade de amar verdadeiramente sem usar as pessoas como objetos de prazer. Beato Carlo nos mostra que é possível ser jovem, moderno e puro.",
+        "escritura": "\"Bem-aventurados os puros de coração, porque verão a Deus.\" (Mt 5,8)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Oferecimento da Dor",
+        "oracao": "Beato Carlo Acutis, que ao ser diagnosticado com leucemia fulminante oferecestes todos os vossos sofrimentos pelo Papa, pela Igreja e para ir direto para o céu sem passar pelo purgatório, ajudai-nos a carregar nossas cruzes cotidianas com paciência, amor e oferecimento salvífico. Amém.",
+        "meditacao": "Quando o médico lhe perguntou se ele sofria muito, Carlo respondeu alegremente: 'Há pessoas que sofrem muito mais do que eu'. Ele transformou sua agonia em um ato supremo de amor pela Igreja e pelas almas. Unir nossos pequenos ou grandes sofrimentos à Paixão de Cristo dá-lhes um valor eterno e redentor.",
+        "escritura": "\"Agora me alegro nos meus sofrimentos por vós, e completo na minha carne o que resta das tribulações de Cristo.\" (Cl 1,24)"
+      },
+      {
+        "dia": 9,
+        "titulo": "A Certeza da Vida Eterna",
+        "oracao": "Beato Carlo Acutis, que enfrentastes a morte com um sorriso nos lábios e a certeza de que a vida não terminava no túmulo, mas se abria para a glória eterna, ajudai-nos a viver cada dia com os olhos fixos no céu, para que, ao final de nossa peregrinação terrena, possamos nos unir a vós na pátria celestial. Amém.",
+        "meditacao": "Carlo dizia: 'Estou feliz em morrer porque vivi minha vida sem desperdiçar sequer um minuto em coisas que não agradam a Deus'. Ele faleceu em 12 de outubro de 2006, aos 15 anos. Sua vida foi breve, mas repleta de eternidade. A santidade não é questão de anos vividos, mas de intensidade de amor. O céu é a nossa verdadeira casa.",
+        "escritura": "\"Combati o bom combate, acabei a carreira, guardei a fé.\" (2Tm 4,7)"
+      }
+    ]
+  },
+  {
+    "id": "santa-teresinha",
+    "slug": "novena-santa-teresinha",
+    "nome": "Novena a Santa Teresinha do Menino Jesus",
+    "santoSlug": "santa-teresinha",
+    "mes": 10,
+    "inicioMes": 9,
+    "inicioDia": 22,
+    "fimMes": 9,
+    "fimDia": 30,
+    "descricao": "Novena preparatória à festa de Santa Teresinha do Menino Jesus, a Pequena Flor do Carmelo e Doutora da Igreja, celebrada em 1 de outubro. Conhecida pela Novena das Rosas.",
+    "intencoes": ["Vocações", "Missões", "Confiança", "Humildade", "Chuva de Rosas"],
+    "oracaoInicial": "Santíssima Trindade, Pai, Filho e Espírito Santo, eu vos agradeço por todos os favores e graças com que enriquecestes a alma de vossa serva Santa Teresinha do Menino Jesus durante os vinte e quatro anos que passou na terra. E, pelos méritos de tão querida santinha, concedei-me a graça que ardentemente vos peço, se for para a vossa maior glória e salvação de minha alma. Amém.",
+    "oracaoFinal": "Santa Teresinha do Menino Jesus, que prometestes derramar uma chuva de rosas sobre o mundo, intercedei por mi e alcançai-me as graças de que necessito. Amém. (Rezar 24 Glórias ao Pai em ação de graças pelos 24 anos de vida de Santa Teresinha).",
+    "dias": [
+      {
+        "dia": 1,
+        "titulo": "A Pequena Via da Infância Espiritual",
+        "oracao": "Ó querida Santa Teresinha, que descobristes o segredo da santidade na infância espiritual — o caminho da pequenez, da confiança absoluta e do abandono total nos braços do Pai —, ensinai-nos a ser humildes de coração e a confiar sem limites na misericórdia divina. Amém.",
+        "meditacao": "Teresinha percebeu que era pequena demais para subir a escada áspera da perfeição por suas próprias forças. Ela buscou um elevador que a levasse até Jesus, e descobriu que esse elevador eram os braços do próprio Salvador. A Pequena Via consiste em reconhecer nossa fraqueza e nos lançarmos com confiança audaciosa no amor de Deus, que se inclina sobre nossa pequenez.",
+        "escritura": "\"Quem não receber o reino de Deus como uma criança, de modo algum entrará nele.\" (Mc 10,15)"
+      },
+      {
+        "dia": 2,
+        "titulo": "A Vocação é o Amor",
+        "oracao": "Ó Santa Teresinha, que após buscar ansiosamente vosso lugar no corpo da Igreja exclamastes com alegria: 'No coração da Igreja, minha Mãe, eu serei o Amor!', ajudai-nos a descobrir e a viver nossa verdadeira vocação, que é amar a Deus e fazer com que Ele seja amado por todos. Amém.",
+        "meditacao": "Lendo a Primeira Carta aos Coríntios, capítulo 13, Teresinha compreendeu que todas as vocações — apóstolo, mártir, doutor — seriam inúteis se não houvesse o amor. O amor é o motor da Igreja. Ela percebeu que sua vocação abrangia todos os tempos e lugares. Não importa o que fazemos, mas o amor com que fazemos.",
+        "escritura": "\"Se eu não tiver amor, de nada me serve.\" (1Cor 13,3)"
+      },
+      {
+        "dia": 3,
+        "titulo": "A Chuva de Rosas",
+        "oracao": "Ó Santa Teresinha, que prometestes passar o vosso Céu fazendo o bem na terra e derramando uma chuva de rosas sobre todos os que vos invocam com fé, ouvi minhas preces nesta novena e fazei cair sobre minha vida as pétalas da graça, da paz e do amor divino. Amém.",
+        "meditacao": "Pouco antes de morrer, Teresinha profetizou: 'Sinto que minha missão vai começar... a missão de fazer amar o bom Deus como eu O amo, de dar minha pequena via às almas. Quero passar meu Céu fazendo o bem na terra'. As 'rosas' são as graças e milagres que ela alcança de Deus para nós, sinais visíveis de sua constante intercessão.",
+        "escritura": "\"O amor nunca passa.\" (1Cor 13,8)"
+      },
+      {
+        "dia": 4,
+        "titulo": "O Amor nas Pequenas Coisas",
+        "oracao": "Ó Santa Teresinha, que transformastes as tarefas diárias e mais simples do carmelo em sublimes atos de amor, ensinai-nos a santificar nossa rotina cotidiana. Que saibamos sorrir nas dificuldades, suportar com paciência os defeitos alheios e oferecer cada pequeno sacrifício pela salvação das almas. Amém.",
+        "meditacao": "No silêncio do mosteiro, Teresinha não realizava grandes milagres ou feitos extraordinários. Ela limpava o refeitório, lavava as roupas e lidava com irmãs de temperamento difícil. No entanto, ela fazia tudo com um amor imenso, oferecendo cada pequeno gesto pela conversão dos pecadores. Para Deus, nenhum ato de amor é pequeno.",
+        "escritura": "\"Quem é fiel no pouco, também é fiel no muito.\" (Lc 16,10)"
+      },
+      {
+        "dia": 5,
+        "titulo": "Padroeira das Missões",
+        "oracao": "Ó Santa Teresinha, que embora enclausurada no Carmelo de Lisieux tinhas um coração sem fronteiras e fostes proclamada Padroeira das Missões, intercedei por todos os missionários, sacerdotes e catequistas. Concedei-lhes ardor apostólico e fortalecei as comunidades que anunciam o Evangelho nas terras mais distantes. Amém.",
+        "meditacao": "Teresinha correspondia-se com missionários que estavam na China e na África, orando diariamente por eles e oferecendo seus sofrimentos pelo sucesso de suas missões. Ela nos ensina que a oração e o sacrifício oculto são a alma de toda a atividade apostólica da Igreja. Todos nós somos chamados a ser missionários onde quer que estejamos.",
+        "escritura": "\"Ide por todo o mundo e pregai o Evangelho a toda criatura.\" (Mc 16,15)"
+      },
+      {
+        "dia": 6,
+        "titulo": "A Noite da Fé e a Provação",
+        "oracao": "Ó Santa Teresinha, que no final de vossa vida atravessastes a terrível noite escura da fé, sentando-vos à 'mesa dos pecadores' e experimentando a tentação do nada, intercedei pelos que sofrem com a dúvida, a depressão e a aridez espiritual. Que encontrem em Deus sua única rocha de salvação. Amém.",
+        "meditacao": "Durante dezoito meses de terrível provação espiritual, Teresinha perdeu todo o sentimento de consolo religioso e parecia cercada de trevas sobre a existência do Céu. No entanto, sua fé manteve-se firme por meio de puros atos de vontade e amor. Ela aceitou essa provação para se solidarizar com os ateus e os que não têm fé, ensinando-nos a amar a Deus mesmo no silêncio e na escuridão.",
+        "escritura": "\"O meu Deus, o meu Deus, por que me abandonaste?\" (Sl 22,2)"
+      },
+      {
+        "dia": 7,
+        "titulo": "A Confiança na Misericórdia",
+        "oracao": "Ó Santa Teresinha, que escrevestes que a vossa confiança em Deus era tão grande que, mesmo se tivesses cometido todos os crimes possíveis, te atiraríeis arrependida nos braços de Jesus, ensinai-nos a confiar sempre na infinita misericórdia do Pai, que acolhe a todos com amor perdoador. Amém.",
+        "meditacao": "Teresinha compreendeu que a justiça de Deus é revestida de misericórdia. Ela sabia que Deus conhece a nossa frágil argila e nos ama não por nossos méritos, mas por Sua imensa bondade. A confiança audaciosa desarma o coração de Deus e atrai Sua graça sobre nós. Não há pecado que possa vencer o amor misericordioso do Pai.",
+        "escritura": "\"Como um pai tem compaixão de seus filhos, assim o Senhor tem compaixão dos que o temem.\" (Sl 103,13)"
+      },
+      {
+        "dia": 8,
+        "titulo": "O Sofrimento Transfigurado",
+        "oracao": "Ó Santa Teresinha, que consumida pela tuberculose enfrentastes as dores físicas e espirituais com paciência heroica e um sorriso nos lábios, ensinai-nos a transfigurar nossa dor. Que saibamos unir nossos sofrimentos aos de Jesus na cruz para a redenção do mundo. Amém.",
+        "meditacao": "Em sua dolorosa agonia, Teresinha dizia: 'Não me arrependo de ter me entregue ao Amor'. Ela via no sofrimento uma oportunidade preciosa de se assemelhar ao seu Amado Jesus Crucificado e de salvar almas. O sofrimento não é um fim em si mesmo, mas quando unido à cruz de Cristo torna-se fecundo, purificador e fonte de ressurreição.",
+        "escritura": "\"Se morremos com ele, com ele também viveremos.\" (2Tm 2,11)"
+      },
+      {
+        "dia": 9,
+        "titulo": "A Oferta ao Amor Misericordioso",
+        "oracao": "Ó Santa Teresinha, ao concluirmos esta novena, nós nos unimos ao vosso ato de consagração e nos oferecemos inteiramente como vítimas de holocausto ao vosso Amor Misericordioso. Consumi-nos no fogo do vosso amor e guiai-nos pelo vosso Pequeno Caminho até o banquete eterno do Reino dos Céus. Amém.",
+        "meditacao": "Em 1895, Teresinha ofereceu-se ao Amor Misericordioso de Deus, desejando ser consumida pelas chamas do amor divino. Suas últimas palavras antes de expirar foram: 'Meu Deus... eu vos amo!'. Que nossa vida inteira, em suas alegrias e dores, seja um cântico de amor a Deus. A santidade é, afinal, deixar-se amar e amar em resposta.",
+        "escritura": "\"Nós amamos, porque ele nos amou primeiro.\" (1Jo 4,19)"
+      }
+    ]
   }
 ]
